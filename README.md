@@ -3,7 +3,7 @@
 
 ## Pojetí státu
 
-Je nesporné, že pojetí státu má dalekosáhlé důsledky pro každodenní politické rozhodování, pro hlasování o detailech kterékoli legislativní předlohy. Ideje a ideologie mají zásadní význam při získávání podpory lidí pro konkrétní politiku.[[[1]](#ref-1)](#ref-1) Politika bez filosofického obsahu se stává pouhým mechanickým bojem o moc a zákonitě vede k úpadku svobody.[[2]](#ref-2)
+Je nesporné, že pojetí státu má dalekosáhlé důsledky pro každodenní politické rozhodování, pro hlasování o detailech kterékoli legislativní předlohy. Ideje a ideologie mají zásadní význam při získávání podpory lidí pro konkrétní politiku.[[1]](#ref-1) Politika bez filosofického obsahu se stává pouhým mechanickým bojem o moc a zákonitě vede k úpadku svobody.[[2]](#ref-2)
 
 #### Pro Svobodné má stát smysl
 
@@ -165,7 +165,7 @@ V současné době je naléhavou prioritou ochrana jednotlivce před zásahy st�
 
 #### Soukromí a vlastnické právo
 
-Soukromí a vlastnictví je pro Svobodné jedním ze základních pilířů svobodné společnosti. Vlastnické právo je právem absolutním. Svobodní jsou zásadně proti návrhům umožňujícím vyvlastňování majetku ve prospěch kohokoli, oprávněné není ani vyvlastňování ve veřejném zájmu‘ [[31]](#ref-31) . Pokud má mít svobodná společnost šanci na přetrvání, musejí občané nejprve uznat a přijmout za své, že jakýkoliv zásah proti svobodě a majetku jednotlivce je nepřípustným násilím a že jedinou racionální funkcí státu je takovému násilí bránit a zasahovat proti němu. Především vláda se nesmí takového násilí dopouštět. V demokratickém státě musí být považováno za zlo, jestliže je někdo nucen k obětování svých hodnot ve prospěch druhého.
+Soukromí a vlastnictví je pro Svobodné jedním ze základních pilířů svobodné společnosti. Vlastnické právo je právem absolutním. Svobodní jsou zásadně proti návrhům umožňujícím vyvlastňování majetku ve prospěch kohokoli, oprávněné není ani vyvlastňování ve veřejném zájmu [[31]](#ref-31). Pokud má mít svobodná společnost šanci na přetrvání, musejí občané nejprve uznat a přijmout za své, že jakýkoliv zásah proti svobodě a majetku jednotlivce je nepřípustným násilím a že jedinou racionální funkcí státu je takovému násilí bránit a zasahovat proti němu. Především vláda se nesmí takového násilí dopouštět. V demokratickém státě musí být považováno za zlo, jestliže je někdo nucen k obětování svých hodnot ve prospěch druhého.
 
 #### Rovnost před zákonem
 
@@ -194,11 +194,11 @@ Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze 
 
 Stát na základě směrnic EU podporuje neefektivní využívání zdrojů. V České republice se tak povinně na základě pokřivených cen a dotací vyrábí drahá elektřina ze solárních panelů a větrníků, přestože technologie a přírodní podmínky neumožňují efektivní využití těchto zdrojů. Důsledkem je růst cen elektřiny pro domácnosti i firmy. Svobodní jsou pro zrušení minimálních výkupních cen a povinného odkupu elektřiny z tzv. alternativních zdrojů. Svobodní jsou také pro zrušení povinnosti přimíchávat biopaliva do nafty a benzínu. Tato politika zdražuje paliva i potraviny.
 
-Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou buď pro zrušení daní z plynu, elektřiny a uhlí, nebo pro jejich plošné uplatňování. (Svobodní jsou pro sjednocení DPH na úrovni 15%, daně z uhlí, elektřiny a plynu pak mohou být uvaleny v takové výši, aby celkové daňové zatížení elektřiny, plynu a uhlí zůstalo nedotčeno).
+Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou buď pro zrušení daní z plynu, elektřiny a uhlí, nebo pro jejich plošné uplatňování. (Svobodní jsou pro sjednocení DPH na úrovni 15 %, daně z uhlí, elektřiny a plynu pak mohou být uvaleny v takové výši, aby celkové daňové zatížení elektřiny, plynu a uhlí zůstalo nedotčeno).
 
 #### Export a investice
 
-Stát není od toho, aby dotacemi podporoval vývoz zboží či příliv investic. Stát musí využívat diplomacii k usnadnění mezinárodního obchodu, aby čeští výrobci měli snadný přístup na zahraniční trhy, nemá ale firmám asistovat v jejich podnikání. Svobodní jsou pro zrušení agentur Czechtrade a Czechinvest, ušetří se tak peníze daňových poplatníků a vytvoří se rovné podnikatelské prostředí. Stát nemá pobídkami zvýhodňovat zahraniční či velké firmy před domácími či menšími firmami. Svobodní jsou pro zrušení zákona o investičních pobídkách, všechny firmy mají platit stejnou nízkou daň z příjmu právnických osob, která musí být mezinárodně konkurenceschopná. Svobodní jsou pro případné snižování sazby této daně z platných 19%, pokud si to vyžádá mezinárodní daňová konkurence. Zatím se však tato sazba jeví jako konkurenceschopná.
+Stát není od toho, aby dotacemi podporoval vývoz zboží či příliv investic. Stát musí využívat diplomacii k usnadnění mezinárodního obchodu, aby čeští výrobci měli snadný přístup na zahraniční trhy, nemá ale firmám asistovat v jejich podnikání. Svobodní jsou pro zrušení agentur Czechtrade a Czechinvest, ušetří se tak peníze daňových poplatníků a vytvoří se rovné podnikatelské prostředí. Stát nemá pobídkami zvýhodňovat zahraniční či velké firmy před domácími či menšími firmami. Svobodní jsou pro zrušení zákona o investičních pobídkách, všechny firmy mají platit stejnou nízkou daň z příjmu právnických osob, která musí být mezinárodně konkurenceschopná. Svobodní jsou pro případné snižování sazby této daně z platných 19 %, pokud si to vyžádá mezinárodní daňová konkurence. Zatím se však tato sazba jeví jako konkurenceschopná.
 
 #### Doprava
 
@@ -263,7 +263,7 @@ Jedná se o tyto daně:
 - Daň z uhlí
 - Sjednocení DPH
 
-Navrhujeme sjednotit DPH na sazbě 15%.
+Navrhujeme sjednotit DPH na sazbě 15 %.
 
 ##### Zrušení daně z nemovitosti
 
@@ -381,7 +381,7 @@ Platby za stravu v nemocnici se budou odvíjet od konkrétních podmínek zdravo
 
 #### Placení pojistného
 
-Stát dnes vybírá pro zdravotní pojišťovny 13,5% mzdy (4,5% se strhává ze mzdy, 9% se platí nad rámec hrubé mzdy), což z průměrné mzdy 20.000 Kč představuje měsíčně 2700 korun. Za důchodce, děti a nezaměstnané (celkem za 6 milionů lidí) platí navíc pojistné zdravotním pojišťovnám vláda ze státního rozpočtu, a to ve výši sazby zdravotního pojištění násobené fiktivním vyměřovacím základem. Platba za státní pojištěnce aktuálně činí 727 Kč (13,5% z fiktivního vyměřovacího základu 5381 Kč). Svobodní chtějí část nynějších odvodů stanovených procentem z mezd transformovat na skutečné pojištění nezávislé na výši mzdy a část zachovat, aby z nich stát hradil platby za státní pojištěnce.
+Stát dnes vybírá pro zdravotní pojišťovny 13,5 % mzdy (4,5 % se strhává ze mzdy, 9 % se platí nad rámec hrubé mzdy), což z průměrné mzdy 20.000 Kč představuje měsíčně 2.700 korun. Za důchodce, děti a nezaměstnané (celkem za 6 milionů lidí) platí navíc pojistné zdravotním pojišťovnám vláda ze státního rozpočtu, a to ve výši sazby zdravotního pojištění násobené fiktivním vyměřovacím základem. Platba za státní pojištěnce aktuálně činí 727 Kč (13,5 % z fiktivního vyměřovacího základu 5.381 Kč). Svobodní chtějí část nynějších odvodů stanovených procentem z mezd transformovat na skutečné pojištění nezávislé na výši mzdy a část zachovat, aby z nich stát hradil platby za státní pojištěnce.
 
 
 ## Sociální politika
@@ -475,7 +475,7 @@ Koneckonců, nejnižší nezaměstnanost nacházíme v zemích, které jsou na �
 
 Samotná činnost úřadů práce stojí 2,7 miliardy korun. Dosavadní činnost úřadů práce přitom ukazuje, že stát není schopen lidem nacházet práci, efektivně tak činí soukromé internetové agentury práce. Svobodní proto prosazují zrušení úřadů práce po vzoru liberální reformy státu Michigan.[[65]](#ref-65)
 
-Svobodní prosazují, aby nemocenské pojištění bylo pro zaměstnance dobrovolné stejně, jako je dnes dobrovolné pro osoby samostatně výdělečně činné. Zaměstnanci nebudou platit povinné nemocenské pojištění ve výši 2,4% hrubé mzdy (čili 480 Kč z průměrné mzdy)[[66]](#ref-66) a sami se rozhodnou, zda se chtějí pojistit.
+Svobodní prosazují, aby nemocenské pojištění bylo pro zaměstnance dobrovolné stejně, jako je dnes dobrovolné pro osoby samostatně výdělečně činné. Zaměstnanci nebudou platit povinné nemocenské pojištění ve výši 2,4 % hrubé mzdy (čili 480 Kč z průměrné mzdy)[[66]](#ref-66) a sami se rozhodnou, zda se chtějí pojistit.
 
 Svobodní chtějí zaručit smluvní svobodu, pokud jde o práci. Chtějí proto
 
@@ -484,7 +484,7 @@ Svobodní chtějí zaručit smluvní svobodu, pokud jde o práci. Chtějí proto
 
 Svobodní současně navrhují, aby Česká republika vystoupila z Mezinárodní organizace práce (ILO), protože členství v ní je svazující s ohledem na zamýšlené reformy pracovního zákonodárství.[[67]](#ref-67) Svobodní jsou pro zachování pravidel daných zákoníkem práce pro ty zaměstnavatele a zaměstnance, kterým budou vyhovovat. Pokud se ale zaměstnavatel a zaměstnanec budou chtít shodnout na odlišných podmínkách, měli by mít k tomu smluvní volnost.
 
-‚Svobodná pracovní smlouva‘ podepsaná mimo zákoník práce by tak mohla např. obsahovat po vzoru Ostrova Man výpovědní lhůtu závislou na délce zaměstnání. Na Manu mají výpovědní lhůtu v délce 1 týden za každý rok práce u daného zaměstnavatele, maximálně však 3 měsíce při výpovědi ze strany zaměstnavatele a max. 1 měsíc při výpovědi ze strany zaměstnance. Zaměstnavatelé se proto nezdráhají přijímat nové zaměstnance nebo nejsou v pokušení uzavírat smlouvy na dobu určitou nebo jim ukončovat a obnovovat pracovní poměr s uplynutím zkušební doby a uvádět tak své zaměstnance do zbytečné nejistoty. I díky tomu mají na Ostrovu Man nezaměstnanost ve výši pouhého 0,5%.[[68]](#ref-68)
+‚Svobodná pracovní smlouva‘ podepsaná mimo zákoník práce by tak mohla např. obsahovat po vzoru Ostrova Man výpovědní lhůtu závislou na délce zaměstnání. Na Manu mají výpovědní lhůtu v délce 1 týden za každý rok práce u daného zaměstnavatele, maximálně však 3 měsíce při výpovědi ze strany zaměstnavatele a max. 1 měsíc při výpovědi ze strany zaměstnance. Zaměstnavatelé se proto nezdráhají přijímat nové zaměstnance nebo nejsou v pokušení uzavírat smlouvy na dobu určitou nebo jim ukončovat a obnovovat pracovní poměr s uplynutím zkušební doby a uvádět tak své zaměstnance do zbytečné nejistoty. I díky tomu mají na Ostrovu Man nezaměstnanost ve výši pouhého 0,5 %.[[68]](#ref-68)
 
 Svobodná pracovní smlouva by obsahovala smluvní volnost, i pokud jde o výši mzdy.
 
@@ -503,7 +503,7 @@ V oblasti vysokoškolského vzdělávání vycházejí Svobodní z principu, že
 
 Svobodní jsou pro zefektivnění systému hodnocení a financování veřejného výzkumu[[70]](#ref-70). Cílem změn musí být omezení uplatnění osobních vztahů, rozhodovacích pravomocí úředníků a jmenovaných komisí, a zajištění větší pružnosti v použití financí pro výzkumníky.
 
-Z obtížnosti hledání optima financování veřejného výzkumu plyne, že není možné stanovovat celoevropské strategie financování vědy (jako např. tzv. "Lisabonská strategie").
+Z obtížnosti hledání optima financování veřejného výzkumu plyne, že není možné stanovovat celoevropské strategie financování vědy (jako např. tzv. „Lisabonská strategie“).
 
 Vycházejíce z výše formulovaných východisek Svobodní navrhují:
 
@@ -791,7 +791,7 @@ Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou 
 
 <a name="ref-71"></a>[71]: Poměr veřejného a soukromého školství viz tabulka na konci článku na http://www.zkola.cz/zkedu/rodiceaverejnost/vybirameskolu/soukromeacirkevniskoly/29891.aspx
 
-<a name="ref-72"></a>[72]: Základní dotace na žáka či studenta činí u soukromých základních škol jen 60% a u škol středních 80% dotace pro obdobnou školu veřejnou. Zákon 562/2004 Sb., viz http://www.msmt.cz/uploads/soubory/sb190_04.pdf, část desátá, pod §4 a §5.
+<a name="ref-72"></a>[72]: Základní dotace na žáka či studenta činí u soukromých základních škol jen 60 % a u škol středních 80 % dotace pro obdobnou školu veřejnou. Zákon 562/2004 Sb., viz http://www.msmt.cz/uploads/soubory/sb190_04.pdf, část desátá, pod §4 a §5.
 
 <a name="ref-73"></a>[73]: Na dotaci mají právní nárok pouze veřejné VŠ, nikoliv soukromé. Zákon č. 111/1998 Sb., o vysokých školách, viz http://www.msmt.cz/uploads/soubory/zakony/VKZakonplatnezneni111_1998.pdf , pod §18.
 
