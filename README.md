@@ -68,32 +68,33 @@ Rada Evropy sdružuje nejširší okruh evropských států, které se zavazují
 
 #### Evropa
 
-Evropa svobodných národů a národní státy svobodných občanů
+Svobodní považují stávající pokus o integraci evropských států za slepou uličku. Současný demokratický deficit (přesněji řečeno nedemokratické poměry) panující v Evropské unii není způsoben tím, že se nepovedlo uskutečnit dobré ideály, ale je úmyslným pokusem o odstranění tradičních evropských hodnot jako je svoboda, demokracie, důstojnost člověka, pluralita názorů, odpovědnost politiků občanům. Instituce jako je Evropský parlament nebo Evropská rada mají jediný cíl: aby tuto skutečnost zamaskovaly.
 
-Pro zahraniční politiku České republiky, podobně jako u dalších středoevropských států, je určující polarita vztahů mezi Německem a Ruskem[[24]](#ref-24). Tyto zásadní geopolitické vztahy se vždy vyvíjely podle toho, jaký typ politiky a mocenských zájmů v geostrategicky klíčovém prostoru centrálního pásma střední Evropy převládal.
+Zákonitým důsledkem systému, který byl navržen tak, aby byla odstraněna demokratická politická kontrola veřejného rozhodování, je obrovské množství zbytečných právních norem iniciovaných na úrovni EU, které jdou proti zdravému rozumu a proti zájmu občanů. Úředníci mnoha svými rozhodnutími o kvótách a regulacích přinášejí občanům náklady, které postupně z EU vytvořily stagnující a konkurenceneschopný region, který zaostává za světem.
 
-Dnešní geopolitický stav centrálního pásma střední Evropy a s ním neodlučně spjaté východní otázky je výsledkem působení několika politických faktorů, v tomto případě protichůdných:
+EU prosazuje koncept tzv. vnitřního trhu, který je velmi vzdálen konceptu volného trhu. Vnitřní trh EU podléhá jednotné regulaci a je uzavřený do sebe.
 
-- geopolitické mocenské úsilí Evropské unie vedené Německem ovládnout tento prostor ve strategické kooperaci s Ruskem, které postupně odstraňuje demokracii.
-- snahy části demokratické politické reprezentace států centrálního pásma střední Evropy, zejména v České republice a Polsku, takovému vývoji zabránit a Evropskou unii přeměnit v uskupení svobodně spolupracujících rovnoprávných evropských demokracií bez ohledu na jejich velikost.
+Ve svém důsledku stávající směřování Unie nepřináší původně deklarované cíle - hospodářské sbližování mezi jednotlivými státy a odstraňování historických nevraživostí mezi národy Evropy. Právě naopak.
 
-Zahraničně-politickým cílem Svobodných ve vztahu k EU je v součinnosti s dalšími evropskými demokraciemi prosadit Evropskou dohodu (viz Příloha 2). Nebude-li možné nalézt shodu na podobném uspořádání evropských poměrů[[25]](#ref-25), budou Svobodní navrhovat, aby za určitých podmínek Česká republika opustila Evropskou unii a aby se stala členem EFTA, to znamená, že by nebyl narušen volný obchod ČR se zeměmi EU.
+Skutečná reforma Unie není možná, protože samotné základy této evropské integrace byly špatně položeny a směřují ke stále těsnější unii.
 
-Evropě nikdy neprospělo, pokud se jí někdo pokoušel, ať už pod jakoukoli ideologií, sjednotit do jediné říše či státu. Evropa má svůj smysl a svou sílu právě ve své mnohotvárnosti.[[26]](#ref-26) Svobodní si přejí evropský kontinent jako dobrovolnou, flexibilní spolupráci svrchovaných, rovnoprávných demokratických států. Flexibilita musí umožňovat, aby některé státy spolupracovaly mezi sebou intenzivněji než ostatní na dvoustranné či vícestranné úrovni, aniž by se tyto iniciativy jakkoli dotkly států, které se na nich nepodílí. Zejména v krizovém období je v mnoha oblastech snadnější nalézt řešení pro jednotlivé státy, zatímco na integrované úrovni se řešení hledá jen obtížně a s vysokými náklady.
+Evropa potřebuje obrat k demokracii spočívající v návratu moci svrchovaným státům, se kterými se občané mohou identifikovat.
 
-Svobodní odmítají názor, že Evropa musí být velká, silná a jednotná, aby přežila dnešní ekonomickou, politickou a vojenskou konkurenci ve světě. Pravidla OECD a WTO poskytují dostatečný prostor pro hospodářskou spolupráci překračující hranice.
+Svobodní odmítají názor, že Evropa musí být centralizovaná a unifikovaná, aby přežila dnešní ekonomickou, politickou a vojenskou konkurenci ve světě. Pravidla OECD a WTO poskytují dostatečný prostor pro hospodářskou spolupráci překračující hranice.
 
-Evropa potřebuje obrat k demokracii spočívající v návratu moci národním státům, národním parlamentům, se kterými se občané mohou identifikovat.[[27]](#ref-27)
+Svobodní si přejí zakládat bezpečnost České republiky a Evropy na kolektivní obraně v rámci Severoatlantické aliance. Nesouhlasí se snahami dát Evropské unii vojenský rozměr (v rámci Evropské obranné a bezpečnostní politiky), a koncipovat ji jako protiváhu Spojeným státům v bezpečnostním nebo politickém smyslu.
 
-Svobodní si přejí zakládat bezpečnost České republiky a Evropy na kolektivní obraně v rámci Severoatlantické aliance. Nesouhlasí se snahami dát Evropské unii vojenský rozměr (Evropská obranná a bezpečnostní politika) a koncipovat ji jako protiváhu Spojeným státům v bezpečnostním nebo politickém smyslu.
+Pro Svobodné jsou základními a tradičními hodnotami evropské civilizace principy svobody, plurality a demokratického rozhodování. Jedině na nich lze založit pokojnou spolupráci evropských států. Svobodní jsou si jisti, že všechny pozitivní aspekty evropské spolupráce, které některý stát považuje za užitečné, lze nahradit smlouvami uzavřenými na principech dobrovolnosti.
 
-Postupným předáváním kompetencí na úroveň EU nastala situace, že téměř všechny okruhy veřejné správy a politické odpovědnosti jsou regulovány na evropské úrovni za cenu nepřiměřeného rozsahu regulací (desítky tisíc právních norem, které by jinak nebyly nutné). Jakkoli budou Svobodní usilovat o změnu tohoto systému a návrat mnohých pravomocí na úroveň států, je třeba v současné době brát toto uspořádání jako fakt. Proto je třeba počítat s tím, že je třeba v mnoha oblastech prosazovat návrhy na evropské úrovni, jakkoli obtížné to může být.
+Protože současný pokus o integraci v rámci EU, který způsobil stagnaci a neschopnost konkurence jejích členů, musí dříve či později selhat, je nutné minimalizovat nepříznivé důsledky pro Českou republiku v případě nekoordinované dezintegrace Unie. Je třeba připravovat jak včasné oddělení České republiky od Unie, tak i alternativní podobu spolupráce.
 
-Svobodní jsou pro liberalizaci obchodu uvnitř EU. Za zvláště problematické odvětví je třeba označit zemědělství, kde se nyní uplatňuje složitý systém dotací a s ním spojených výrobních kvót. Svobodní jsou pro úplné odstranění kvót i dotací. Zemědělci by se mohli konečně soustředit na vlastní hospodaření a ne primárně přemýšlet, jaký formulář EU a jak vyplnit, aby mohli přežít ‚díky‘ evropským dotacím.
+Proto Svobodní navrhují hlasování o vystoupení z Evropské unie a jednoznačně doporučují, aby Česká republika z EU vystoupila.
 
-Evropská unie by měla být otevřená světu a nikoli protekcionistická. Vývoj světové ekonomiky vyžaduje, aby evropské země pokračovaly v procesu odstraňování překážek obchodu v celosvětovém měřítku. Prohloubení liberalizace obchodu na celosvětové úrovni by prospělo jak evropským státům, tak jejich obchodním partnerům a dokonce i méně rozvinutým zemím.
+Následně je pro Svobodné východiskem dobrovolná spolupráce států, jak ji například můžeme vidět v základních dokumentech Evropského sdružení volného obchodu (ESVO, anglická zkratka EFTA). Princip dobrovolnosti v důsledku zabezpečí, aby kooperace probíhala tak, že je pro zúčastněné státy výhodná. Ke každé formě spolupráce se připojí pouze ty státy, které se pro to samy rozhodnou. Každý jednotlivý případ kooperace může kterýkoli stát zrušit odstoupením od příslušné smlouvy. Rozhodování v dobrovolném systému spolupráce je vždy založeno na principu konsensu a respektu ke svrchovanosti států.
 
-Svobodní chtějí bojovat proti trvajícím snahám zavádět v Evropě centrální plánování a proti nadměrné regulaci.
+EFTA není na rozdíl od EU založena na byrokracii, přerozdělování peněz a dotacích, na společné měně a na přehlasovávání jedněch druhými. Evropské sdružení volného obchodu je založeno na dobrovolné spolupráci, volném obchodu a volném cestování. Členství v EFTA automaticky znamená bezcelní obchod s desítkami zemí světa, s nimiž EFTA uzavřela dohody o volném obchodu. Přístup na trh EU by nám i nadále mohla zajišťovat smlouva o Evropském hospodářském prostoru (EHP). Dlouhodobým cílem Svobodných je reforma EHP, která by minimalizovala vliv EU na legislativu EFTA.
+
+Po vystoupení z EU se můžeme rozhodnout, jestli zůstat součástí tzv. Schengenského prostoru, který zajišťuje volný pohyb osob. 
 
 #### Vztahy se sousedními státy
 
