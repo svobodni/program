@@ -1,17 +1,17 @@
 # Politický program Strany svobodných občanů
 
 
-## Pojetí státu
+## I. Pojetí státu
 
 Je nesporné, že *pojetí státu má dalekosáhlé důsledky* pro každodenní politické rozhodování, pro hlasování o detailech kterékoli legislativní předlohy. Ideje a ideologie mají zásadní význam při získávání podpory lidí pro konkrétní politiku.[[1]](#ref-1) Politika bez filosofického obsahu se stává pouhým mechanickým bojem o moc a zákonitě vede k úpadku svobody.[[2]](#ref-2)
 
-### Pro Svobodné má stát smysl
+### 1. Pro Svobodné má stát smysl
 
 Stát je politické společenství[[3]](#ref-3) s vlastním řádem[[4]](#ref-4) vztahujícím se na vymezené území[[5]](#ref-5), jehož úkolem je zabezpečovat především individuální svobodu svých občanů. Jinak řečeno stát je společenstvím osob a majetku, garantuje uspořádané vztahy mezi lidmi a vlastnické vztahy, je oprávněn a povinen řešit spory občanů. Demokratický stát je založen na systému vlády reprezentující na zastupitelském principu vůli občanů[[6]](#ref-6). Řád reprezentovaný státem musí být spravedlivý. Pokud stát nenaplňuje své poslání nebo používá nepřiměřené prostředky k dosažení svých cílů, je jeho legitimita zpochybněna.[[7]](#ref-7)
 
 Stát není protikladem občanské společnosti[[8]](#ref-8), obojí stejným způsobem odvozuje svůj původ od lidu – svobodných občanů. Politický řád a jeho instituce jsou neoddělitelnou součástí občanské společnosti[[9]](#ref-9). Politické struktury nemohou, nemají a nesmí být nahrazovány žádnými alternativami.
 
-### Moc musí být omezena
+### 2. Moc musí být omezena
 
 Jedním z největších pokušení pro lidskou bytost je touha po moci[[10]](#ref-10). I svěřená moc lidskou psychiku korumpuje a devastuje[[11]](#ref-11). Opakované selhávání politiků způsobuje, že stát vykazuje trvalou tendenci usurpovat si svobodný prostor svých občanů[[12]](#ref-12), ačkoliv vlastním posláním politického společenství je chránit svobodu jednotlivce včetně jeho práv, zejména majetkových.
 
@@ -19,7 +19,7 @@ Stát má a musí mít monopol na legitimizaci použití síly a donucovací moc
 
 V praktické politice vždy, když by měla být moc státu posílena, musí být zároveň posílena kontrola moci.[[13]](#ref-13) Svobodní jsou proti zneužívání státu[[14]](#ref-14).
 
-### Svrchovanost
+### 3. Svrchovanost
 
 Stát je a má být právnickou osobou, subjektem mezinárodního práva. Svrchovanost státu (suverenita) je výsledkem historické kontinuity státnosti stejně jako výrazem filosofické identity (myšlenky), na které se zakládá. Stát není filosoficky neutrální, ačkoli není vázán na žádnou výlučnou ideologii[[15]](#ref-15).
 
@@ -30,29 +30,29 @@ Stát není podřízen jiným institucím[[17]](#ref-17). Je vrcholnou autoritou
 Ze svrchovanosti státu vyplývá i to, že stát je jediným zdrojem práva pro své území.
 
 
-## Zahraniční politika
+## II. Zahraniční politika
 
-### Obecná východiska
+### 1. Obecná východiska
 
 Východiskem pro utváření koncepce zahraničních vztahů Svobodných je svrchovanost, která v pojetí Svobodných navazuje na teorii státu. Koncept svrchovanosti vznikal v průběhu mnoha staletí a je jediným relativně osvědčeným nástrojem, který umožňuje, aby vedle sebe dlouhodobě žily velké a malé národy. Je to pojem nejenom politicko-právní, ale psychologický a filosofický[[18]](#ref-18). Respekt k národní svrchovanosti na určitém území je zároveň úctou ke kolektivním archetypům, jejichž vliv na utváření politiky nelze bez závažných důsledků zanedbávat.
 
-### Princip nevměšování
+### 2. Princip nevměšování
 
 Svrchovanost znamená, že se žádný stát nemá svévolně vměšovat do záležitostí jiného státu. Tím se nevylučuje z bilaterálních vztahů možnost jednat o čemkoli, na čem se strany shodnou. Respekt k svrchovanosti druhého státu však končí, jakmile sám začne porušovat či ohrožovat svrchovanost jiného státu. V takovém případě a jen v takovém případě je namístě vnější intervence.[[19]](#ref-19)
 
-### Cíle zahraniční politiky a národní zájmy
+### 3. Cíle zahraniční politiky a národní zájmy
 
 Zahraniční politika každého státu je povinna učinit veškeré kroky pro zachování nezávislosti, musí hájit vlastní svrchovanost a územní celistvost (integritu)[[20]](#ref-20). Kromě toho by měl každý stát vést nepřetržitou diskusi (pravidelně se opakující diskusi) o národních zájmech. Prosazování národních zájmů resp. jejich podpora musí být základním rámcem a imperativem pro zahraniční politiku. Národní zájmy[[21]](#ref-21) jsou konečným seznamem prioritních cílů pro určité období, které platí nezávisle na politické filosofii (invariant politických filosofií).
 
-### NATO jako filosofické východisko
+### 4. NATO jako filosofické východisko
 
 NATO představuje odlišné východisko pro řešení sporů a krizových situací oproti Evropské unii. Oba přístupy (konsensus všech členů versus majorizace a různá kvóra pro blokační minority vycházející z budování nevraživé rovnováhy a vyvažování) jsou do značné míry protikladné a neslučitelné. Právě proto, že důsledný respekt k svrchovanosti je součástí politické filosofie NATO, dávají této alternativě Svobodní přednost. Svobodní považují filosofii NATO za východisko pro Evropu, na základě kterého by se analogicky měly budovat vztahy mezi velkými, středními a malými státy.
 
-### Bilaterální diplomacie
+### 5. Bilaterální diplomacie
 
 Pro dosahování hlavních zahraničně-politických cílů České republiky, zejména pro svobodný obchod, má klíčový význam budování a udržování bilaterálních vztahů. Svobodní jednoznačně preferují bilaterální politiku. Omezení v oblasti zahraničního obchodu vyplývající z našeho členství v EU nevyvažují výhody snadného přístupu na vnitřní trh EU. Navzdory těmto pohodlným, ale jednostranně orientovaným výhodám, které v období problémů představují spíš rizika než přednosti, doporučují Svobodní orientovat se na budování sítě bilaterálních vztahů, které se mohou stát oporou pro obchodní výměnu (například konzulární a právní podpora exportních firem a jejich smluvních vztahů).
 
-### Multilaterální vztahy
+### 6. Multilaterální vztahy
 
 Multilaterální politiku považují Svobodní za doplněk bilaterálních vztahů. Pro mezinárodní právo je doposud do značné míry typický cynismus: mezinárodní soud v Haagu, který by měl spory řešit, je čím dál tím více nahrazován mezinárodní arbitráží právě z důvodu jeho nefunkčnosti a nepřiměřených lhůt.
 
@@ -66,7 +66,7 @@ Mezinárodní spolupráce v rámci OBSE obsahuje významný prvek kombinace tř�
 
 Rada Evropy sdružuje nejširší okruh evropských států, které se zavazují respektovat mnoho smluvních dokumentů. Ačkoli jsou Svobodní k některým z nich kritičtí, velmi si váží autority, kterou má Evropský soud pro lidská práva, který sídlí ve Štrasburku.
 
-### Evropa
+### 7. Evropa
 
 Svobodní považují stávající pokus o integraci evropských států za slepou uličku.
 
@@ -96,9 +96,9 @@ Následně je pro Svobodné východiskem dobrovolná spolupráce států, jak ji
 
 EFTA není na rozdíl od EU založena na byrokracii, přerozdělování peněz a dotacích, na společné měně a na přehlasovávání jedněch druhými. Evropské sdružení volného obchodu je založeno na dobrovolné spolupráci, volném obchodu a volném cestování. Členství v EFTA automaticky znamená bezcelní obchod s desítkami zemí světa, s nimiž EFTA uzavřela dohody o volném obchodu. Přístup na trh EU by nám i nadále mohla zajišťovat smlouva o Evropském hospodářském prostoru (EHP). Dlouhodobým cílem Svobodných je reforma EHP, která by minimalizovala vliv EU na legislativu EFTA.
 
-Po vystoupení z EU se můžeme rozhodnout, jestli zůstat součástí tzv. Schengenského prostoru, který zajišťuje volný pohyb osob. 
+Po vystoupení z EU se můžeme rozhodnout, jestli zůstat součástí tzv. Schengenského prostoru, který zajišťuje volný pohyb osob.
 
-### Vztahy se sousedními státy
+### 8. Vztahy se sousedními státy
 
 Vztahy se sousedními státy mají v zahraniční politice České republiky tradičně prvořadé postavení. Do kategorie sousedních států řadíme i státy, s nimiž sice nemáme společné hranice, ale patří do centrálního pásma střední Evropy mezi Německem a Ruskem.
 
@@ -111,7 +111,7 @@ Ve vztahu k Německu si Svobodní uvědomují, že nastává nové období něme
 Ve vztazích s Rakouskem by mohlo být dosaženo nejzřetelnějších změn k lepšímu důsledným utvářením vztahů na průniku společných zájmů. Svobodní jsou přesvědčeni, že společných cílů bude přibývat.
 
 
-## Obrana území a občanů České republiky
+## III. Obrana území a občanů České republiky
 
 Prvořadou úlohou České Republiky jako státu je zajistit bezpečnost a ochranu Ústavou garantovaných práv a svobod svým občanům. Vzhledem k dělbě moci a úloh je prvořadým úkolem Armády České republiky obrana územní integrity republiky, životů a majetků občanů, a to proti ohrožení všemi vojenskými a polovojenskými silami.
 
@@ -130,9 +130,9 @@ Svobodní požadují zvýšení schopností armády tak, aby byla schopna bráni
 Svobodní považují za zásadní prohlubovat alianční vztahy[[24]](#ref-24) na bilaterální rovině, jak to umožňují mezinárodní smlouvy. Svobodní odmítají snahy o vytvoření armády EU.
 
 
-## Reforma právní filosofie
+## IV. Reforma právní filosofie
 
-### Právní filosofie
+### 1. Právní filosofie
 
 Komunistický režim důsledně a programově potíral demokratické základy právního řádu a nahrazoval je tzv. socialistickým právem.
 
@@ -140,11 +140,11 @@ Po rozpadu komunistického režimu nemělo Československo a později Česká re
 
 Svobodní zahájí přípravu reformy právní filosofie, pokusí se navrhnout alespoň základní zásady a vyzvou ostatní politické strany a odbornou veřejnost k podrobné diskusi[[25]](#ref-25).
 
-### Spravedlivý stát
+### 2. Spravedlivý stát
 
 Česká politika přijala mylnou představu, že spravedlnost znamená nezávislost na čemkoli. Vytvořila se justiční diktatura, neodpovědná soudní moc. Vědomí spravedlnosti se odvozuje od lidu stejně, jako každá politická moc. Justice musí být nezávislá na výkonné moci, ale nalézání spravedlnosti podléhá veřejné diskusi a musí korespondovat s veřejným vnímáním toho, co je spravedlivé. Spravedlnost nemůže být nezávislá na reflexi občanů státu.
 
-### Lidská práva a občanské svobody[[26]](#ref-26)
+### 3. Lidská práva a občanské svobody[[26]](#ref-26)
 
 Úcta k druhému člověku se odvozuje od morálních principů, nikoli politických, a proto na ni nelze uplatňovat politická kritéria. Koncept lidských práv v politicko-právním pojetí je smluvenou konvencí, na které je možné se politicky shodnout, a je nutné jej stále aktualizovat, nikdy nemůže být konečný a neměnný[[27]](#ref-27). Zásadně je třeba odmítnout odvozování jakékoli politické filosofie z takovýchto konvencí, které naopak mají být výslednicí politických filosofií.
 
@@ -156,17 +156,17 @@ V současné době je naléhavou prioritou ochrana jednotlivce před zásahy st�
 
 Svobodní považují občanské svobody za základní pilíř, na kterém stojí omezení nadměrné politické moci státu. Z tohoto důvodu Svobodní vystupují proti omezování svobody slova a projevu, shromažďování, sdružování a pokusům omezovat občany v jejich svobodném přístupu k informacím. Cílem Svobodných je zrušit nebo upravit právní normy, které omezují svobodu slova a projevu, shromažďování, sdružování a svobodný přístup občanů k informacím.
 
-### Soukromí a vlastnické právo
+### 4. Soukromí a vlastnické právo
 
 Soukromí a vlastnictví je pro Svobodné jedním ze základních pilířů svobodné společnosti. Vlastnické právo je právem absolutním. Svobodní jsou zásadně proti návrhům umožňujícím vyvlastňování majetku ve prospěch kohokoli, oprávněné není ani vyvlastňování ve veřejném zájmu[[28]](#ref-28). Pokud má mít svobodná společnost šanci na přetrvání, musejí občané nejprve uznat a přijmout za své, že jakýkoliv zásah proti svobodě a majetku jednotlivce je nepřípustným násilím a že jedinou racionální funkcí státu je takovému násilí bránit a zasahovat proti němu. Především vláda se nesmí takového násilí dopouštět. V demokratickém státě musí být považováno za zlo, jestliže je někdo nucen k obětování svých hodnot ve prospěch druhého.
 
-### Rovnost před zákonem
+### 5. Rovnost před zákonem
 
 Rovnost před zákonem patří k základním podmínkám spravedlivého státu. Svobodní považují za nepřípustné, aby se stále ve větší míře vytvářely nerovnosti jak v samotných zákonech, tak při jejich aplikaci.
 
 Příkladem je antidiskriminační zákon, který popírá princip rovnosti, dokonce nové nerovnosti vytváří. Popírá i princip presumpce neviny, bez kterého nelze zajistit právo na spravedlivý proces.
 
-### Přímá demokracie
+### 6. Přímá demokracie
 
 Prvky přímé demokracie považují Svobodní za dobrý doplněk demokratických rozhodovacích postupů, nikoliv jejich náhradu.
 
@@ -175,13 +175,13 @@ Svobodní odmítají koncept referenda, podle kterého má lidové hlasování n
 Svobodní navrhují přesnou regulaci spravedlivých podmínek při kampani k jakémukoli lidovému hlasování. Stát (vláda) nesmí žádným způsobem ovlivňovat průběh kampaně stejně, jako při volbách. Použití státních peněz a jakékoli ovlivňování občanů od státních úředníků by měla být trestána stejně, jako maření voleb. To se týká i veřejnoprávních médií.
 
 
-## Hospodářská politika
+## V. Hospodářská politika
 
-### Svobodné podnikání
+### 1. Svobodné podnikání
 
 Stát není od toho, aby podnikal. Svobodní lidé sami vědí, co mají na trhu nabízet a co mají poptávat. Tato volnost podnikání je v České republice stále více omezována. Stát pokřivuje ceny selektivními daněmi, nařízenými výkupními cenami a dotacemi. Stává se pravidlem, že na trhu neuspěje ten, kdo nabízí nejkvalitnější a nejlevnější služby, ale ten, kdo ukořistí dotace z nespočetných dotačních programů. Svobodní jsou pro uvolnění podnikání – tedy pro zrušení dotací, regulovaných cen a produkčních kvót.
 
-### Energetika
+### 2. Energetika
 
 Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze zahraničí. Zdroje těchto surovin jsou naštěstí diverzifikované, přesto je potřeba nezhoršovat energetickou bezpečnost českého hospodářství. Stát nesmí bránit výstavbě dalších bloků jaderných elektráren[[30]](#ref-30).
 
@@ -189,11 +189,11 @@ Stát na základě směrnic EU podporuje neefektivní využívání zdrojů. V �
 
 Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou buď pro zrušení daní z plynu, elektřiny a uhlí, nebo pro jejich plošné uplatňování. (Svobodní jsou pro sjednocení DPH na úrovni 15 %, daně z uhlí, elektřiny a plynu pak mohou být uvaleny v takové výši, aby celkové daňové zatížení elektřiny, plynu a uhlí zůstalo nedotčeno).
 
-### Export a investice
+### 3. Export a investice
 
 Stát není od toho, aby dotacemi podporoval vývoz zboží či příliv investic. Stát musí využívat diplomacii k usnadnění mezinárodního obchodu, aby čeští výrobci měli snadný přístup na zahraniční trhy, nemá ale firmám asistovat v jejich podnikání. Svobodní jsou pro zrušení agentur Czechtrade a Czechinvest, ušetří se tak peníze daňových poplatníků a vytvoří se rovné podnikatelské prostředí. Stát nemá pobídkami zvýhodňovat zahraniční či velké firmy před domácími či menšími firmami. Svobodní jsou pro zrušení zákona o investičních pobídkách, všechny firmy mají platit stejnou nízkou daň z příjmu právnických osob, která musí být mezinárodně konkurenceschopná. Svobodní jsou pro případné snižování sazby této daně z platných 19 %, pokud si to vyžádá mezinárodní daňová konkurence. Zatím se však tato sazba jeví jako konkurenceschopná.
 
-### Doprava
+### 4. Doprava
 
 Stát je správcem železničních, silničních a vodních dopravních cest. Je zodpovědný za obrovské stavební veřejné zakázky, které jsou zdrojem potenciální korupce a předražování. Při výstavbě komunikací musí být veřejné zakázky transparentní. Svobodní proto požadují, aby veškeré smlouvy mezi státem a stavebními dodavateli byly zveřejňovány. Podmínka, že obsah smlouvy nebude předmětem obchodního tajemství, musí být součástí podmínek výběrových řízení vyhlašovaných státem.
 
@@ -204,13 +204,13 @@ Svobodní odsuzují neodpovědné chování státu při stavbě dálnic. Pokud s
 Svobodní prosazují v mýtném systému zavedení plovoucího tarifu: výše poplatku za vjezd na placený úsek závisí na časovém úseku dne a týdne podle toho, nakolik v daném čase poptávka převyšuje kapacitu komunikace.
 
 
-## Daňová a rozpočtová politika
+## VI. Daňová a rozpočtová politika
 
 Současný systém veřejných financí bere lidem svobodu rozhodování o vlastních výdělcích, postrádá odpovědnost v podobě vyrovnaného hospodaření a je nespravedlivý v důsledku existence mnoha různých úlev a výjimek.
 
 Cílem Svobodných je zvýšení svobody a snížení nespravedlnosti daňového a přerozdělovacího systému. Doprovodným efektem zvýšení této svobody bude zvýšení tempa hospodářského růstu.
 
-### Ústavní změny k zastavení zadlužování
+### 1. Ústavní změny k zastavení zadlužování
 
 Pokračování zadlužování státu je neúnosné. Úroky z dluhu tvoří jednu z největších výdajových položek státního rozpočtu. Kdyby v minulosti nedocházelo k hospodaření státu na dluh, mohly by být daně a rozpočet každoročně o několik desítek miliard korun nižší.
 
@@ -222,7 +222,7 @@ Takový ústavní zákon by vládu zavazoval předkládat státní rozpočet s v
 
 Navrhujme též omezit možnost zvyšovat daně[[31]](#ref-31). Návrh zákona, který by představoval zvýšení daní nebo zavedení daní nových, by musel získat souhlas lidí v referendu.
 
-### Zrušení daně z příjmu fyzických osob
+### 2. Zrušení daně z příjmu fyzických osob
 
 Svobodní chtějí zásadním způsobem omezit státní přerozdělování. Proto přicházejí s plánem zásadního omezení daní (zrušení několika z nich) a zásadním omezením státem přerozdělovaných výdajů.
 
@@ -232,7 +232,7 @@ Výsledkem nápravných opatření má být stát, který lidem nechává větš
 
 Dnes se DPFO dělí mezi stát a samosprávy. Část daně z příjmů fyzických osob, která je určena na financování obcí, navrhujeme transformovat do podoby obecní daně, která by byla v kompetenci obcí.
 
-### Další daně
+### 3. Další daně
 
 Svobodní také prosazují zrušení daní, které vynášejí minimum prostředků do státního rozpočtu a vzhledem k administrativním nákladům se je nevyplatí vybírat.
 
@@ -255,21 +255,21 @@ Daně z nemovitých věcí jsou příjmem obcí. Obce také mají dnes podíl na
 Svobodní chtějí, aby část daně z příjmu, kterou poplatník platí, šla přímo obci, ve které poplatník žije, a nepodléhala centrálnímu přerozdělování.  Obce by měly mít právo určovat sazbu své obecní daně a snížit ji tak oproti základní sazbě. Obce by tak byly vystaveny vzájemné daňové konkurenci. V obcích s nižší obecní sazbou by tak lidé platili nižší daň.
 
 
-## Měnová politika
+## VII. Měnová politika
 
 *Konec znehodnocování úspor*
 
 Svobodní usilují o to, aby se ČNB stala – při zachování institucionální nezávislosti na vládě – neutrální správkyní české měny, která by neregulovala ceny, kurzy, úroky, která by jen neinflačně vydávala přiměřené množství oběživa. Neplatila by zbytečné úroky bankám a odváděla by do státního rozpočtu zisk, který by pomáhal snižovat deficit veřejných financí nebo by umožnil snížit daně ve prospěch všech daňových poplatníků.[[32]](#ref-32)
 
-### Měnová konkurence
+### 1. Měnová konkurence
 
 Svobodní jsou pro konkurenci, a to i v oblasti měnové. Svobodní jsou přesvědčeni, že konkurence a svoboda volby jsou důležité i v měnové oblasti. Jsme tudíž i pro svobodnou volbu, pokud jde o používání peněz k placení. Lidé by měli svobodně volit, zda upřednostňují např. korunu či euro. Používání cizích měn včetně eura by mělo být nadále povolené. Platit eurem by mělo být zcela výsledkem svobodné dohody smluvních stran. Jen tato svoboda volby ukáže, jakou měnu lidé upřednostňují.
 
-### Referendum o zrušení koruny
+### 2. Referendum o zrušení koruny
 
 Pokud by mělo dojít ke zrušení koruny jako národní měny a k jejímu nahrazení eurem jakožto výlučným platidlem, nad jehož emisí by Česká republika měla jen omezenou kontrolu, požadují Svobodní referendum. Bude-li pořádáno takové referendum, budou Svobodní vystupovat za zachování koruny. Svobodní budou trvat na tom, že v případné kampani nesmí vláda z peněz daňových poplatníků podporovat žádnou názorovou stranu.
 
-### Měnová politika
+### 3. Měnová politika
 
 Svobodní jsou pro to, aby centrální banka byla neutrálním správcem měny, který nemá ambici regulovat klíčovou cenu – úrok. Úrok by měl být výsledkem tržní poptávky a nabídky na kapitálovém trhu.
 
@@ -279,14 +279,14 @@ Chceme také, aby Česká národní banka přestala platit komerčním bankám �
 
 Tyto „dotace“ bankám snižují zisk ČNB, resp. posílají hospodaření ČNB do ztráty a zatížení daňových poplatníků musí být o to vyšší. Kdyby ČNB odesílala každoročně svůj zisk do státního rozpočtu, mohl by být o tento zisk nižší deficit veřejných financí nebo by o to mohly být nižší daně.
 
-### Zisk České národní banky
+### 4. Zisk České národní banky
 
 Drtivá většina centrálních bank všude ve světě je vysoce zisková. Protože centrální banka jako monopolní emitent peněz na daném území emituje neúročená pasiva (bankovky) výměnou za úročená aktiva (cenné papíry), je její hospodaření přirozeně ziskové. ČNB nahromadila za uplynulé období aktiva (v podobě cenných papírů v cizích měnách) v hodnotě přes 1000 miliard korun. Mohla by tak snadno generovat roční úrokový zisk několika desítek miliard korun. Její úrokové výnosy jsou ale smazávány vyplácenými úroky českým bankám a kurzovými ztrátami.[[34]](#ref-34)
 
 Hospodaření České národní banky by se mělo vhodnou změnou měnové politiky otočit do trvalého zisku, aby tento zisk mohl být plně odváděn do státního rozpočtu, tak jak tomu bývá jinde ve světě.
 
 
-## Silniční doprava
+## VIII. Silniční doprava
 
 Svobodní odmítají ideologické předsudky vůči dálnicím a individuální automobilové dopravě. Osobní doprava je výrazem svobody jednotlivce a jen každý člověk sám ví, jestli je pro něj lepší doprava individuální nebo hromadná. Dálnice patří do české krajiny stejně jako železnice a vodní díla.
 
@@ -305,11 +305,11 @@ Svobodní budou prosazovat změnu povinného ručení tak, aby místo povinného
 Svobodní budou prosazovat zrušení nehospodárné povinnosti přidávat do pohonných hmot biopaliva. Považují to za nehospodárné i nešetrné k životnímu prostředí. Po jeho zrušení klesnou ceny pohonných hmot.
 
 
-## Ochrana životního prostředí
+## IX. Ochrana životního prostředí
 
 Česká republika je výjimečně krásnou krajinou. Čistota vzduchu, přírody a obcí, v nichž žijeme, je významnou hodnotou ovlivňující kvalitu života. Všichni vlastníci jsou zodpovědní za čistotu svých pozemků. Je třeba si uvědomovat, že se znečišťováním se setkáváme zejména tam, kde není jasně definovaný vlastník. Stát je zodpovědný za udržování čistoty vzduchu a za čistotu území, jehož je vlastníkem – to se týká zejména řek, lesů a dalších pozemků.
 
-### Skutečná ochrana prostředí
+### 1. Skutečná ochrana prostředí
 
 Svobodní jsou pro skutečnou ochranu prostředí, ve kterém žijeme. Stát má mít jasná pravidla[[40]](#ref-40) pro provoz zařízení, která vypouštějí škodliviny. Emisní limity mohou být přísnější s růstem bohatství společnosti. Nepovolené skládky odpadu mají být vyšetřovány a viníci trestáni. Svobodní zejména odsuzují dovoz německého odpadu, který je přímým důsledkem evropské směrnice o volném pohybu odpadu v rámci EU.
 
@@ -317,7 +317,7 @@ Za čistotu na veřejných komunikacích odpovídá vlastník. Vlastník pozemku
 
 Recyklace je důležitou součástí ekonomiky od nepaměti. Zejména kovy, sklo, papír a plasty jsou předměty vhodné ke znovupoužití. Recyklace ale nesmí být nařizována z ideologických důvodů. Jinak hrozí, že recyklace za každou cenu bude v konečném důsledku pro přírodu škodlivá[[41]](#ref-41). Česká republika má jednu z nejvyšších měr recyklace v Evropě. Lidé recyklují sklo, papír a plasty dobrovolně. Firmy, které tříděný odpad sbírají, musí být zodpovědné za pořádek kolem sběrných míst. Český systém dobrovolné recyklace je funkční a měl by být uchován, neměl by být nahrazován povinným zálohováním plastových lahví.
 
-### Ochrana přírody versus ideologie
+### 2. Ochrana přírody versus ideologie
 
 Svobodní odmítají ideologické pojetí ochrany životního prostředí, pro které jsou typické upřednostňování přírody bez ohledu na člověka a předsudky vůči kysličníku uhličitému, plynu, který vydechujeme a který rostliny absorbují. Svobodní vidí ochranu prostředí, ve kterém žijeme opačně: Příroda se chrání pro člověka, který je její součástí. Důležité je zabraňovat bezprostřednímu znečišťování škodlivinami a odpadem, nikoliv soustředit se na boj s emisemi kysličníku uhličitého, který je přirozenou součástí přírody.
 
@@ -330,7 +330,7 @@ Ekologická politika prováděná ve jménu environmentalistické ideologie čas
 Ochrana přírody je především věcí lokálního působení. Mezinárodní dohody mají smysl tam, kde dochází k přeshraničnímu ovlivňování životního prostředí (čistota vzduchu a vod). Jednotná pravidla závazná pro všechny státy však s sebou nesou riziko přijetí špatné politiky. I přístupy k ochraně přírody musí podléhat konkurenci, každý stát má mít právo na vlastní přístup k ochraně životního prostředí.
 
 
-## Zdravotnictví
+## X. Zdravotnictví
 
 Dnešní státem regulované a organizované zdravotnictví je neslučitelné s principy svobody, odpovědnosti a spravedlnosti, na nichž stojí politická filosofie Svobodných.
 
@@ -338,42 +338,42 @@ Dnešní systém je založen na zdravotní dani alibisticky nazývané pojiště
 
 Cílem Svobodných je transformovat stávající systém tzv. zdravotního pojištění na systém skutečného pojištění. Základním východiskem pro skutečnou změnu ve zdravotním pojištění musí být oddělení základního povinného pojištění od individuálního pojištění.
 
-### Základní povinné pojištění
+### 1. Základní povinné pojištění
 
 Pro povinné pojištění platí princip, že se všechny vybrané prostředky použijí na úhradu hrazené zdravotní péče, to znamená, že se nevytvářejí žádné rezervní fondy. Za prostředky vybrané od pojištěnců v plné míře odpovídá stát, který může tuto odpovědnost přenést nanejvýš na veřejnoprávní subjekt, pokud ji nevykonává přímo. Do tohoto základního pojištění by měla spadat první pomoc a záchrana života. O rozsahu péče, spadající do povinného pojištění je možné vést diskusi, avšak vzhledem k výše uvedenému principu jakékoli rozšiřování této péče způsobí růst základního pojištění. Platba za každou osobu by měla být stanovena nezávisle na příjmu pojištěnce.
 
 Obtíže plynoucí ze stanovení hranice mezi péčí hrazenou z veřejného pojištění mizí, jakmile je přijata zásada, že povinné pojištění nemá komerční charakter, není podnikáním.
 
-### Individuální pojištění
+### 2. Individuální pojištění
 
 Pro individuální pojištění naopak platí běžné zásady pojišťovnictví, od kterých se odvíjí jeho cena. Pojišťovny, které takové pojištění poskytují, musí vytvářet rezervní fondy jako jakákoli jiná pojišťovna. Za hospodaření takových pojišťoven stát nenese přímou odpovědnost, role státu spočívá jen ve všeobecném dohledu. V rámci tohoto pojištění si klient sjedná individuální pojistné podmínky[[43]](#ref-43). Může k nim patřit i pojištění se spoluúčastí, které patrně znamená nižší pravidelné platby.
 
-### Další podmínky
+### 3. Další podmínky
 
 Svobodní jsou pro zjednodušení zřizování soukromých praxí bez zasahování pojišťoven a úřadů. Lékaři poskytující zdravotnické služby mají dostat zaplaceno bezprostředně a nezávisle na pojištění pacienta. Účet za lékařské služby si nechá pacient proplatit u své pojišťovny. To samozřejmě nevylučuje bezhotovostní vyúčtování poskytnutých služeb s pojišťovnou. Případné spory mezi klientem a pojišťovnou řeší pojišťovenské soudy v zákonem stanovených lhůtách (např. 15 pracovních dní). Pokladniční systém nevylučuje, že v limitech sjednaných v pojistné smlouvě dostane pacient péči, aniž by musel jednat o proplacení.
 
 Svobodní požadují, aby platila rovnost všech zdravotnických zařízení[[44]](#ref-44) bez ohledu na typ jejich právnické osoby popř., pokud jde o fyzickou osobu.
 
-### Tvorba cen
+### 4. Tvorba cen
 
 Svobodní směřují k systému, v němž by mohl být zrušen bodový sazebník, tedy regulace cen ve zdravotnictví i jakákoli jednání o cenách poskytované péče[[45]](#ref-45). Svobodná tvorba cen je nejlepší zárukou, že pacient zaplatí za lékařské služby nejnižší cenu.
 
 Platby za stravu v nemocnici se budou odvíjet od konkrétních podmínek zdravotnického zařízení, nespadají do běžného zdravotního pojištění. Úroveň hotelových služeb v nemocnici si pacient sám zvolí a zaplatí, může si sjednat i zvláštní připojištění.
 
-### Placení pojistného
+### 5. Placení pojistného
 
 Stát dnes vybírá pro zdravotní pojišťovny 13,5 % mzdy (4,5 % se strhává ze mzdy, 9 % se platí nad rámec hrubé mzdy). Svobodní chtějí část nynějších odvodů stanovených procentem z mezd transformovat na skutečné pojištění nezávislé na výši mzdy a část zachovat, aby z nich stát hradil platby za státní pojištěnce.
 
-### Odpovědnost za vlastní zdraví
+### 6. Odpovědnost za vlastní zdraví
 
 Člověk do značné míry odpovídá za své zdraví. Je nepřijatelné, aby si někdo ničil vlastní zdraví a náklady následné léčby byly hrazeny z veřejného zdravotního pojištění. Dospělý člověk by měl mít právo bez postihu užívat návykové a psychotropní látky, ale pojišťovny by měly mít právo zohlednit užívání návykových látek v ceně pojištění. Cenu pojištění by měla určit svobodná soutěž mezi konkurujícími si pojišťovnami.
 
 
-## Sociální politika
+## XI. Sociální politika
 
 Sociální politika nesmí být dominantní úlohou státu. Pomoc bližnímu je odpovědností jednotlivce, rodiny a soukromoprávních spolků.
 
-### Sociální dávky
+### 1. Sociální dávky
 
 Svobodní jsou pro zásadní ústup státu od provádění sociální politiky, která je drahá pro daňové poplatníky a demotivační pro příjemce sociálních dávek.
 
@@ -412,19 +412,19 @@ Negativní daň motivuje k práci, proto budou celkové náklady na sociální d
 
 Stát tak zajistí systematickou pomoc lidem s nízkými nebo žádnými příjmy, kteří si nejsou schopní na živobytí své a svojí rodiny vydělat prací, ale zároveň zachová při každé výši příjmu jednoznačnou motivaci zvýšit si životní standard prací.
 
-### Nemocenské pojištění
+### 2. Nemocenské pojištění
 
 Na nemocenské pojištění stát vynakládá desítky miliard. Svobodní prosazují, aby nemocenské pojištění bylo pro zaměstnance dobrovolné stejně, jako je dnes dobrovolné pro osoby samostatně výdělečně činné. Nemocenské pojištění by mělo být založené na pojistných principech, mělo by tedy být poskytováno komerčními pojišťovnami a nikoliv státním systémem.
 
 Svobodní navrhují snížit příjmy i výdaje státu i o tyto peníze a navrhují nechat na jednotlivcích, zda a jak si zajistí nemocenské pojištění.
 
-### Invalidní důchody
+### 3. Invalidní důchody
 
 Stát ročně vyplácí 599 tisíc invalidních důchodů, z toho 386 tisíc plných a 213 tisíc částečných. Výdaje na invalidní důchody činí 57 miliard (43 miliard na plné a 14 miliard na částečný)[[49]](#ref-49).
 
 Invalidní důchody jsou příliš často zneužívány. Svobodní jsou pro spravedlivé a přesné posuzování nároků na invalidní důchod, aby jej dostali ti, kteří jej opravdu potřebují, ale aby se invalidní důchod nestával bezpracným příjmem pro někoho, kdo by si byl schopen vydělat vlastní prací.
 
-### Starobní důchody
+### 4. Starobní důchody
 
 Stát vyplácí miliony starobních a statisíce vdovských a vdoveckých důchodů s celkovými výdaji většími než je pětina rozpočtu. Toto číslo dále narůstá s ohledem na proces tzv. stárnutí populace.
 
@@ -450,7 +450,7 @@ Nový systém se netýká již přiznaných a vyplácených důchodů. Na nový 
 
 Tato dobrovolnost uleví státu od důchodového břemene, protože řada poplatníků dobrovolně „odepíše“ své dosavadní platby do důchodového systému a zvolí pro stát úspornější variantu paušálního důchodu.[[52]](#ref-52)
 
-### Politika zaměstnanosti
+### 5. Politika zaměstnanosti
 
 Počet nezaměstnaných činí v České republice přes 300 tisíc, zatímco v roce 1996 činil tento počet méně než 200 tisíc lidí[[53]](#ref-53). Jeden nezaměstnaný stojí stát na sociálních dávkách pro něj a jeho rodinu a na ušlých daních zhruba 180 tisíc korun ročně.[[54]](#ref-54) Snížení nezaměstnanosti o 100 tisíc osob tak může státu ušetřit resp. vynést 18 miliard korun. Svobodní jsou přesvědčeni, že vysoká nezaměstnanost je primárně důsledkem demotivačního systému sociálních dávek a svazující pracovní legislativy.
 
@@ -473,7 +473,7 @@ Svobodní současně navrhují, aby Česká republika vystoupila z Mezinárodní
 Svobodná pracovní smlouva by obsahovala smluvní volnost, i pokud jde o výši mzdy.
 
 
-## Školství a věda
+## XII. Školství a věda
 
 Svobodní podporují vznik vzdělávacího systému, který by jeho aktérům ponechával maximální svobodu při výběru formy i obsahu vzdělávání, právo rodičů na výchovu svých dětí a omezoval vliv státu na proces vzdělávání jednotlivce.
 
@@ -493,7 +493,7 @@ Z obtížnosti hledání optima financování veřejného výzkumu plyne, že ne
 
 Vycházejíce z výše formulovaných východisek Svobodní navrhují:
 
-### Základní vzdělání se svobodou volby
+### 1. Základní vzdělání se svobodou volby
 
 Vzhledem k tradici povinného základního vzdělávání musí existovat systém jeho financování prostřednictvím státu. Svobodní jsou však pro možnost volby formy základního vzdělávání. Nejčastěji to bude docházka do základní školy, ale zároveň musí existovat reálná možnost domácí výuky, ať už částečná, nebo úplná. Na státu je pak každoroční kontrola dosažených minimálních znalostí žáka.
 
@@ -505,7 +505,7 @@ Svobodní odmítají tendence rušit základní školy s praktickým a speciáln
 
 Svobodní na druhou stranu navrhují zrušit 9. třídu základní školy, což přinese kromě jiného i úspory státnímu rozpočtu. Tento poslední rok základní školy zbytečně protahuje celkovou dobu strávenou základním vzděláváním a není potřebný pro studium na střední škole. Svobodní zároveň podporují, aby žák mohl základní školu ukončit ještě dříve, pokud na to má dostatečné znalosti a schopnosti.
 
-### Spravedlivý přístup
+### 2. Spravedlivý přístup
 
 Legislativní pravidla pro základní a střední školy musí platit pro všechny bez ohledu na to, kdo je vlastníkem školy.[[62]](#ref-62) Dnes podmínky ze strany státu rovnocenné nejsou a to zejména co se týče financování. Nehledě na skutečnost, že soukromé školy vznikaly v převážné většině na zelené louce a nemají tedy obdobnou majetkovou základnu jako školy státní, je i dotační politika státu vůči soukromým základním a středním školám nepříznivá.[[63]](#ref-63)
 
@@ -513,7 +513,7 @@ Svobodní jsou pro rovný přístup k financování středních a základních �
 
 Obdobná nespravedlnost panuje i ve školství vysokém.[[64]](#ref-64) Svobodní chtějí tuto nespravedlnost řešit tím, že budou existovat stejná pravidla pro všechny vysoké školy.
 
-### Střední školy, maturity a konkurence
+### 3. Střední školy, maturity a konkurence
 
 Při stejném příspěvku na žáka u všech typů středních škol prosazovaným Svobodnými bude možné dospět k nedeformovaným cenám vzdělávání ve středním školství. Rodiče si pak budou moci vybrat pro své děti vhodnou školu podle rozsahu vzdělávacích služeb a ceny za ně.
 
@@ -521,7 +521,7 @@ Svobodní odmítají zavádění státních maturit[[65]](#ref-65). Tento projek
 
 Vysoké školy budou zcela autonomní v rozhodnutí, zda požadovat maturitu či jiný certifikát za dostačující podmínku k přijetí ke studiu, či zda budou požadovat složení vlastních přijímacích zkoušek, případně splnění dalších podmínek.
 
-### Školné na vysokých školách
+### 4. Školné na vysokých školách
 
 Absolvováním vysoké školy člověk zlepšuje své vyhlídky na trhu práce nebo naplňuje svůj osobní zájem o daný obor. Svobodní jsou proto jednoznačně pro zavedení školného na univerzitách a vysokých školách[[67]](#ref-67). Není spravedlivé, aby ostatní přispívali ze svých daní na studium těm, kterým může studium přinést dodatečný prospěch. Stát by neměl zaručovat vysokoškolské vzdělání a neměl by ho ani hradit.
 
@@ -534,22 +534,22 @@ Při zavádění systému školného na veřejných vysokých školách by mělo
 Svobodní navrhují, aby organizační členění vysoké školy bylo plně v její kompetenci. Záleží pouze na rozhodnutí jejího vedení, zdali a jakým způsobem provede dělení na vzdělávací část a na výzkumná centra.
 
 
-## Zemědělství
+## XIII. Zemědělství
 
 Zemědělství je podnikání jako každé jiné. Je třeba zajistit rovný přístup státu a Evropské unie ke všem zemědělským podnikatelům.
 
-### Navrácení práv občanům ČR
+### 1. Navrácení práv občanům ČR
 
 Vstupem do Evropské unie ztratili občané České republiky suverenitu nad správou zemědělství ve své zemi. Ministerstvo zemědělství již zemědělství nespravuje, ale plní pouze roli písaře, který přepisuje legislativu Evropské unie do legislativy České republiky. Evropskou legislativu pak poslanci parlamentu přijímají a schvalují automaticky, aniž by o ní vedli odborné a věcné diskuse. Strana svobodných občanů bude usilovat o navrácení rozhodovacích pravomocí občanům České republiky tak, že bude prosazovat zrušení Společné zemědělské politiky Evropské unie.
 
-### Vlastnické právo
+### 2. Vlastnické právo
 
 Od revoluce se nepodařilo nastolit v zemědělství vlastnické vztahy srovnatelné s jinými výrobními odvětvími. Stále není dokončen prodej státní půdy a ostatního majetku. Státní pozemkový úřad dosud spravuje statisíce hektarů půdy. Není dokončena majetková transformace zemědělství. Nedokončeny jsou rovněž pozemkové úpravy tak, aby všichni vlastníci pozemků na ně měli volný přístup. Vládou stanovené výrobní a majetkové limity a z toho vyplývající obrovská administrativní náročnost a byrokratická zátěž jsou hrubým omezujícím zásahem do vlastnických práv zemědělských podnikatelů překračující meze stanovené Ústavou České republiky. Strana svobodných občanů bude prosazovat změny příslušných právních předpisů, které zásadním způsobem urychlí nastolení majetkoprávních vztahů běžných v ostatních oblastech společenského života a omezí administrativní a byrokratickou zátěž občanů působících v zemědělství.
 
 
-## Veřejná správa a samospráva
+## XIV. Veřejná správa a samospráva
 
-### Úsporná veřejná správa a samospráva
+### 1. Úsporná veřejná správa a samospráva
 
 Svobodní prosazují odpovědnou samosprávu a úspornou státní správu. Je přitom potřeba důsledně oddělovat, co je samospráva a co je státní správa. Aby volby měly smysl, musí mít volená samospráva kompetence jak při určování veřejných výdajů, tak při určování příjmů. Rozhodování samosprávy musí zároveň podléhat účinné demokratické kontrole, aby volení zástupci nerozhodovali v rozporu se zájmy občanů.
 
@@ -557,7 +557,7 @@ Svobodní prosazují, aby občané obce, resp. kraje mohli referendem (lidovým 
 
 Tento princip neznamená, že se bude konat každou chvíli referendum. Možnost referenda má preventivní účinek. Zaručuje, že zastupitelé budou mít tendenci rozhodovat tak, aby se referendum nemuselo konat. V případě, kdy by zastupitelé rozhodovali v rozporu s vůlí lidu, ohrozili by vlastní postavení, protože zamítavé referendum by znamenalo nové volby.
 
-### Hospodaření obcí a krajů
+### 2. Hospodaření obcí a krajů
 
 Cílem Svobodných je, aby se obce převážně financovaly z vlastních daňových příjmů.
 
@@ -570,7 +570,7 @@ Svobodní prosazují, aby se omezilo přerozdělování peněz mezi občanem, ob
 Kromě vlastních příjmů by samosprávy mohly mít i příjem ze státního rozpočtu. Svobodní ale nesouhlasí s tím, aby byly platby státu krajům stanoveny libovolně: Každá platba státu ve prospěch krajů musí vycházet z kritérií uplatněných na principu spravedlnosti vůči všem krajům stejně, podle vzorce, který by zahrnoval objektivní kritéria.
 
 
-## Příloha 1: Programový dokument „Svobodný trh informací“
+## XV. Příloha 1: Programový dokument „Svobodný trh informací“
 
 Svobodný trh informací
 
@@ -605,7 +605,7 @@ Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů
 S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, ...) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
 
-## Příloha 2 – Evropská dohoda[[73]](#ref-73)
+## XVI. Příloha 2 – Evropská dohoda[[73]](#ref-73)
 
 Jelikož občané ve Francii a Nizozemí řekli v referendu NE původnímu návrhu Evropské ústavy a následně občané Irska řekli NE Lisabonské smlouvě, která byla jen přejmenovaným původním návrhem Evropské ústavy, je třeba respektovat skutečnost, že zaznělo zřetelné NE další politické unifikaci Evropské unie;
 
