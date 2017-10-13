@@ -187,7 +187,7 @@ Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze 
 
 Stát na základě směrnic EU podporuje neefektivní využívání zdrojů. V České republice se tak povinně na základě pokřivených cen a dotací vyrábí drahá elektřina ze solárních panelů a větrníků, přestože technologie a přírodní podmínky neumožňují efektivní využití těchto zdrojů. Důsledkem je růst cen elektřiny pro domácnosti i firmy. Svobodní jsou pro zrušení minimálních výkupních cen a povinného odkupu elektřiny z tzv. alternativních zdrojů. Svobodní jsou také pro zrušení povinnosti přimíchávat biopaliva do nafty a benzínu. Tato politika zdražuje paliva i potraviny.
 
-Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou buď pro zrušení daní z plynu, elektřiny a uhlí, nebo pro jejich plošné uplatňování. (Svobodní jsou pro sjednocení DPH na úrovni 15 %, daně z uhlí, elektřiny a plynu pak mohou být uvaleny v takové výši, aby celkové daňové zatížení elektřiny, plynu a uhlí zůstalo nedotčeno).
+Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou pro zrušení daní z plynu, elektřiny a uhlí.
 
 ### 3. Export a investice
 
