@@ -475,63 +475,48 @@ Svobodná pracovní smlouva by obsahovala smluvní volnost, i pokud jde o výši
 
 ## XII. Školství a věda
 
-Svobodní podporují vznik vzdělávacího systému, který by jeho aktérům ponechával maximální svobodu při výběru formy i obsahu vzdělávání, právo rodičů na výchovu svých dětí a omezoval vliv státu na proces vzdělávání jednotlivce.
+### Základní východiska
 
-Svobodní jsou proti tomu, aby stát omezoval svobodu smýšlení, slova a bádání. Pokládáme za neblahý jev, pokud se školství stává ideologickým nástrojem pro šíření vládní ideologie, ať už jde o komunismus, europeismus, environmentalismus nebo jiné. Jde o diskriminaci osob s jiným názorem a o porušení principu sekulárního státu.
+Svobodní považují vzdělávání za celoživotní proces, ve kterém každý člověk reaguje na neustále se měnící požadavky na znalosti a dovednosti, které potřebuje, aby dělal dobře to, čím se zabývá. Domníváme se, že každé vzdělávání je v prvé řadě soukromým zájmem každého jednotlivce a jeho nejbližších. Školský systém je pouze jedním ze zdrojů, ze kterých člověk získává základní schopnosti, jako vyhledání, zpracování a využití informací, základní přehled o souvislostech jevů, se kterými se setkává, schopnost sebemotivace a sebehodnocení, schopnost interakce s ostatními lidmi a přírodou a podobně. Velká pozornost by měla být věnována zejména vzdělávání (ve výše uvedeném smyslu) v prvních letech života dětí. Svobodní jsou proti tomu, aby stát omezoval svobodu smýšlení, slova a bádání. Pokládáme za neblahý jev, pokud se školství stává nástrojem pro šíření jakékoli vládní ideologie.
 
-Svobodní navrhují zrušit na státních základních a středních školách povinnost zajistit výuku předmětu náboženství.
+Svobodní preferují dobrovolnost, širokou nabídku a konkurenci při určování toho, kdo, kdy, koho, jak, kde, co a za kolik „bude učit“, toto rozhodnutí by mělo být činěno co možná nejníže, nejlépe ve formě partnerské spolupráce mezi rodičem, dítětem a vzdělávacím zařízením. Svobodní podporují přechod od povinné školní docházky k systému povinného vzdělávání.
 
-Svobodní odmítají systém centrálního řízení vzdělávání, který upírá rodičům právo rozhodovat o výchově svých dětí a který brání nadaným jedincům rozvíjet svůj individuální talent dle svých specifických potřeb. Stát by měl dbát jen na to, aby škola poskytovala základy dané akreditací pro daný typ školy.
+### Vzdělávací stupně
 
-Obsah a forma výuky by měly být výhradně na domluvě mezi učiteli, školou a rodiči, případně studenty. Vždy však musí být obsah výuky v souladu s akreditačními podmínkami. Vznikla by tím větší rozmanitost a širší možnost výběru. Každá škola si bude sama hospodařit se svými penězi a přebytek si bude moci ponechat do dalšího roku. O vzdělávání učitelů by se neměly starat byrokratické státní agentury, které z toho žijí.[[60]](#ref-60)
+**Předškolní vzdělávání**
 
-V oblasti vysokoškolského vzdělávání vycházejí Svobodní z principu, že je ryze soukromým, nikoliv veřejným statkem.
+Za předškolní vzdělávání odpovídají zejména jednotlivé obce. Ty mohou stanovit podmínky pro podporu předškolního vzdělávání z veřejných prostředků i pro nárok na místo ve školce. Toto považujeme za součást důležité soutěže mezi sousedními obcemi.
 
-Svobodní jsou pro zefektivnění systému hodnocení a financování veřejného výzkumu[[61]](#ref-61). Cílem změn musí být omezení uplatnění osobních vztahů, rozhodovacích pravomocí úředníků a jmenovaných komisí, a zajištění větší pružnosti v použití financí pro výzkumníky.
+Na komunální úrovni prosazujeme, aby obec podporovala každé dítě rovným příspěvkem. Je nepřijatelné, aby obec dotovala z peněz daňových poplatníků školky, které zajistí kapacitu jen pro některé děti.
 
-Z obtížnosti hledání optima financování veřejného výzkumu plyne, že není možné stanovovat celoevropské strategie financování vědy (jako např. tzv. „Lisabonská strategie“).
+Odmítáme zavádění povinné předškolní docházky. Dítě není majetkem státu ani rodičů. Rodiče jsou zpravidla nejpovolanějším rozhodčím pro vzdělávání svých dětí. Teprve v případě, že je dítě ve výchově prokazatelně zanedbáváno, smí zasáhnout stát.
 
-Vycházejíce z výše formulovaných východisek Svobodní navrhují:
+**Základní vzdělání**
 
-### 1. Základní vzdělání se svobodou volby
+Svobodní respektují tradici povinného základního vzdělávání. Chceme ale otevřít debatu o uvolnění jeho formy i rozsahu. Musí být umožněna možnost domácí výuky i vícerychlostní průchod základní školou pro nadprůměrně nadané žáky.
 
-Vzhledem k tradici povinného základního vzdělávání musí existovat systém jeho financování prostřednictvím státu. Svobodní jsou však pro možnost volby formy základního vzdělávání. Nejčastěji to bude docházka do základní školy, ale zároveň musí existovat reálná možnost domácí výuky, ať už částečná, nebo úplná. Na státu je pak každoroční kontrola dosažených minimálních znalostí žáka.
+Podobně jako v případě předškolního vzdělávání prosazujeme, aby na každého žáka připadal stejný příspěvek z veřejných rozpočtů bez ohledu na to, kdo je zřizovatelem školy, kterou žák navštěvuje. Stát smí stanovit a kontrolovat pouze základní požadavky na minimální znalost i a dovednosti žáka, forma i obsah výuky musí být založeny zejména na dohodě mezi rodiči a školou. Založení školy, či vzdělávací skupiny má být z principu povolováno, stát by měl zasahovat pouze v případě podvodných aktivit, kdy dochází k zneužívání příspěvků.
 
-Svobodní podporují různorodost v zaměření škol a v jejich obtížnosti. Forma i obsah výuky by měly být založeny na dohodě mezi rodiči a školou. Ve svobodném prostředí mohou vznikat školy a třídy zaměřené na rozvíjení různých talentů, pro mimořádně nadané jedince a pro žáky s širokými zájmy. Každá škola by měla mít možnost uzpůsobit podmínky vyučování (kromě skladby předmětů také i čas začátku vyučování, délku vyučovací hodiny, počty žáků ve třídě atd.).
+**Střední školství**
 
-Délka hodin, kázeňská opatření, uniformy a další by měly být výhradně na domluvě mezi učiteli, školou a rodiči, případně studenty.
+I v případě středního školství prosazují Svobodní rovný příspěvek na každého žáka, což povede k nedeformovaným cenám a skutečné konkurenci ve středoškolském vzdělávání.
 
-Svobodní odmítají tendence rušit základní školy s praktickým a speciálním zaměřením. Tyto školy poskytují vzdělání dětem, které potřebují zvláštní přístup.
+Pokud jde o střední školy, Svobodní odmítají zavádění státních vstupních i výstupních zkoušek. Taková opatření vedou k unifikaci tam, kde je nezbytná rozmanitost. Tyto projekty jsou navíc nesmírně nákladné. Dokážeme si představit, že místo povinnosti přímo absolvovat střední školu / odborné učiliště, by se dal získat certifikát o určité odbornosti. Takový systém by zjednodušoval rekvalifikace a zvyšoval pružnost pracovní síly, kdy školy budou nabízet získání řemeslných dovedností nejen primárně lidem do 18 let.
 
-Svobodní na druhou stranu navrhují zrušit 9. třídu základní školy, což přinese kromě jiného i úspory státnímu rozpočtu. Tento poslední rok základní školy zbytečně protahuje celkovou dobu strávenou základním vzděláváním a není potřebný pro studium na střední škole. Svobodní zároveň podporují, aby žák mohl základní školu ukončit ještě dříve, pokud na to má dostatečné znalosti a schopnosti.
+Vysoké školy musí být zcela autonomní v rozhodnutí, zda požadovat maturitu či jiný certifikát za dostačující podmínku k přijetí ke studiu, či zda budou požadovat splnění dalších podmínek.
 
-### 2. Spravedlivý přístup
+**Vysoké školství**
 
-Legislativní pravidla pro základní a střední školy musí platit pro všechny bez ohledu na to, kdo je vlastníkem školy.[[62]](#ref-62) Dnes podmínky ze strany státu rovnocenné nejsou a to zejména co se týče financování. Nehledě na skutečnost, že soukromé školy vznikaly v převážné většině na zelené louce a nemají tedy obdobnou majetkovou základnu jako školy státní, je i dotační politika státu vůči soukromým základním a středním školám nepříznivá.[[63]](#ref-63)
+Absolvováním vysoké školy člověk zlepšuje své vyhlídky na trhu práce nebo naplňuje svůj osobní zájem o daný obor. Svobodní jsou proto pro postupné zavedení školného na univerzitách a vysokých školách.
 
-Svobodní jsou pro rovný přístup k financování středních a základních škol veřejných, církevních a soukromých. Dotace ze státního rozpočtu na žáka či studenta musí být spravedlivá, tj. stejná u všech třech typů škol.
+Výši školného si má vysoká škola určovat sama a sama má ručit za kvalitu výuky. Školné zvýší možnost konkurence mezi vysokými školami.
+O úspory vzniklé zavedením školného je nutné snížit daně. Peníze zůstanou částečně i rodinám vysokoškoláků. Zmenší se též přerozdělovací pravomoci úředníků, tedy i uplatnění osobních vztahů a korupce.
 
-Obdobná nespravedlnost panuje i ve školství vysokém.[[64]](#ref-64) Svobodní chtějí tuto nespravedlnost řešit tím, že budou existovat stejná pravidla pro všechny vysoké školy.
+### Věda a výzkum
 
-### 3. Střední školy, maturity a konkurence
+Svobodní považují vědu a výzkum za přirozený důsledek lidské zvídavosti. Veřejné prostředky nesmí být používány na financování aplikovaného výzkumu a inovací, neboť se jedná o výzkum, který efektivněji budou provádět soukromé subjekty. Pro financování základního výzkumu mohou být veřejné prostředky používány pouze v dobře odůvodněných případech. Financování by v takovém případě mělo mít spíše formu účelových grantů než nárokových dotací. Výsledky základního výzkumu musí být vždy zveřejňovány, není však vhodné nutit vědce k placenému zveřejňování v časopisech s tzv. otevřeným přístupem.
 
-Při stejném příspěvku na žáka u všech typů středních škol prosazovaným Svobodnými bude možné dospět k nedeformovaným cenám vzdělávání ve středním školství. Rodiče si pak budou moci vybrat pro své děti vhodnou školu podle rozsahu vzdělávacích služeb a ceny za ně.
-
-Svobodní odmítají zavádění státních maturit[[65]](#ref-65). Tento projekt podporuje průměrnost, zatěžuje státní rozpočet nepřiměřenými náklady[[66]](#ref-66) a omezuje volbu studenta v zaměření na individuální zájmy jeho studia.
-
-Vysoké školy budou zcela autonomní v rozhodnutí, zda požadovat maturitu či jiný certifikát za dostačující podmínku k přijetí ke studiu, či zda budou požadovat složení vlastních přijímacích zkoušek, případně splnění dalších podmínek.
-
-### 4. Školné na vysokých školách
-
-Absolvováním vysoké školy člověk zlepšuje své vyhlídky na trhu práce nebo naplňuje svůj osobní zájem o daný obor. Svobodní jsou proto jednoznačně pro zavedení školného na univerzitách a vysokých školách[[67]](#ref-67). Není spravedlivé, aby ostatní přispívali ze svých daní na studium těm, kterým může studium přinést dodatečný prospěch. Stát by neměl zaručovat vysokoškolské vzdělání a neměl by ho ani hradit.
-
-Výši školného si má vysoká škola určovat sama a sama má ručit za kvalitu výuky. Školné zvýší konkurenci mezi vysokými školami.[[68]](#ref-68)
-
-O přímé úspory v rozpočtu MŠMT, vzniklé zavedením školného, je možné snížit daně. Peníze zůstanou částečně i rodinám vysokoškoláků. Zmenší se též přerozdělovací pravomoci úředníků, tedy i uplatnění osobních vztahů a korupce.
-
-Při zavádění systému školného na veřejných vysokých školách by mělo docházet k postupnému navyšování. Během přechodného období budou mít veřejné vysoké školy možnost plynulého přechodu na financování obdobné jako u škol soukromých bez prudkých zvratů, které by mohly poznamenat některé ročníky studentů.
-
-Svobodní navrhují, aby organizační členění vysoké školy bylo plně v její kompetenci. Záleží pouze na rozhodnutí jejího vedení, zdali a jakým způsobem provede dělení na vzdělávací část a na výzkumná centra.
+Pro omezení vlivu klientelismu, ministerských úředníků a jmenovaných komisí na rozdělování financí na vědu je vhodné zavedení co nejobjektivnějšího[[60]](#ref-60) hodnocení výsledků základního výzkumu a jeho používání subjekty rozdělujícími veřejné prostředky.
 
 
 ## XIII. Zemědělství
@@ -561,7 +546,7 @@ Tento princip neznamená, že se bude konat každou chvíli referendum. Možnost
 
 Cílem Svobodných je, aby se obce převážně financovaly z vlastních daňových příjmů.
 
-Svobodní prosazují vyrovnané hospodaření krajů a obcí. V případě, že rozpočet obce a kraje skončí přebytkem, používá se přebytek přednostně na splácení dluhů, případně obce uchovávají úspory konzervativně s nízkou mírou rizika.[[69]](#ref-69)
+Svobodní prosazují vyrovnané hospodaření krajů a obcí. V případě, že rozpočet obce a kraje skončí přebytkem, používá se přebytek přednostně na splácení dluhů, případně obce uchovávají úspory konzervativně s nízkou mírou rizika.[[61]](#ref-61)
 
 Obce a kraje nesmějí podnikat a dávat tak všanc peníze daňových poplatníků a majetek obce. Obce nesmějí bránit podnikání a jakýmkoliv dobročinným aktivitám založeným na dobrovolnosti a nesmějí jakkoliv pokřivovat tržní prostředí.
 
@@ -582,9 +567,9 @@ Je zřejmé, že Internet je prostředí, které může být nebezpečné. Je v�
 
 ### Autorské právo
 
-Svobodní odmítají nové regulace a zásahy do svobody občanů vedené s cílem dát tržní výhodu držitelům autorských práv. Boj proti tzv. „pirátství“ (nakládání s informacemi v rozporu s licencí) není ospravedlněním pro sledování internetové komunikace, zabavování datových zařízení na hranicích a odpojování od Internetu. Svobodní budou vystupovat proti ratifikaci Mezinárodní dohody o padělání (ACTA), která ukládá státům povinnost taková opatření zavádět a kterou tajně vyjednává Evropská komise za zády všech členských států EU[[70]](#ref-70).
+Svobodní odmítají nové regulace a zásahy do svobody občanů vedené s cílem dát tržní výhodu držitelům autorských práv. Boj proti tzv. „pirátství“ (nakládání s informacemi v rozporu s licencí) není ospravedlněním pro sledování internetové komunikace, zabavování datových zařízení na hranicích a odpojování od Internetu. Svobodní budou vystupovat proti ratifikaci Mezinárodní dohody o padělání (ACTA), která ukládá státům povinnost taková opatření zavádět a kterou tajně vyjednává Evropská komise za zády všech členských států EU[[62]](#ref-62).
 
-Autorský poplatek u datových nosičů a některých zařízení (tzv. výpalné[[71]](#ref-71)) je skrytou daní. Stejně tak jsou skrytou daní autorské poplatky za zpřístupnění veřejně šířeného televizního a rozhlasového vysílání. Výnosy z těchto poplatků jsou přerozdělovány mezi netransparentně hospodařící autorské svazy napojené na Ministerstvo kultury. Jedná se o nesmyslnou a nespravedlivou dotaci financovanou na úkor ostatních občanů a je třeba tento poplatek zrušit.
+Autorský poplatek u datových nosičů a některých zařízení (tzv. výpalné[[63]](#ref-63)) je skrytou daní. Stejně tak jsou skrytou daní autorské poplatky za zpřístupnění veřejně šířeného televizního a rozhlasového vysílání. Výnosy z těchto poplatků jsou přerozdělovány mezi netransparentně hospodařící autorské svazy napojené na Ministerstvo kultury. Jedná se o nesmyslnou a nespravedlivou dotaci financovanou na úkor ostatních občanů a je třeba tento poplatek zrušit.
 
 Rostoucí role státu v provádění ochrany autorských práv má škodlivé vedlejší důsledky pro kulturu. Svobodní se proto v této oblasti přiklánějí k občanskoprávnímu řešení sporů a efektivnímu využívání technologických prostředků na úkor veřejného práva a státních regulací.
 
@@ -600,12 +585,12 @@ Je právem každého člověka chránit své soukromí veškerými dostupnými p
 
 Současně nesouhlasíme s kriminalizací tzv. hackovacích nástrojů, postupů a informací o nich jakož i souvisejících vědních oborů. Je to nepřípustné omezování svobody, kdy se lidem implicitně přisuzuje zlý úmysl. Tyto postupy jsou významnou součástí světa informačních technologií a mají zásadní vliv na jejich vývoj a zdokonalování.
 
-Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[72]](#ref-72).
+Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[64]](#ref-64).
 
 S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, ...) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
 
-## XVI. Příloha 2 – Evropská dohoda[[73]](#ref-73)
+## XVI. Příloha 2 – Evropská dohoda[[65]](#ref-65)
 
 Jelikož občané ve Francii a Nizozemí řekli v referendu NE původnímu návrhu Evropské ústavy a následně občané Irska řekli NE Lisabonské smlouvě, která byla jen přejmenovaným původním návrhem Evropské ústavy, je třeba respektovat skutečnost, že zaznělo zřetelné NE další politické unifikaci Evropské unie;
 
@@ -755,7 +740,7 @@ Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou 
 
 <a name="ref-55"></a>[55]: http://www.mfcr.cz/cps/rde/xbcr/mfcr/475_2008_SR_P4_pdf.pdf
 
-<a name="ref-56"></a>[56]: Americký stát Michigan, který má stejný počet obyvatel jako Česká republika, zrušil od roku 2004 svých 43 poboček úřadů práce, které zaměstnávaly celkem pouhých 450 osob oproti 5136 úředníkům v České republice, a o dávky v nezaměstnanosti se od loňska žádá prostřednictvím automatizovaného telefonátu či přes internetový formulář. ( http://www.nascio.org/awards/2004Awards/digitalGovtGtoC.cfm )
+<a name="ref-56"></a>[56]: Americký stát Michigan, který má stejný počet obyvatel jako Česká republika, zrušil od roku 2004 svých 43 poboček úřadů práce, které zaměstnávaly celkem pouhých 450 osob oproti 5136 úředníkům v České republice, a o dávky v nezaměstnanosti se od loňska žádá prostřednictvím automatizovaného telefonátu či přes internetový formulář. (http://www.nascio.org/awards/2004Awards/digitalGovtGtoC.cfm)
 
 <a name="ref-57"></a>[57]: sazba pojištění od roku 2010
 
@@ -763,31 +748,15 @@ Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou 
 
 <a name="ref-59"></a>[59]: http://petrmach.cz/docs/LF09-2006.pdf
 
-<a name="ref-60"></a>[60]: O vzdělávání učitelů by se neměly starat byrokratické státní agentury, které z toho žijí. Pokud školy nebudou mít zájem o služby různých pedagogických ústavů, tyto ústavy pro nedostatek financí zaniknou. Viz tab. č. 1 a 5 v http://www.msmt.cz/uploads/Tab_OPRO_07.xls
+<a name="ref-60"></a>[60]: např. Hirschův index
 
-<a name="ref-61"></a>[61]: Možný návrh financování vědy: http://neutron.ujf.cas.cz/~strunz/download/special/FinancovaniVedy_05.doc
+<a name="ref-61"></a>[61]: V současnosti zákon žádá v zásadě vyrovnané hospodaření, ale umožňuje tuto zásadu bez obtíží obcházet prostou většinou zastupitelstva. Jedná se tedy o neúčinné ustanovení.
 
-<a name="ref-62"></a>[62]: Poměr veřejného a soukromého školství viz tabulka na konci článku na http://www.zkola.cz/zkedu/rodiceaverejnost/vybirameskolu/soukromeacirkevniskoly/29891.aspx
+<a name="ref-62"></a>[62]: Podrobnosti viz. http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement
 
-<a name="ref-63"></a>[63]: Základní dotace na žáka či studenta činí u soukromých základních škol jen 60 % a u škol středních 80 % dotace pro obdobnou školu veřejnou. Zákon 562/2004 Sb., viz http://www.msmt.cz/uploads/soubory/sb190_04.pdf, část desátá, pod §4 a §5.
+<a name="ref-63"></a>[63]: Kromě běžného významu lze také odvodit od „vypalovat CD, nebo DVD“.
 
-<a name="ref-64"></a>[64]: Na dotaci mají právní nárok pouze veřejné VŠ, nikoliv soukromé. Zákon č. 111/1998 Sb., o vysokých školách, viz http://www.msmt.cz/uploads/soubory/zakony/VKZakonplatnezneni111_1998.pdf , pod §18.
+<a name="ref-64"></a>[64]: Viz např. http://www.euro.cz/detail.jsp?id=19883
 
-<a name="ref-65"></a>[65]: Svobodní odmítají, vycházejíc i z úspěšně fungujících vzdělávacích systémů v zahraničí, státní maturitní zkoušku jako celek.
-
-<a name="ref-66"></a>[66]: Bez započtení vstupních nákladů je roční finanční náročnost odhadována na 0,25 mld Kč.
-
-<a name="ref-67"></a>[67]: V ČR je 26 vysokých škol financovaných ze státního rozpočtu (z toho 8 v Praze, 5 v Brně, 2 v Ostravě)
-
-<a name="ref-68"></a>[68]: Školné bude moci být financováno (kromě úspor) i z dlouhodobých komerčních půjček, popř. firemních či nadačních stipendií. Při současném objemu financování studia na VŠ státem ve výši 21.6 miliard Kč a při počtu studentů 327000 jsou celkové průměrné náklady na studenta 66000,- Kč ročně. Průměrné školné je tedy řešitelné komerční půjčkou (na 5 let studia 330000,- Kč).
-
-<a name="ref-69"></a>[69]: V současnosti zákon žádá v zásadě vyrovnané hospodaření, ale umožňuje tuto zásadu bez obtíží obcházet prostou většinou zastupitelstva. Jedná se tedy o neúčinné ustanovení.
-
-<a name="ref-70"></a>[70]: Podrobnosti viz. http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement
-
-<a name="ref-71"></a>[71]: Kromě běžného významu lze také odvodit od 'vypalovat CD, nebo DVD'.
-
-<a name="ref-72"></a>[72]: Viz např. http://www.euro.cz/detail.jsp?id=19883
-
-<a name="ref-73"></a>[73]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph	
-http://www.telegraph.co.uk/comment/telegraph-view/3617390/A-healthy-Constitution.html , za vhodný základ pro diskusi o alternativním uspořádání Evropy.
+<a name="ref-65"></a>[65]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph	
+http://www.telegraph.co.uk/comment/telegraph-view/3617390/A-healthy-Constitution.html, za vhodný základ pro diskusi o alternativním uspořádání Evropy.
