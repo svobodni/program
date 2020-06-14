@@ -583,9 +583,13 @@ Autorský poplatek u datových nosičů a některých zařízení (tzv. výpaln�
 
 Rostoucí role státu v provádění ochrany autorských práv má škodlivé vedlejší důsledky pro kulturu. Svobodní se proto v této oblasti přiklánějí k občanskoprávnímu řešení sporů a efektivnímu využívání technologických prostředků na úkor veřejného práva a státních regulací.
 
-### Veřejnoprávní média a koncesionářské poplatky
+### Veřejnoprávní média a vliv státu na vysílání
 
-Svobodní odmítají koncept tzv. veřejnoprávních médií hrazených z veřejných prostředků příp. koncesionářských poplatků a požadují jejich zrušení.
+Svobodní navrhují platbu koncesionářských poplatků za služby tzv. veřejnoprávních médií jen těmi, kdo jejich služeb dobrovolně využívají. Tyto sdělovací prostředky nesmí být dotovány z veřejných rozpočtů. [[65]](#ref-65)
+
+Při dobrovolném placení koncesionářského poplatku není nutné omezovat zákonem reklamu či stanovovat výši poplatku. Koncesionáři si sami určí detaily modelu financování.
+
+Stát nesmí určovat provozovateli televizního, rozhlasového či jiného vysílání výši podílu z celkového vysílacího času, který musí vyhradit pro díla určitého typu. Tak je tomu v současnosti např. u tzv. děl evropských, u kterých musí provozovatel vyhradit podíl nadpoloviční.
 
 ### Ochrana soukromí
 
@@ -595,7 +599,7 @@ Je právem každého člověka chránit své soukromí veškerými dostupnými p
 
 Současně nesouhlasíme s kriminalizací tzv. hackovacích nástrojů, postupů a informací o nich jakož i souvisejících vědních oborů. Je to nepřípustné omezování svobody, kdy se lidem implicitně přisuzuje zlý úmysl. Tyto postupy jsou významnou součástí světa informačních technologií a mají zásadní vliv na jejich vývoj a zdokonalování.
 
-Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[65]](#ref-65).
+Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[66]](#ref-66).
 
 S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, ...) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
@@ -603,7 +607,7 @@ S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou i
 
 Občané mají mít možnost rychle a bezplatně prostřednictvím internetu zjistit informace o veškerých řízeních vůči nim ze strany státní moci. Z toho důvodu má být Centrální evidence exekucí provozována Ministerstvem spravedlnosti a přístup do ní nesmí být zpoplatněn. Exekutorská komora České republiky musí nalézt jiný způsob financování.
 
-## XVI. Příloha 2 – Evropská dohoda[[66]](#ref-66)
+## XVI. Příloha 2 – Evropská dohoda[[67]](#ref-67)
 
 Jelikož občané ve Francii a Nizozemí řekli v referendu NE původnímu návrhu Evropské ústavy a následně občané Irska řekli NE Lisabonské smlouvě, která byla jen přejmenovaným původním návrhem Evropské ústavy, je třeba respektovat skutečnost, že zaznělo zřetelné NE další politické unifikaci Evropské unie;
 
@@ -771,7 +775,9 @@ Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou 
 
 <a name="ref-64"></a>[64]: Kromě běžného významu lze také odvodit od „vypalovat CD, nebo DVD“.
 
-<a name="ref-65"></a>[65]: Viz např. http://www.euro.cz/detail.jsp?id=19883
+<a name="ref-65"></a>[65]: Jako krátkodobý cíl jsou Svobodní ochotni podpořit i pouhé rozšíření možnosti volby občanů při využití jimi placených koncesionářských poplatků. To znamená například možnost asignace poplatku - buď veřejnoprávnímu médiu anebo do fondu oprav kulturních památek České republiky.
 
-<a name="ref-66"></a>[66]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph
+<a name="ref-66"></a>[66]: Viz např. http://www.euro.cz/detail.jsp?id=19883
+
+<a name="ref-67"></a>[67]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph
 http://www.telegraph.co.uk/comment/telegraph-view/3617390/A-healthy-Constitution.html, za vhodný základ pro diskusi o alternativním uspořádání Evropy.
