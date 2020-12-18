@@ -3,29 +3,29 @@
 
 ## I. Pojetí státu
 
-Je nesporné, že *pojetí státu má dalekosáhlé důsledky* pro každodenní politické rozhodování, pro hlasování o detailech kterékoli legislativní předlohy. Ideje a ideologie mají zásadní význam při získávání podpory lidí pro konkrétní politiku.[[1]](#ref-1) Politika bez filosofického obsahu se stává pouhým mechanickým bojem o moc a zákonitě vede k úpadku svobody.[[2]](#ref-2)
+Je nesporné, že *pojetí státu má dalekosáhlé důsledky* pro každodenní politické rozhodování, pro hlasování o detailech kterékoli legislativní předlohy. Ideje a ideologie mají zásadní význam při získávání podpory lidí pro konkrétní politiku.[^1] Politika bez filosofického obsahu se stává pouhým mechanickým bojem o moc a zákonitě vede k úpadku svobody.[^2]
 
 ### 1. Pro Svobodné má stát smysl
 
-Stát je politické společenství[[3]](#ref-3) s vlastním řádem[[4]](#ref-4) vztahujícím se na vymezené území[[5]](#ref-5), jehož úkolem je zabezpečovat především individuální svobodu svých občanů. Jinak řečeno stát je společenstvím osob a majetku, garantuje uspořádané vztahy mezi lidmi a vlastnické vztahy, je oprávněn a povinen řešit spory občanů. Demokratický stát je založen na systému vlády reprezentující na zastupitelském principu vůli občanů[[6]](#ref-6). Řád reprezentovaný státem musí být spravedlivý. Pokud stát nenaplňuje své poslání nebo používá nepřiměřené prostředky k dosažení svých cílů, je jeho legitimita zpochybněna.[[7]](#ref-7)
+Stát je politické společenství[^3] s vlastním řádem[^4] vztahujícím se na vymezené území[^5], jehož úkolem je zabezpečovat především individuální svobodu svých občanů. Jinak řečeno stát je společenstvím osob a majetku, garantuje uspořádané vztahy mezi lidmi a vlastnické vztahy, je oprávněn a povinen řešit spory občanů. Demokratický stát je založen na systému vlády reprezentující na zastupitelském principu vůli občanů[^6]. Řád reprezentovaný státem musí být spravedlivý. Pokud stát nenaplňuje své poslání nebo používá nepřiměřené prostředky k dosažení svých cílů, je jeho legitimita zpochybněna.[^7]
 
-Stát není protikladem občanské společnosti[[8]](#ref-8), obojí stejným způsobem odvozuje svůj původ od lidu – svobodných občanů. Politický řád a jeho instituce jsou neoddělitelnou součástí občanské společnosti[[9]](#ref-9). Politické struktury nemohou, nemají a nesmí být nahrazovány žádnými alternativami.
+Stát není protikladem občanské společnosti[^8], obojí stejným způsobem odvozuje svůj původ od lidu – svobodných občanů. Politický řád a jeho instituce jsou neoddělitelnou součástí občanské společnosti[^9]. Politické struktury nemohou, nemají a nesmí být nahrazovány žádnými alternativami.
 
 ### 2. Moc musí být omezena
 
-Jedním z největších pokušení pro lidskou bytost je touha po moci[[10]](#ref-10). I svěřená moc lidskou psychiku korumpuje a devastuje[[11]](#ref-11). Opakované selhávání politiků způsobuje, že stát vykazuje trvalou tendenci usurpovat si svobodný prostor svých občanů[[12]](#ref-12), ačkoliv vlastním posláním politického společenství je chránit svobodu jednotlivce včetně jeho práv, zejména majetkových.
+Jedním z největších pokušení pro lidskou bytost je touha po moci[^10]. I svěřená moc lidskou psychiku korumpuje a devastuje[^11]. Opakované selhávání politiků způsobuje, že stát vykazuje trvalou tendenci usurpovat si svobodný prostor svých občanů[^12], ačkoliv vlastním posláním politického společenství je chránit svobodu jednotlivce včetně jeho práv, zejména majetkových.
 
 Stát má a musí mít monopol na legitimizaci použití síly a donucovací moci. Politická a donucovací moc musí být včetně autority právního pořádku podrobena omezení, kontrole a musí být vyvážena.
 
-V praktické politice vždy, když by měla být moc státu posílena, musí být zároveň posílena kontrola moci.[[13]](#ref-13) Svobodní jsou proti zneužívání státu[[14]](#ref-14).
+V praktické politice vždy, když by měla být moc státu posílena, musí být zároveň posílena kontrola moci.[^13] Svobodní jsou proti zneužívání státu[^14].
 
 ### 3. Svrchovanost
 
-Stát je a má být právnickou osobou, subjektem mezinárodního práva. Svrchovanost státu (suverenita) je výsledkem historické kontinuity státnosti stejně jako výrazem filosofické identity (myšlenky), na které se zakládá. Stát není filosoficky neutrální, ačkoli není vázán na žádnou výlučnou ideologii[[15]](#ref-15).
+Stát je a má být právnickou osobou, subjektem mezinárodního práva. Svrchovanost státu (suverenita) je výsledkem historické kontinuity státnosti stejně jako výrazem filosofické identity (myšlenky), na které se zakládá. Stát není filosoficky neutrální, ačkoli není vázán na žádnou výlučnou ideologii[^15].
 
-Stát a svrchovanost od sebe nelze oddělit, stát vzniká díky své svrchovanosti a stát, který není svrchovaný, není státem.[[16]](#ref-16) Svrchovanost je nepopiratelné právo samostatně jednat efektivně podle vlastních pravidel jak v normální tak v extrémní situaci k tomu určeným úřadem.
+Stát a svrchovanost od sebe nelze oddělit, stát vzniká díky své svrchovanosti a stát, který není svrchovaný, není státem.[^16] Svrchovanost je nepopiratelné právo samostatně jednat efektivně podle vlastních pravidel jak v normální tak v extrémní situaci k tomu určeným úřadem.
 
-Stát není podřízen jiným institucím[[17]](#ref-17). Je vrcholnou autoritou jednající podle své vůle, nezávisle na vnější moci, je oprávněn činit konečná rozhodnutí podle vlastních pravidel a svého řádu.
+Stát není podřízen jiným institucím[^17]. Je vrcholnou autoritou jednající podle své vůle, nezávisle na vnější moci, je oprávněn činit konečná rozhodnutí podle vlastních pravidel a svého řádu.
 
 Ze svrchovanosti státu vyplývá i to, že stát je jediným zdrojem práva pro své území.
 
@@ -34,15 +34,15 @@ Ze svrchovanosti státu vyplývá i to, že stát je jediným zdrojem práva pro
 
 ### 1. Obecná východiska
 
-Východiskem pro utváření koncepce zahraničních vztahů Svobodných je svrchovanost, která v pojetí Svobodných navazuje na teorii státu. Koncept svrchovanosti vznikal v průběhu mnoha staletí a je jediným relativně osvědčeným nástrojem, který umožňuje, aby vedle sebe dlouhodobě žily velké a malé národy. Je to pojem nejenom politicko-právní, ale psychologický a filosofický[[18]](#ref-18). Respekt k národní svrchovanosti na určitém území je zároveň úctou ke kolektivním archetypům, jejichž vliv na utváření politiky nelze bez závažných důsledků zanedbávat.
+Východiskem pro utváření koncepce zahraničních vztahů Svobodných je svrchovanost, která v pojetí Svobodných navazuje na teorii státu. Koncept svrchovanosti vznikal v průběhu mnoha staletí a je jediným relativně osvědčeným nástrojem, který umožňuje, aby vedle sebe dlouhodobě žily velké a malé národy. Je to pojem nejenom politicko-právní, ale psychologický a filosofický[^18]. Respekt k národní svrchovanosti na určitém území je zároveň úctou ke kolektivním archetypům, jejichž vliv na utváření politiky nelze bez závažných důsledků zanedbávat.
 
 ### 2. Princip nevměšování
 
-Svrchovanost znamená, že se žádný stát nemá svévolně vměšovat do záležitostí jiného státu. Tím se nevylučuje z bilaterálních vztahů možnost jednat o čemkoli, na čem se strany shodnou. Respekt k svrchovanosti druhého státu však končí, jakmile sám začne porušovat či ohrožovat svrchovanost jiného státu. V takovém případě a jen v takovém případě je namístě vnější intervence.[[19]](#ref-19)
+Svrchovanost znamená, že se žádný stát nemá svévolně vměšovat do záležitostí jiného státu. Tím se nevylučuje z bilaterálních vztahů možnost jednat o čemkoli, na čem se strany shodnou. Respekt k svrchovanosti druhého státu však končí, jakmile sám začne porušovat či ohrožovat svrchovanost jiného státu. V takovém případě a jen v takovém případě je namístě vnější intervence.[^19]
 
 ### 3. Cíle zahraniční politiky a národní zájmy
 
-Zahraniční politika každého státu je povinna učinit veškeré kroky pro zachování nezávislosti, musí hájit vlastní svrchovanost a územní celistvost (integritu)[[20]](#ref-20). Kromě toho by měl každý stát vést nepřetržitou diskusi (pravidelně se opakující diskusi) o národních zájmech. Prosazování národních zájmů resp. jejich podpora musí být základním rámcem a imperativem pro zahraniční politiku. Národní zájmy[[21]](#ref-21) jsou konečným seznamem prioritních cílů pro určité období, které platí nezávisle na politické filosofii (invariant politických filosofií).
+Zahraniční politika každého státu je povinna učinit veškeré kroky pro zachování nezávislosti, musí hájit vlastní svrchovanost a územní celistvost (integritu)[^20]. Kromě toho by měl každý stát vést nepřetržitou diskusi (pravidelně se opakující diskusi) o národních zájmech. Prosazování národních zájmů resp. jejich podpora musí být základním rámcem a imperativem pro zahraniční politiku. Národní zájmy[^21] jsou konečným seznamem prioritních cílů pro určité období, které platí nezávisle na politické filosofii (invariant politických filosofií).
 
 ### 4. NATO jako filosofické východisko
 
@@ -56,13 +56,13 @@ Pro dosahování hlavních zahraničně-politických cílů České republiky, z
 
 Multilaterální politiku považují Svobodní za doplněk bilaterálních vztahů. Pro mezinárodní právo je doposud do značné míry typický cynismus: mezinárodní soud v Haagu, který by měl spory řešit, je čím dál tím více nahrazován mezinárodní arbitráží právě z důvodu jeho nefunkčnosti a nepřiměřených lhůt.
 
-Svobodní trvají na hluboké reformě OSN a redukci doprovodných aktivit a jejich oddělení od vlastního jádra Rady bezpečnosti OSN. Ani Rada bezpečnosti, ani Valné shromáždění nejsou skutečným garantem spravedlivých vztahů mezi státy a z důvodů rostoucích asymetrických rizik se dokonce ukazuje, že je třeba vytvořit nový, efektivnější model kolektivní bezpečnosti.[[22]](#ref-22)
+Svobodní trvají na hluboké reformě OSN a redukci doprovodných aktivit a jejich oddělení od vlastního jádra Rady bezpečnosti OSN. Ani Rada bezpečnosti, ani Valné shromáždění nejsou skutečným garantem spravedlivých vztahů mezi státy a z důvodů rostoucích asymetrických rizik se dokonce ukazuje, že je třeba vytvořit nový, efektivnější model kolektivní bezpečnosti.[^22]
 
 Svobodní odmítají požadavek zřídit funkci zástupce Evropské unie jako nového stálého člena Rady bezpečnosti OSN. Takovým krokem by se v Radě bezpečnosti vzhledem k nedemokratické institucionální povaze EU jen posílilo zastoupení nedemokratických, nebo po demokratické stránce problematických členů.
 
 Za perspektivní instituci považují Svobodní WTO a podporují další jednání o liberalizaci mezinárodního obchodu a to i včetně zemědělských produktů a služeb.
 
-Mezinárodní spolupráce v rámci OBSE obsahuje významný prvek kombinace tří tzv. „košů“ bezpečnostního, ekonomického a respektu k lidským právům[[23]](#ref-23). V současné podobě však OBSE poskytuje pouze rámec pro několik zásadních smluv týkajících se bezpečnostního režimu.
+Mezinárodní spolupráce v rámci OBSE obsahuje významný prvek kombinace tří tzv. „košů“ bezpečnostního, ekonomického a respektu k lidským právům[^23]. V současné podobě však OBSE poskytuje pouze rámec pro několik zásadních smluv týkajících se bezpečnostního režimu.
 
 Rada Evropy sdružuje nejširší okruh evropských států, které se zavazují respektovat mnoho smluvních dokumentů. Ačkoli jsou Svobodní k některým z nich kritičtí, velmi si váží autority, kterou má Evropský soud pro lidská práva, který sídlí ve Štrasburku.
 
@@ -127,7 +127,7 @@ Krom toho je úkolem armády i spolupráce s dalšími složkami státu zejména
 
 Svobodní požadují zvýšení schopností armády tak, aby byla schopna bránit území republiky při lokálním konfliktu, což znamená vedle profesionální armády i budování početnějších záloh na základě dobrovolného výcviku civilního obyvatelstva.
 
-Svobodní považují za zásadní prohlubovat alianční vztahy[[24]](#ref-24) na bilaterální rovině, jak to umožňují mezinárodní smlouvy. Svobodní odmítají snahy o vytvoření armády EU.
+Svobodní považují za zásadní prohlubovat alianční vztahy[^24] na bilaterální rovině, jak to umožňují mezinárodní smlouvy. Svobodní odmítají snahy o vytvoření armády EU.
 
 
 ## IV. Reforma právní filosofie
@@ -138,7 +138,7 @@ Komunistický režim důsledně a programově potíral demokratické základy pr
 
 Po rozpadu komunistického režimu nemělo Československo a později Česká republika kvalifikované právníky, kteří by byli schopni navrhnout základy reformy právní filosofie, přistoupilo se na systém záplatování socialistického práva. Navzdory heroické legislativní činnosti se na tomto přístupu doposud mnoho nezměnilo. Některé zákony jsou sice rekodifikované, ale v podstatě se jedná o jazykovou úpravu a vylepšení systematiky, na teoretických základech právního řádu se nic nemění a to ani po přijetí nové Ústavy.
 
-Svobodní zahájí přípravu reformy právní filosofie, pokusí se navrhnout alespoň základní zásady a vyzvou ostatní politické strany a odbornou veřejnost k podrobné diskusi[[25]](#ref-25).
+Svobodní zahájí přípravu reformy právní filosofie, pokusí se navrhnout alespoň základní zásady a vyzvou ostatní politické strany a odbornou veřejnost k podrobné diskusi[^25].
 
 ### 2. Spravedlivý stát
 
@@ -148,9 +148,9 @@ Svobodní zahájí přípravu reformy právní filosofie, pokusí se navrhnout a
 
 Svobodní preferují právo na spravedlivý proces před usnadňováním práce úředníků. Z toho důvodu Svobodní nesouhlasí s nadužíváním právního konstruktu fikce doručení, na jehož základě státní správa a soudy považují nepřevzatou obsílku za doručenou. Justice by pro doručování důležitých písemností měla v odůvodněných případech namísto listovních služeb České pošty preferovat soudní doručovatele či případně orgány Justiční stráže a soudní exekutory, kteří jsou schopni adresáta zastihnout s vyšší spolehlivostí.
 
-### 3. Lidská práva a občanské svobody[[26]](#ref-26)
+### 3. Lidská práva a občanské svobody[^26]
 
-Úcta k druhému člověku se odvozuje od morálních principů, nikoli politických, a proto na ni nelze uplatňovat politická kritéria. Koncept lidských práv v politicko-právním pojetí je smluvenou konvencí, na které je možné se politicky shodnout, a je nutné jej stále aktualizovat, nikdy nemůže být konečný a neměnný[[27]](#ref-27). Zásadně je třeba odmítnout odvozování jakékoli politické filosofie z takovýchto konvencí, které naopak mají být výslednicí politických filosofií.
+Úcta k druhému člověku se odvozuje od morálních principů, nikoli politických, a proto na ni nelze uplatňovat politická kritéria. Koncept lidských práv v politicko-právním pojetí je smluvenou konvencí, na které je možné se politicky shodnout, a je nutné jej stále aktualizovat, nikdy nemůže být konečný a neměnný[^27]. Zásadně je třeba odmítnout odvozování jakékoli politické filosofie z takovýchto konvencí, které naopak mají být výslednicí politických filosofií.
 
 Základní lidská práva jsou právo na život, svobodu a majetek. Další práva se z těchto tří základních lidských práv odvozují. Svobodní se proto ze zásady staví proti ideologii a praxi zaměňování, oslabování a zpochybňování uvedených tří základních lidských práv odvozenými právy sociálními, hospodářskými, menšinovými, genderovými, environmentálními atp. Základní individuální lidská práva nelze oslabovat, porušovat, potlačovat a nahrazovat právy kolektivními.
 
@@ -162,11 +162,11 @@ Svobodní považují občanské svobody za základní pilíř, na kterém stojí
 
 ### 4. Soukromí a vlastnické právo
 
-Soukromí a vlastnictví je pro Svobodné jedním ze základních pilířů svobodné společnosti. Vlastnické právo je právem absolutním. Svobodní jsou zásadně proti návrhům umožňujícím vyvlastňování majetku ve prospěch kohokoli, oprávněné není ani vyvlastňování ve veřejném zájmu[[28]](#ref-28). Pokud má mít svobodná společnost šanci na přetrvání, musejí občané nejprve uznat a přijmout za své, že jakýkoliv zásah proti svobodě a majetku jednotlivce je nepřípustným násilím a že jedinou racionální funkcí státu je takovému násilí bránit a zasahovat proti němu. Především vláda se nesmí takového násilí dopouštět. V demokratickém státě musí být považováno za zlo, jestliže je někdo nucen k obětování svých hodnot ve prospěch druhého.
+Soukromí a vlastnictví je pro Svobodné jedním ze základních pilířů svobodné společnosti. Vlastnické právo je právem absolutním. Svobodní jsou zásadně proti návrhům umožňujícím vyvlastňování majetku ve prospěch kohokoli, oprávněné není ani vyvlastňování ve veřejném zájmu[^28]. Pokud má mít svobodná společnost šanci na přetrvání, musejí občané nejprve uznat a přijmout za své, že jakýkoliv zásah proti svobodě a majetku jednotlivce je nepřípustným násilím a že jedinou racionální funkcí státu je takovému násilí bránit a zasahovat proti němu. Především vláda se nesmí takového násilí dopouštět. V demokratickém státě musí být považováno za zlo, jestliže je někdo nucen k obětování svých hodnot ve prospěch druhého.
 
 #### Efektivní vymáhání pohledávek
 
-Dosavadní podoba vymáhání pohledávek soudními exekutory je pro Svobodné nepřijatelná. Věřitelé a vymahači jsou nevhodně motivováni nechat narůstat úroky z prodlení a neupomínat dlužníky o vyrovnání jejich závazků. Dochází tak k případům zabavování cenného majetku z důvodu vymáhání původně bagatelních pohledávek. Proto je nutné reformovat systém exekucí tak, aby břímě vymáhání přešlo z dlužníka na věřitele,[[29]](#ref-29) jenž by měl volnost ve výběru exekutora. Součástí reformy musí být i změna odměňování exekutorů, aby za svůj výkon měli možnost stanovit si skutečnou tržní cenu, čímž by došlo k navýšení konkurence a efektivity vymáhání pohledávek.
+Dosavadní podoba vymáhání pohledávek soudními exekutory je pro Svobodné nepřijatelná. Věřitelé a vymahači jsou nevhodně motivováni nechat narůstat úroky z prodlení a neupomínat dlužníky o vyrovnání jejich závazků. Dochází tak k případům zabavování cenného majetku z důvodu vymáhání původně bagatelních pohledávek. Proto je nutné reformovat systém exekucí tak, aby břímě vymáhání přešlo z dlužníka na věřitele,[^29] jenž by měl volnost ve výběru exekutora. Součástí reformy musí být i změna odměňování exekutorů, aby za svůj výkon měli možnost stanovit si skutečnou tržní cenu, čímž by došlo k navýšení konkurence a efektivity vymáhání pohledávek.
 
 Protože provedením mobiliární exekuce bývá citelně zasahováno exekuovanému do jeho obydlí a soukromí, měli by ji exekutoři umožněno vykonat pouze za asistence příslušníků policie a na základě soudního povolení teprve poté, kdy ostatní pokusy o vymožení pohledávky selhaly.
 
@@ -180,7 +180,7 @@ Příkladem je antidiskriminační zákon, který popírá princip rovnosti, dok
 
 Prvky přímé demokracie považují Svobodní za dobrý doplněk demokratických rozhodovacích postupů, nikoliv jejich náhradu.
 
-Svobodní odmítají koncept referenda, podle kterého má lidové hlasování nahrazovat rozhodnutí zvoleného zastupitelského orgánu. Přiklání se ke konceptu nazývanému „lidové veto“, ve kterém Parlament nesmí žádné lidové hlasování iniciovat svévolně, jeho povinností je přijmout ve věci rozhodnutí. Proti takovému rozhodnutí mají mít občané možnost iniciovat lidové hlasování, které parlamentní rozhodnutí buď potvrdí, nebo zamítne. V případě zamítnutí by mělo zpravidla následovat rozpuštění Parlamentu[[30]](#ref-30).
+Svobodní odmítají koncept referenda, podle kterého má lidové hlasování nahrazovat rozhodnutí zvoleného zastupitelského orgánu. Přiklání se ke konceptu nazývanému „lidové veto“, ve kterém Parlament nesmí žádné lidové hlasování iniciovat svévolně, jeho povinností je přijmout ve věci rozhodnutí. Proti takovému rozhodnutí mají mít občané možnost iniciovat lidové hlasování, které parlamentní rozhodnutí buď potvrdí, nebo zamítne. V případě zamítnutí by mělo zpravidla následovat rozpuštění Parlamentu[^30].
 
 Svobodní navrhují přesnou regulaci spravedlivých podmínek při kampani k jakémukoli lidovému hlasování. Stát (vláda) nesmí žádným způsobem ovlivňovat průběh kampaně stejně, jako při volbách. Použití státních peněz a jakékoli ovlivňování občanů od státních úředníků by měla být trestána stejně, jako maření voleb. To se týká i veřejnoprávních médií.
 
@@ -193,7 +193,7 @@ Stát není od toho, aby podnikal. Svobodní lidé sami vědí, co mají na trhu
 
 ### 2. Energetika
 
-Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze zahraničí. Zdroje těchto surovin jsou naštěstí diverzifikované, přesto je potřeba nezhoršovat energetickou bezpečnost českého hospodářství. Stát nesmí bránit výstavbě dalších bloků jaderných elektráren[[31]](#ref-31).
+Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze zahraničí. Zdroje těchto surovin jsou naštěstí diverzifikované, přesto je potřeba nezhoršovat energetickou bezpečnost českého hospodářství. Stát nesmí bránit výstavbě dalších bloků jaderných elektráren[^31].
 
 Stát na základě směrnic EU podporuje neefektivní využívání zdrojů. V České republice se tak povinně na základě pokřivených cen a dotací vyrábí drahá elektřina ze solárních panelů a větrníků, přestože technologie a přírodní podmínky neumožňují efektivní využití těchto zdrojů. Důsledkem je růst cen elektřiny pro domácnosti i firmy. Svobodní jsou pro zrušení minimálních výkupních cen a povinného odkupu elektřiny z tzv. alternativních zdrojů. Svobodní jsou také pro zrušení povinnosti přimíchávat biopaliva do nafty a benzínu. Tato politika zdražuje paliva i potraviny.
 
@@ -230,7 +230,7 @@ Svobodní prosazují ústavní zákon o rozpočtové kázni, který by ztěžova
 
 Takový ústavní zákon by vládu zavazoval předkládat státní rozpočet s vyrovnanými příjmy a výdaji. Deficitní rozpočet by bylo možné přijmout jen ústavní třípětinovou většinou. Tím se nevylučuje možné zadlužení v případě války či mimořádné přírodní katastrofy – v takovém případě se snadno najde shoda mezi vládou a opozicí. Nutná ústavní většina ale vede vládu k rozpočtové disciplíně v normálním období. V případě, že by rozpočet skončil přebytkem, musel by být přebytek přednostně použit na splátku státního dluhu. V případě, že by rozpočet skončil neschváleným deficitem, musela by následovat účinná sankce.
 
-Navrhujme též omezit možnost zvyšovat daně[[32]](#ref-32). Návrh zákona, který by představoval zvýšení daní nebo zavedení daní nových, by musel získat souhlas lidí v referendu.
+Navrhujme též omezit možnost zvyšovat daně[^32]. Návrh zákona, který by představoval zvýšení daní nebo zavedení daní nových, by musel získat souhlas lidí v referendu.
 
 ### 2. Zrušení daně z příjmu fyzických osob
 
@@ -269,7 +269,7 @@ Svobodní chtějí, aby část daně z příjmu, kterou poplatník platí, šla 
 
 *Konec znehodnocování úspor*
 
-Svobodní usilují o to, aby se ČNB stala – při zachování institucionální nezávislosti na vládě – neutrální správkyní české měny, která by neregulovala ceny, kurzy, úroky, která by jen neinflačně vydávala přiměřené množství oběživa. Neplatila by zbytečné úroky bankám a odváděla by do státního rozpočtu zisk, který by pomáhal snižovat deficit veřejných financí nebo by umožnil snížit daně ve prospěch všech daňových poplatníků.[[33]](#ref-33)
+Svobodní usilují o to, aby se ČNB stala – při zachování institucionální nezávislosti na vládě – neutrální správkyní české měny, která by neregulovala ceny, kurzy, úroky, která by jen neinflačně vydávala přiměřené množství oběživa. Neplatila by zbytečné úroky bankám a odváděla by do státního rozpočtu zisk, který by pomáhal snižovat deficit veřejných financí nebo by umožnil snížit daně ve prospěch všech daňových poplatníků.[^33]
 
 ### 1. Měnová konkurence
 
@@ -283,7 +283,7 @@ Pokud by mělo dojít ke zrušení koruny jako národní měny a k jejímu nahra
 
 Svobodní jsou pro to, aby centrální banka byla neutrálním správcem měny, který nemá ambici regulovat klíčovou cenu – úrok. Úrok by měl být výsledkem tržní poptávky a nabídky na kapitálovém trhu.
 
-Svobodní chtějí, aby Česká národní banka spravovala národní měnu tak, aby nedocházelo k inflaci. Hodnota úspor lidí (ať v bankách nebo v peněženkách) by neměla být snižována v důsledku měnové politiky, v důsledku nadměrného tisku peněz. Chceme trvat na dodržování české ústavy v tom smyslu, aby výsledkem provádění měnové politiky byla stabilita cenové hladiny. Podle Ústavy České republiky je péče o cenovou stabilitu hlavním cílem centrální banky[[34]](#ref-34).
+Svobodní chtějí, aby Česká národní banka spravovala národní měnu tak, aby nedocházelo k inflaci. Hodnota úspor lidí (ať v bankách nebo v peněženkách) by neměla být snižována v důsledku měnové politiky, v důsledku nadměrného tisku peněz. Chceme trvat na dodržování české ústavy v tom smyslu, aby výsledkem provádění měnové politiky byla stabilita cenové hladiny. Podle Ústavy České republiky je péče o cenovou stabilitu hlavním cílem centrální banky[^34].
 
 Chceme také, aby Česká národní banka přestala platit komerčním bankám úroky v podobě tzv. repo sazby. Jedná se v podstatě o dotace bankovnímu sektoru, jemuž tak ČNB generuje na úkor nás všech uživatelů korun zisk. Navíc tím dochází k tzv. efektu vytěsňování, kdy komerční banky upřednostňují úložky vkladů u centrální banky před půjčováním peněz reálným podnikatelům, kteří mají dobré nápady a chtějí si půjčit kapitál.
 
@@ -291,7 +291,7 @@ Tyto „dotace“ bankám snižují zisk ČNB, resp. posílají hospodaření Č
 
 ### 4. Zisk České národní banky
 
-Drtivá většina centrálních bank všude ve světě je vysoce zisková. Protože centrální banka jako monopolní emitent peněz na daném území emituje neúročená pasiva (bankovky) výměnou za úročená aktiva (cenné papíry), je její hospodaření přirozeně ziskové. ČNB nahromadila za uplynulé období aktiva (v podobě cenných papírů v cizích měnách) v hodnotě přes 1000 miliard korun. Mohla by tak snadno generovat roční úrokový zisk několika desítek miliard korun. Její úrokové výnosy jsou ale smazávány vyplácenými úroky českým bankám a kurzovými ztrátami.[[35]](#ref-35)
+Drtivá většina centrálních bank všude ve světě je vysoce zisková. Protože centrální banka jako monopolní emitent peněz na daném území emituje neúročená pasiva (bankovky) výměnou za úročená aktiva (cenné papíry), je její hospodaření přirozeně ziskové. ČNB nahromadila za uplynulé období aktiva (v podobě cenných papírů v cizích měnách) v hodnotě přes 1000 miliard korun. Mohla by tak snadno generovat roční úrokový zisk několika desítek miliard korun. Její úrokové výnosy jsou ale smazávány vyplácenými úroky českým bankám a kurzovými ztrátami.[^35]
 
 Hospodaření České národní banky by se mělo vhodnou změnou měnové politiky otočit do trvalého zisku, aby tento zisk mohl být plně odváděn do státního rozpočtu, tak jak tomu bývá jinde ve světě.
 
@@ -300,17 +300,17 @@ Hospodaření České národní banky by se mělo vhodnou změnou měnové polit
 
 Svobodní odmítají ideologické předsudky vůči dálnicím a individuální automobilové dopravě. Osobní doprava je výrazem svobody jednotlivce a jen každý člověk sám ví, jestli je pro něj lepší doprava individuální nebo hromadná. Dálnice patří do české krajiny stejně jako železnice a vodní díla.
 
-Svobodní odmítají bodový systém v silniční dopravě[[36]](#ref-36). Je založen na principu dvojího trestu za tentýž čin a v praxi vytváří korupční prostředí[[37]](#ref-37). Drakonické postihy v podobě nepřiměřeně vysokých pokut a bodů nezajistí bezpečnost na silnicích. Bezpečný provoz musí být výsledkem jasných a vymahatelných pravidel a svobodného rozhodování řidičů, které vychází z jejich vědomí odpovědnosti. Represe k takovému cíli nevede a atmosféra strachu k bezpečnosti nepřispívá. Chybná jsou samotná východiska zákona, proto zákon nelze „opravit“ novelizacemi. Svobodní prosazují úplnou rekodifikaci celého zákona a zrušení bodového systému.
+Svobodní odmítají bodový systém v silniční dopravě[^36]. Je založen na principu dvojího trestu za tentýž čin a v praxi vytváří korupční prostředí[^37]. Drakonické postihy v podobě nepřiměřeně vysokých pokut a bodů nezajistí bezpečnost na silnicích. Bezpečný provoz musí být výsledkem jasných a vymahatelných pravidel a svobodného rozhodování řidičů, které vychází z jejich vědomí odpovědnosti. Represe k takovému cíli nevede a atmosféra strachu k bezpečnosti nepřispívá. Chybná jsou samotná východiska zákona, proto zákon nelze „opravit“ novelizacemi. Svobodní prosazují úplnou rekodifikaci celého zákona a zrušení bodového systému.
 
 Svobodní navrhují, aby tam, kde je to technicky možné, nebyla omezována maximální povolená rychlost, případně aby byla umožněna rychlost, která neznamená větší rizika oproti současnému stavu.
 
 Motoristé patří skrze různé daně a poplatky mezi největší přispěvatele do státního rozpočtu.
 
-Svobodní prosazují snížení množství dopravního značení a sjednocení přístupu ke značení tak, aby se na něj mohl řidič spolehnout[[38]](#ref-38). Dopravní značení musí být logické a bezesporné.
+Svobodní prosazují snížení množství dopravního značení a sjednocení přístupu ke značení tak, aby se na něj mohl řidič spolehnout[^38]. Dopravní značení musí být logické a bezesporné.
 
-Svobodní odmítají předsudky[[39]](#ref-39) vůči českým řidičům, kteří se údajně neumí chovat stejně odpovědně, jako řidiči v jiných zemích.
+Svobodní odmítají předsudky[^39] vůči českým řidičům, kteří se údajně neumí chovat stejně odpovědně, jako řidiči v jiných zemích.
 
-Svobodní budou prosazovat změnu povinného ručení tak, aby místo povinného pojištění vázaného na vozidlo bylo možné uzavřít pojištění vázané na škodu způsobenou řidičem.[[40]](#ref-40)
+Svobodní budou prosazovat změnu povinného ručení tak, aby místo povinného pojištění vázaného na vozidlo bylo možné uzavřít pojištění vázané na škodu způsobenou řidičem.[^40]
 
 Svobodní budou prosazovat zrušení nehospodárné povinnosti přidávat do pohonných hmot biopaliva. Považují to za nehospodárné i nešetrné k životnímu prostředí. Po jeho zrušení klesnou ceny pohonných hmot.
 
@@ -321,17 +321,17 @@ Svobodní budou prosazovat zrušení nehospodárné povinnosti přidávat do poh
 
 ### 1. Skutečná ochrana prostředí
 
-Svobodní jsou pro skutečnou ochranu prostředí, ve kterém žijeme. Stát má mít jasná pravidla[[41]](#ref-41) pro provoz zařízení, která vypouštějí škodliviny. Emisní limity mohou být přísnější s růstem bohatství společnosti. Nepovolené skládky odpadu mají být vyšetřovány a viníci trestáni. Svobodní zejména odsuzují dovoz německého odpadu, který je přímým důsledkem evropské směrnice o volném pohybu odpadu v rámci EU.
+Svobodní jsou pro skutečnou ochranu prostředí, ve kterém žijeme. Stát má mít jasná pravidla[^41] pro provoz zařízení, která vypouštějí škodliviny. Emisní limity mohou být přísnější s růstem bohatství společnosti. Nepovolené skládky odpadu mají být vyšetřovány a viníci trestáni. Svobodní zejména odsuzují dovoz německého odpadu, který je přímým důsledkem evropské směrnice o volném pohybu odpadu v rámci EU.
 
 Za čistotu na veřejných komunikacích odpovídá vlastník. Vlastník pozemku má mít současně možnost domoci se náhrady škody způsobené cizí osobou. Drobný nepořádek tolik patrný v našich městech, vesnicích a lesích nás bohužel zřetelně odlišuje od Švýcarska a dalších pořádkumilovných zemí. Pořádnost (neodhazování odpadků na zem) je věcí etiky a výchovy, stát a obce mají ale jasnou odpovědnost za úklid tehdy, když nejsou schopni jednotlivé drobné znečišťovatele chytit při činu. Ochrana čistoty začíná u prvního odhozeného papírku, jeden odhozený odpadek vyvolává další.
 
-Recyklace je důležitou součástí ekonomiky od nepaměti. Zejména kovy, sklo, papír a plasty jsou předměty vhodné ke znovupoužití. Recyklace ale nesmí být nařizována z ideologických důvodů. Jinak hrozí, že recyklace za každou cenu bude v konečném důsledku pro přírodu škodlivá[[42]](#ref-42). Česká republika má jednu z nejvyšších měr recyklace v Evropě. Lidé recyklují sklo, papír a plasty dobrovolně. Firmy, které tříděný odpad sbírají, musí být zodpovědné za pořádek kolem sběrných míst. Český systém dobrovolné recyklace je funkční a měl by být uchován, neměl by být nahrazován povinným zálohováním plastových lahví.
+Recyklace je důležitou součástí ekonomiky od nepaměti. Zejména kovy, sklo, papír a plasty jsou předměty vhodné ke znovupoužití. Recyklace ale nesmí být nařizována z ideologických důvodů. Jinak hrozí, že recyklace za každou cenu bude v konečném důsledku pro přírodu škodlivá[^42]. Česká republika má jednu z nejvyšších měr recyklace v Evropě. Lidé recyklují sklo, papír a plasty dobrovolně. Firmy, které tříděný odpad sbírají, musí být zodpovědné za pořádek kolem sběrných míst. Český systém dobrovolné recyklace je funkční a měl by být uchován, neměl by být nahrazován povinným zálohováním plastových lahví.
 
 ### 2. Ochrana přírody versus ideologie
 
 Svobodní odmítají ideologické pojetí ochrany životního prostředí, pro které jsou typické upřednostňování přírody bez ohledu na člověka a předsudky vůči kysličníku uhličitému, plynu, který vydechujeme a který rostliny absorbují. Svobodní vidí ochranu prostředí, ve kterém žijeme opačně: Příroda se chrání pro člověka, který je její součástí. Důležité je zabraňovat bezprostřednímu znečišťování škodlivinami a odpadem, nikoliv soustředit se na boj s emisemi kysličníku uhličitého, který je přirozenou součástí přírody.
 
-Ochrana přírody a hospodářský rozvoj nejsou v protikladu. Modernější technologie, které jsou produktem nepokřivené tržní soutěže, přirozeně šetří energii.[[43]](#ref-43) Svobodní odmítají ideologie, podle kterých je hospodářský rozvoj a ochrana přírody v protikladu a podle kterých je třeba růst bohatství lidí omezovat. V tomto smyslu se ideologie environmentalistů neliší od marxistického nároku na neomylnost.
+Ochrana přírody a hospodářský rozvoj nejsou v protikladu. Modernější technologie, které jsou produktem nepokřivené tržní soutěže, přirozeně šetří energii.[^43] Svobodní odmítají ideologie, podle kterých je hospodářský rozvoj a ochrana přírody v protikladu a podle kterých je třeba růst bohatství lidí omezovat. V tomto smyslu se ideologie environmentalistů neliší od marxistického nároku na neomylnost.
 
 Svobodní jsou pro zastavení dotací tzv. environmentalistickým spolkům. Svobodní jsou pro změnu zákonů tak, aby občanská sdružení neměla možnost svévolně blokovat investice, které splňují stanovené podmínky. Účastníky stavebního řízení by měli být vlastníci sousedních pozemků, nikoliv samozvané ekologické organizace. U staveb, které s sebou nesou externality, by měl být pečlivě posuzován vliv na životní prostředí (EIA), ale environmentalistické spolky by neměly mít možnost stavby zdržovat. Posouzení vlivu na životní prostředí by mělo být věcnou a jasnou analýzou. Posuzovat je třeba nejen dopad nové stavby, ale i dopad, který na životní prostředí bude mít neprovedení stavby.
 
@@ -356,17 +356,17 @@ Obtíže plynoucí ze stanovení hranice mezi péčí hrazenou z veřejného poj
 
 ### 2. Individuální pojištění
 
-Pro individuální pojištění naopak platí běžné zásady pojišťovnictví, od kterých se odvíjí jeho cena. Pojišťovny, které takové pojištění poskytují, musí vytvářet rezervní fondy jako jakákoli jiná pojišťovna. Za hospodaření takových pojišťoven stát nenese přímou odpovědnost, role státu spočívá jen ve všeobecném dohledu. V rámci tohoto pojištění si klient sjedná individuální pojistné podmínky[[44]](#ref-44). Může k nim patřit i pojištění se spoluúčastí, které patrně znamená nižší pravidelné platby.
+Pro individuální pojištění naopak platí běžné zásady pojišťovnictví, od kterých se odvíjí jeho cena. Pojišťovny, které takové pojištění poskytují, musí vytvářet rezervní fondy jako jakákoli jiná pojišťovna. Za hospodaření takových pojišťoven stát nenese přímou odpovědnost, role státu spočívá jen ve všeobecném dohledu. V rámci tohoto pojištění si klient sjedná individuální pojistné podmínky[^44]. Může k nim patřit i pojištění se spoluúčastí, které patrně znamená nižší pravidelné platby.
 
 ### 3. Další podmínky
 
 Svobodní jsou pro zjednodušení zřizování soukromých praxí bez zasahování pojišťoven a úřadů. Lékaři poskytující zdravotnické služby mají dostat zaplaceno bezprostředně a nezávisle na pojištění pacienta. Účet za lékařské služby si nechá pacient proplatit u své pojišťovny. To samozřejmě nevylučuje bezhotovostní vyúčtování poskytnutých služeb s pojišťovnou. Případné spory mezi klientem a pojišťovnou řeší pojišťovenské soudy v zákonem stanovených lhůtách (např. 15 pracovních dní). Pokladniční systém nevylučuje, že v limitech sjednaných v pojistné smlouvě dostane pacient péči, aniž by musel jednat o proplacení.
 
-Svobodní požadují, aby platila rovnost všech zdravotnických zařízení[[45]](#ref-45) bez ohledu na typ jejich právnické osoby popř., pokud jde o fyzickou osobu.
+Svobodní požadují, aby platila rovnost všech zdravotnických zařízení[^45] bez ohledu na typ jejich právnické osoby popř., pokud jde o fyzickou osobu.
 
 ### 4. Tvorba cen
 
-Svobodní směřují k systému, v němž by mohl být zrušen bodový sazebník, tedy regulace cen ve zdravotnictví i jakákoli jednání o cenách poskytované péče[[46]](#ref-46). Svobodná tvorba cen je nejlepší zárukou, že pacient zaplatí za lékařské služby nejnižší cenu.
+Svobodní směřují k systému, v němž by mohl být zrušen bodový sazebník, tedy regulace cen ve zdravotnictví i jakákoli jednání o cenách poskytované péče[^46]. Svobodná tvorba cen je nejlepší zárukou, že pacient zaplatí za lékařské služby nejnižší cenu.
 
 Platby za stravu v nemocnici se budou odvíjet od konkrétních podmínek zdravotnického zařízení, nespadají do běžného zdravotního pojištění. Úroveň hotelových služeb v nemocnici si pacient sám zvolí a zaplatí, může si sjednat i zvláštní připojištění.
 
@@ -400,19 +400,19 @@ Stát ročně vyplácí na desítky milionů sociálních dávek (mimo důchodů
 | Dávky hmotné nouze   |                1,1 |            2,8 |
 | **CELKEM**           |         **19,232** |      **43,82** |
 
-Svobodní navrhují reformu těchto sociálních dávek podle Zákona o státní sociální podpoře[[47]](#ref-47)
+Svobodní navrhují reformu těchto sociálních dávek podle Zákona o státní sociální podpoře[^47]
 
 - přídavek na dítě
 - rodičovský příspěvek
 - sociální příplatek
 - příspěvek na bydlení
 
-a těchto sociálních dávek podle Zákona o pomoci v hmotné nouzi[[48]](#ref-48)
+a těchto sociálních dávek podle Zákona o pomoci v hmotné nouzi[^48]
 
 - přídavek na živobytí
 - doplatek na bydlení
 
-Svobodní navrhují jejich transformaci do jediné dávky v podobě tzv. negativní daně[[49]](#ref-49), která svojí sazbou zajistí motivaci lidí pobírajících sociální dávky pomoci si k lepšímu živobytí vlastní prací a která definicí standardního příjmu zohlední rodinnou situaci žadatelů.
+Svobodní navrhují jejich transformaci do jediné dávky v podobě tzv. negativní daně[^49], která svojí sazbou zajistí motivaci lidí pobírajících sociální dávky pomoci si k lepšímu živobytí vlastní prací a která definicí standardního příjmu zohlední rodinnou situaci žadatelů.
 
 Standardní příjem by byl definován podobně jako životní minimum. Negativní daň pro jednotlivce či domácnost by byla definována vztahem
 
@@ -430,7 +430,7 @@ Svobodní navrhují snížit příjmy i výdaje státu i o tyto peníze a navrhu
 
 ### 3. Invalidní důchody
 
-Stát ročně vyplácí 599 tisíc invalidních důchodů, z toho 386 tisíc plných a 213 tisíc částečných. Výdaje na invalidní důchody činí 57 miliard (43 miliard na plné a 14 miliard na částečný)[[50]](#ref-50).
+Stát ročně vyplácí 599 tisíc invalidních důchodů, z toho 386 tisíc plných a 213 tisíc částečných. Výdaje na invalidní důchody činí 57 miliard (43 miliard na plné a 14 miliard na částečný)[^50].
 
 Invalidní důchody jsou příliš často zneužívány. Svobodní jsou pro spravedlivé a přesné posuzování nároků na invalidní důchod, aby jej dostali ti, kteří jej opravdu potřebují, ale aby se invalidní důchod nestával bezpracným příjmem pro někoho, kdo by si byl schopen vydělat vlastní prací.
 
@@ -448,37 +448,37 @@ Svobodní jsou pro zavedení předem pevně určené (paušální) platby poplat
 
 **b) Dobrovolné zajištění**
 
-Svobodní nechtějí zavádět nové regulace a povinnosti, nebudou proto podporovat žádné návrhy, které by znamenaly jakékoliv omezení svobody volby, pokud jde o ušetřené peníze, které lidem zůstanou jako rozdíl mezi dnešními odvody a novým paušálním odvodem.[[51]](#ref-51)
+Svobodní nechtějí zavádět nové regulace a povinnosti, nebudou proto podporovat žádné návrhy, které by znamenaly jakékoliv omezení svobody volby, pokud jde o ušetřené peníze, které lidem zůstanou jako rozdíl mezi dnešními odvody a novým paušálním odvodem.[^51]
 
 Svobodní jsou pro zrušení státních dotací k penzijnímu spoření. V souvislosti se zrušením daně z příjmu fyzických osob lidem zbude více peněz v peněženkách a nebudou potřebovat státní dotace ani jiná daňová zvýhodnění.
 
 **c) Přechod na nový systém**
 
-Změna ze stávajícího systému, v němž je pojistné ve skutečnosti daní z příjmu a důchody jsou degresivně[[52]](#ref-52) odvozené od výše příjmu, na systém nový, v němž platby i důchody budou paušální částky, musí proběhnout postupně.
+Změna ze stávajícího systému, v němž je pojistné ve skutečnosti daní z příjmu a důchody jsou degresivně[^52] odvozené od výše příjmu, na systém nový, v němž platby i důchody budou paušální částky, musí proběhnout postupně.
 
 Nový systém se netýká již přiznaných a vyplácených důchodů. Na nový systém by najednou přešli lidé např. do 30 let. Lidem nad 30 let Svobodní chtějí dát možnost volby – zda chtějí dál platit státní důchodové pojištění dané procentem ze mzdy a dostávat důchod počítaný podle stávající metodiky, nebo zda chtějí přejít na nový režim paušálního odvodu a paušálního důchodu.
 
-Tato dobrovolnost uleví státu od důchodového břemene, protože řada poplatníků dobrovolně „odepíše“ své dosavadní platby do důchodového systému a zvolí pro stát úspornější variantu paušálního důchodu.[[53]](#ref-53)
+Tato dobrovolnost uleví státu od důchodového břemene, protože řada poplatníků dobrovolně „odepíše“ své dosavadní platby do důchodového systému a zvolí pro stát úspornější variantu paušálního důchodu.[^53]
 
 ### 5. Politika zaměstnanosti
 
-Počet nezaměstnaných činí v České republice přes 300 tisíc, zatímco v roce 1996 činil tento počet méně než 200 tisíc lidí[[54]](#ref-54). Jeden nezaměstnaný stojí stát na sociálních dávkách pro něj a jeho rodinu a na ušlých daních zhruba 180 tisíc korun ročně.[[55]](#ref-55) Snížení nezaměstnanosti o 100 tisíc osob tak může státu ušetřit resp. vynést 18 miliard korun. Svobodní jsou přesvědčeni, že vysoká nezaměstnanost je primárně důsledkem demotivačního systému sociálních dávek a svazující pracovní legislativy.
+Počet nezaměstnaných činí v České republice přes 300 tisíc, zatímco v roce 1996 činil tento počet méně než 200 tisíc lidí[^54]. Jeden nezaměstnaný stojí stát na sociálních dávkách pro něj a jeho rodinu a na ušlých daních zhruba 180 tisíc korun ročně.[^55] Snížení nezaměstnanosti o 100 tisíc osob tak může státu ušetřit resp. vynést 18 miliard korun. Svobodní jsou přesvědčeni, že vysoká nezaměstnanost je primárně důsledkem demotivačního systému sociálních dávek a svazující pracovní legislativy.
 
 Koneckonců, nejnižší nezaměstnanost nacházíme v zemích, které jsou na špičce v míře ekonomické svobody.
 
-Česká vláda vynakládá na dávky v nezaměstnanosti (tzv. pasivní politiku zaměstnanosti) miliardy korun a na rekvalifikační a dotační programy spojené s politikou zaměstnanosti další miliardy korun[[56]](#ref-56). Svobodní považují tuto politiku za vysoce neefektivní. Svobodní navrhují zrušit dotační programy politiky zaměstnanosti a ušetřit tak 5,7 miliardy korun ve státním rozpočtu.
+Česká vláda vynakládá na dávky v nezaměstnanosti (tzv. pasivní politiku zaměstnanosti) miliardy korun a na rekvalifikační a dotační programy spojené s politikou zaměstnanosti další miliardy korun[^56]. Svobodní považují tuto politiku za vysoce neefektivní. Svobodní navrhují zrušit dotační programy politiky zaměstnanosti a ušetřit tak 5,7 miliardy korun ve státním rozpočtu.
 
-Samotná činnost úřadů práce stojí 2,7 miliardy korun. Dosavadní činnost úřadů práce přitom ukazuje, že stát není schopen lidem nacházet práci, efektivně tak činí soukromé internetové agentury práce. Svobodní proto prosazují zrušení úřadů práce po vzoru liberální reformy státu Michigan.[[57]](#ref-57)
+Samotná činnost úřadů práce stojí 2,7 miliardy korun. Dosavadní činnost úřadů práce přitom ukazuje, že stát není schopen lidem nacházet práci, efektivně tak činí soukromé internetové agentury práce. Svobodní proto prosazují zrušení úřadů práce po vzoru liberální reformy státu Michigan.[^57]
 
-Svobodní prosazují, aby nemocenské pojištění bylo pro zaměstnance dobrovolné stejně, jako je dnes dobrovolné pro osoby samostatně výdělečně činné. Zaměstnanci nebudou platit povinné nemocenské pojištění ve výši 2,4 % hrubé mzdy (čili 480 Kč z průměrné mzdy)[[58]](#ref-58) a sami se rozhodnou, zda se chtějí pojistit.
+Svobodní prosazují, aby nemocenské pojištění bylo pro zaměstnance dobrovolné stejně, jako je dnes dobrovolné pro osoby samostatně výdělečně činné. Zaměstnanci nebudou platit povinné nemocenské pojištění ve výši 2,4 % hrubé mzdy (čili 480 Kč z průměrné mzdy)[^58] a sami se rozhodnou, zda se chtějí pojistit.
 
 Svobodní chtějí zaručit smluvní svobodu, pokud jde o práci. Chtějí proto
 a) legalizovat tzv. švarc systém,
 b) umožnit uzavírání pracovních smluv mimo Zákoník práce.
 
-Svobodní současně navrhují, aby Česká republika vystoupila z Mezinárodní organizace práce (ILO), protože členství v ní je svazující s ohledem na zamýšlené reformy pracovního zákonodárství.[[59]](#ref-59) Svobodní jsou pro zachování pravidel daných zákoníkem práce pro ty zaměstnavatele a zaměstnance, kterým budou vyhovovat. Pokud se ale zaměstnavatel a zaměstnanec budou chtít shodnout na odlišných podmínkách, měli by mít k tomu smluvní volnost.
+Svobodní současně navrhují, aby Česká republika vystoupila z Mezinárodní organizace práce (ILO), protože členství v ní je svazující s ohledem na zamýšlené reformy pracovního zákonodárství.[^59] Svobodní jsou pro zachování pravidel daných zákoníkem práce pro ty zaměstnavatele a zaměstnance, kterým budou vyhovovat. Pokud se ale zaměstnavatel a zaměstnanec budou chtít shodnout na odlišných podmínkách, měli by mít k tomu smluvní volnost.
 
-„Svobodná pracovní smlouva“ podepsaná mimo zákoník práce by tak mohla např. obsahovat po vzoru Ostrova Man výpovědní lhůtu závislou na délce zaměstnání. Na Manu mají výpovědní lhůtu v délce 1 týden za každý rok práce u daného zaměstnavatele, maximálně však 3 měsíce při výpovědi ze strany zaměstnavatele a max. 1 měsíc při výpovědi ze strany zaměstnance. Zaměstnavatelé se proto nezdráhají přijímat nové zaměstnance nebo nejsou v pokušení uzavírat smlouvy na dobu určitou nebo jim ukončovat a obnovovat pracovní poměr s uplynutím zkušební doby a uvádět tak své zaměstnance do zbytečné nejistoty. I díky tomu mají na Ostrovu Man nezaměstnanost ve výši pouhého 0,5 %.[[60]](#ref-60)
+„Svobodná pracovní smlouva“ podepsaná mimo zákoník práce by tak mohla např. obsahovat po vzoru Ostrova Man výpovědní lhůtu závislou na délce zaměstnání. Na Manu mají výpovědní lhůtu v délce 1 týden za každý rok práce u daného zaměstnavatele, maximálně však 3 měsíce při výpovědi ze strany zaměstnavatele a max. 1 měsíc při výpovědi ze strany zaměstnance. Zaměstnavatelé se proto nezdráhají přijímat nové zaměstnance nebo nejsou v pokušení uzavírat smlouvy na dobu určitou nebo jim ukončovat a obnovovat pracovní poměr s uplynutím zkušební doby a uvádět tak své zaměstnance do zbytečné nejistoty. I díky tomu mají na Ostrovu Man nezaměstnanost ve výši pouhého 0,5 %.[^60]
 
 Svobodná pracovní smlouva by obsahovala smluvní volnost, i pokud jde o výši mzdy.
 
@@ -526,7 +526,7 @@ O úspory vzniklé zavedením školného je nutné snížit daně. Peníze zůst
 
 Svobodní považují vědu a výzkum za přirozený důsledek lidské zvídavosti. Veřejné prostředky nesmí být používány na financování aplikovaného výzkumu a inovací, neboť se jedná o výzkum, který efektivněji budou provádět soukromé subjekty. Pro financování základního výzkumu mohou být veřejné prostředky používány pouze v dobře odůvodněných případech. Financování by v takovém případě mělo mít spíše formu účelových grantů než nárokových dotací. Výsledky základního výzkumu musí být vždy zveřejňovány, není však vhodné nutit vědce k placenému zveřejňování v časopisech s tzv. otevřeným přístupem.
 
-Pro omezení vlivu klientelismu, ministerských úředníků a jmenovaných komisí na rozdělování financí na vědu je vhodné zavedení co nejobjektivnějšího[[61]](#ref-61) hodnocení výsledků základního výzkumu a jeho používání subjekty rozdělujícími veřejné prostředky.
+Pro omezení vlivu klientelismu, ministerských úředníků a jmenovaných komisí na rozdělování financí na vědu je vhodné zavedení co nejobjektivnějšího[^61] hodnocení výsledků základního výzkumu a jeho používání subjekty rozdělujícími veřejné prostředky.
 
 
 ## XIII. Zemědělství
@@ -556,7 +556,7 @@ Tento princip neznamená, že se bude konat každou chvíli referendum. Možnost
 
 Cílem Svobodných je, aby se obce převážně financovaly z vlastních daňových příjmů.
 
-Svobodní prosazují vyrovnané hospodaření krajů a obcí. V případě, že rozpočet obce a kraje skončí přebytkem, používá se přebytek přednostně na splácení dluhů, případně obce uchovávají úspory konzervativně s nízkou mírou rizika.[[62]](#ref-62)
+Svobodní prosazují vyrovnané hospodaření krajů a obcí. V případě, že rozpočet obce a kraje skončí přebytkem, používá se přebytek přednostně na splácení dluhů, případně obce uchovávají úspory konzervativně s nízkou mírou rizika.[^62]
 
 Obce a kraje nesmějí podnikat a dávat tak všanc peníze daňových poplatníků a majetek obce. Obce nesmějí bránit podnikání a jakýmkoliv dobročinným aktivitám založeným na dobrovolnosti a nesmějí jakkoliv pokřivovat tržní prostředí.
 
@@ -577,15 +577,15 @@ Je zřejmé, že Internet je prostředí, které může být nebezpečné. Je v�
 
 ### Autorské právo
 
-Svobodní odmítají nové regulace a zásahy do svobody občanů vedené s cílem dát tržní výhodu držitelům autorských práv. Boj proti tzv. „pirátství“ (nakládání s informacemi v rozporu s licencí) není ospravedlněním pro sledování internetové komunikace, zabavování datových zařízení na hranicích a odpojování od Internetu. Svobodní budou vystupovat proti ratifikaci Mezinárodní dohody o padělání (ACTA), která ukládá státům povinnost taková opatření zavádět a kterou tajně vyjednává Evropská komise za zády všech členských států EU[[63]](#ref-63).
+Svobodní odmítají nové regulace a zásahy do svobody občanů vedené s cílem dát tržní výhodu držitelům autorských práv. Boj proti tzv. „pirátství“ (nakládání s informacemi v rozporu s licencí) není ospravedlněním pro sledování internetové komunikace, zabavování datových zařízení na hranicích a odpojování od Internetu. Svobodní budou vystupovat proti ratifikaci Mezinárodní dohody o padělání (ACTA), která ukládá státům povinnost taková opatření zavádět a kterou tajně vyjednává Evropská komise za zády všech členských států EU[^63].
 
-Autorský poplatek u datových nosičů a některých zařízení (tzv. výpalné[[64]](#ref-64)) je skrytou daní. Stejně tak jsou skrytou daní autorské poplatky za zpřístupnění veřejně šířeného televizního a rozhlasového vysílání. Výnosy z těchto poplatků jsou přerozdělovány mezi netransparentně hospodařící autorské svazy napojené na Ministerstvo kultury. Jedná se o nesmyslnou a nespravedlivou dotaci financovanou na úkor ostatních občanů a je třeba tento poplatek zrušit.
+Autorský poplatek u datových nosičů a některých zařízení (tzv. výpalné[^64]) je skrytou daní. Stejně tak jsou skrytou daní autorské poplatky za zpřístupnění veřejně šířeného televizního a rozhlasového vysílání. Výnosy z těchto poplatků jsou přerozdělovány mezi netransparentně hospodařící autorské svazy napojené na Ministerstvo kultury. Jedná se o nesmyslnou a nespravedlivou dotaci financovanou na úkor ostatních občanů a je třeba tento poplatek zrušit.
 
 Rostoucí role státu v provádění ochrany autorských práv má škodlivé vedlejší důsledky pro kulturu. Svobodní se proto v této oblasti přiklánějí k občanskoprávnímu řešení sporů a efektivnímu využívání technologických prostředků na úkor veřejného práva a státních regulací.
 
 ### Veřejnoprávní média a vliv státu na vysílání
 
-Svobodní navrhují platbu koncesionářských poplatků za služby tzv. veřejnoprávních médií jen těmi, kdo jejich služeb dobrovolně využívají. Tyto sdělovací prostředky nesmí být dotovány z veřejných rozpočtů. [[65]](#ref-65)
+Svobodní navrhují platbu koncesionářských poplatků za služby tzv. veřejnoprávních médií jen těmi, kdo jejich služeb dobrovolně využívají. Tyto sdělovací prostředky nesmí být dotovány z veřejných rozpočtů. [^65]
 
 Při dobrovolném placení koncesionářského poplatku není nutné omezovat zákonem reklamu či stanovovat výši poplatku. Koncesionáři si sami určí detaily modelu financování.
 
@@ -599,7 +599,7 @@ Je právem každého člověka chránit své soukromí veškerými dostupnými p
 
 Současně nesouhlasíme s kriminalizací tzv. hackovacích nástrojů, postupů a informací o nich jakož i souvisejících vědních oborů. Je to nepřípustné omezování svobody, kdy se lidem implicitně přisuzuje zlý úmysl. Tyto postupy jsou významnou součástí světa informačních technologií a mají zásadní vliv na jejich vývoj a zdokonalování.
 
-Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[66]](#ref-66).
+Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[^66].
 
 S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, …) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
@@ -607,7 +607,7 @@ S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou i
 
 Občané mají mít možnost rychle a bezplatně prostřednictvím internetu zjistit informace o veškerých řízeních vůči nim ze strany státní moci. Z toho důvodu má být Centrální evidence exekucí provozována Ministerstvem spravedlnosti a přístup do ní nesmí být zpoplatněn. Exekutorská komora České republiky musí nalézt jiný způsob financování.
 
-## XVI. Příloha 2 – Evropská dohoda[[67]](#ref-67)
+## XVI. Příloha 2 – Evropská dohoda[^67]
 
 Jelikož občané ve Francii a Nizozemí řekli v referendu NE původnímu návrhu Evropské ústavy a následně občané Irska řekli NE Lisabonské smlouvě, která byla jen přejmenovaným původním návrhem Evropské ústavy, je třeba respektovat skutečnost, že zaznělo zřetelné NE další politické unifikaci Evropské unie;
 
@@ -643,141 +643,141 @@ X. Tuto smlouvu může kterákoliv ze smluvních stran vypovědět na základě 
 
 ---------------------------------------
 
-<a name="ref-1"></a>[1]: Projevilo se to například při Masarykově pokusu zakotvit nový stát na filosofických myšlenkách – viz Idea státu česko-slovenského. Srv.: „Bitvu musíme svést na poli filozofie, nikoliv politiky. Politika je jen posledním důsledkem, praktickým vyústěním fundamentálních myšlenek, které v dané kultuře převládají. Nelze změnit nebo bojovat proti následkům, aniž bychom napřed bojovali a změnili příčiny.“ Ayn Rand: Philosophy – Who Needs It, kapitola What One Can Do?
+[^1]: Projevilo se to například při Masarykově pokusu zakotvit nový stát na filosofických myšlenkách – viz Idea státu česko-slovenského. Srv.: „Bitvu musíme svést na poli filozofie, nikoliv politiky. Politika je jen posledním důsledkem, praktickým vyústěním fundamentálních myšlenek, které v dané kultuře převládají. Nelze změnit nebo bojovat proti následkům, aniž bychom napřed bojovali a změnili příčiny.“ Ayn Rand: Philosophy – Who Needs It, kapitola What One Can Do?
 
-<a name="ref-2"></a>[2]: Bez filosofie nemůže existovat politika. Pokusy řídit stát bez politického rámce vedou k cynickému popření jakýchkoli jiných hodnot, výkon mocenské funkce se odůvodňuje snahou o zvyšování životní úrovně, ale paradoxně ani tohoto cíle nemůže nepolitická politika dosáhnout.
+[^2]: Bez filosofie nemůže existovat politika. Pokusy řídit stát bez politického rámce vedou k cynickému popření jakýchkoli jiných hodnot, výkon mocenské funkce se odůvodňuje snahou o zvyšování životní úrovně, ale paradoxně ani tohoto cíle nemůže nepolitická politika dosáhnout.
 
-<a name="ref-3"></a>[3]: Sdružení osob, politický národ. Stát jako právnická osoba je korporací s nuceným členstvím na územním principu. Tím není dotčeno základní právo každého občana opustit svou zemi a zase se do ní svobodně vrátit ani právo vzdát se občanství.
+[^3]: Sdružení osob, politický národ. Stát jako právnická osoba je korporací s nuceným členstvím na územním principu. Tím není dotčeno základní právo každého občana opustit svou zemi a zase se do ní svobodně vrátit ani právo vzdát se občanství.
 
-<a name="ref-4"></a>[4]: Výkonná moc je omezena právním řádem.
+[^4]: Výkonná moc je omezena právním řádem.
 
-<a name="ref-5"></a>[5]: Území jurisdikce.
+[^5]: Území jurisdikce.
 
-<a name="ref-6"></a>[6]: Otázky, které mají více řešení a kde není žádné objektivní kriterium, pro posouzení, které je správné, jsou v demokratické společnosti předloženy do konkurenčního prostředí různých politických filosofií, které mají umět dát odpověď na to, co je v jejich způsobu vidění politiky správné a co je špatné.
+[^6]: Otázky, které mají více řešení a kde není žádné objektivní kriterium, pro posouzení, které je správné, jsou v demokratické společnosti předloženy do konkurenčního prostředí různých politických filosofií, které mají umět dát odpověď na to, co je v jejich způsobu vidění politiky správné a co je špatné.
 
-<a name="ref-7"></a>[7]: Neexistuje-li politický národ, nelze uměle vytvořit žádný stát ani jemu podobný subjekt. Příklady rozpadu uměle vytvořených útvarů jako bylo Československo, Jugoslávie a Sovětský svaz to dokládají.
+[^7]: Neexistuje-li politický národ, nelze uměle vytvořit žádný stát ani jemu podobný subjekt. Příklady rozpadu uměle vytvořených útvarů jako bylo Československo, Jugoslávie a Sovětský svaz to dokládají.
 
-<a name="ref-8"></a>[8]: Svobodní odmítají pokusy stavět do protikladu stát a občanskou společnost, typické zejména pro marxistické politické ideologie. Protože stát je společenstvím, sdružením, společností samou, je každý pokus postavit společnost do protikladu ke státu vlastně výzvou k revoluci.
+[^8]: Svobodní odmítají pokusy stavět do protikladu stát a občanskou společnost, typické zejména pro marxistické politické ideologie. Protože stát je společenstvím, sdružením, společností samou, je každý pokus postavit společnost do protikladu ke státu vlastně výzvou k revoluci.
 
-<a name="ref-9"></a>[9]: Představa oddělení občanské společnosti od státu je popřením základních principů politiky a svobodné společnosti.
+[^9]: Představa oddělení občanské společnosti od státu je popřením základních principů politiky a svobodné společnosti.
 
-<a name="ref-10"></a>[10]: Svobodní odmítají princip, podle kterého jsou někteří vyvolenější než jiní, protože nahlížejí nějaké důležitější transcendentní principy, které jsou běžnému člověku utajeny a z toho odvozují právo určovat hodnoty pro druhé.
+[^10]: Svobodní odmítají princip, podle kterého jsou někteří vyvolenější než jiní, protože nahlížejí nějaké důležitější transcendentní principy, které jsou běžnému člověku utajeny a z toho odvozují právo určovat hodnoty pro druhé.
 
-<a name="ref-11"></a>[11]: Politik by si měl dlouhodobě vytvářet obranné mechanismy a morální zábrany, které by mu umožňovaly odolávat pokušení moci.
+[^11]: Politik by si měl dlouhodobě vytvářet obranné mechanismy a morální zábrany, které by mu umožňovaly odolávat pokušení moci.
 
-<a name="ref-12"></a>[12]: Stát sám od sebe nikdy neprosazuje svobodu pro své občany, občané mají pouze tu svobodu, kterou si na státu vyvzdorují či kterou jim stát neodebere. Stát ale musí alespoň poskytovat férový a spravedlivý řád, který občanům umožní o svou svobodu usilovat.
+[^12]: Stát sám od sebe nikdy neprosazuje svobodu pro své občany, občané mají pouze tu svobodu, kterou si na státu vyvzdorují či kterou jim stát neodebere. Stát ale musí alespoň poskytovat férový a spravedlivý řád, který občanům umožní o svou svobodu usilovat.
 
-<a name="ref-13"></a>[13]: Svobodní odmítají kumulaci moci vznikající neustálým a opakovaným posilováním pravomocí a kompetencí státu.
+[^13]: Svobodní odmítají kumulaci moci vznikající neustálým a opakovaným posilováním pravomocí a kompetencí státu.
 
-<a name="ref-14"></a>[14]: Ústava ČR čl. 23: „Občané mají právo postavit se na odpor proti každému, kdo by odstraňoval demokratický řád lidských práv a základních svobod, založený Listinou, jestliže činnost ústavních orgánů a účinné použití zákonných prostředků jsou znemožněny." V čl. 2 se popis demokratického systému upřesňuje: „Lid je zdrojem veškeré státní moci; vykonává ji prostřednictvím orgánů moci zákonodárné, výkonné a soudní." Jedno z práv, kvůli kterým se mohou občané postavit na odpor s využitím všech prostředků, popisuje čl. 22 Listiny: „Zákonná úprava všech politických práva a svobod a její výklad a používání musí umožňovat svobodnou soutěž politických sil v demokratické společnosti.“
+[^14]: Ústava ČR čl. 23: „Občané mají právo postavit se na odpor proti každému, kdo by odstraňoval demokratický řád lidských práv a základních svobod, založený Listinou, jestliže činnost ústavních orgánů a účinné použití zákonných prostředků jsou znemožněny." V čl. 2 se popis demokratického systému upřesňuje: „Lid je zdrojem veškeré státní moci; vykonává ji prostřednictvím orgánů moci zákonodárné, výkonné a soudní." Jedno z práv, kvůli kterým se mohou občané postavit na odpor s využitím všech prostředků, popisuje čl. 22 Listiny: „Zákonná úprava všech politických práva a svobod a její výklad a používání musí umožňovat svobodnou soutěž politických sil v demokratické společnosti.“
 
-<a name="ref-15"></a>[15]: Listina základních práv a svobod čl. 2 odst. 1: „Stát je založen na demokratických hodnotách a nesmí se vázat ani na výlučnou ideologii, ani na náboženské vyznání.“
+[^15]: Listina základních práv a svobod čl. 2 odst. 1: „Stát je založen na demokratických hodnotách a nesmí se vázat ani na výlučnou ideologii, ani na náboženské vyznání.“
 
-<a name="ref-16"></a>[16]: Ústava ČR čl. 1: „Česká republika je svrchovaný, jednotný a demokratický právní stát založený na úctě k právům a svobodám člověka a občana.“
+[^16]: Ústava ČR čl. 1: „Česká republika je svrchovaný, jednotný a demokratický právní stát založený na úctě k právům a svobodám člověka a občana.“
 
-<a name="ref-17"></a>[17]: Tím není vyloučeno, že politický řád přijme jakýkoli vnější nebo mezinárodní závazek za své vlastní pravidlo, které si uloží respektovat.
+[^17]: Tím není vyloučeno, že politický řád přijme jakýkoli vnější nebo mezinárodní závazek za své vlastní pravidlo, které si uloží respektovat.
 
-<a name="ref-18"></a>[18]: Války a konflikty mezi státy nevznikaly z přílišného důrazu na svrchovanost států, ale naopak z nerespektování svrchovanosti. Obráceně lze tedy s velkou pravděpodobností tvrdit, že ten, kdo zpochybňuje svrchovanost, dříve či později rozpoutá konflikt. Zpochybňování svrchovanosti bývá doprovázeno nerespektováním demokratických zkušeností při zacházení s veřejnou mocí.
+[^18]: Války a konflikty mezi státy nevznikaly z přílišného důrazu na svrchovanost států, ale naopak z nerespektování svrchovanosti. Obráceně lze tedy s velkou pravděpodobností tvrdit, že ten, kdo zpochybňuje svrchovanost, dříve či později rozpoutá konflikt. Zpochybňování svrchovanosti bývá doprovázeno nerespektováním demokratických zkušeností při zacházení s veřejnou mocí.
 
-<a name="ref-19"></a>[19]: Zkušenost ukazuje, že nedemokratické státy narušují svrchovanost jiných států mnohem častěji. Demokracie a respekt k svrchovanosti jiného státu jsou tedy vzájemně provázány.
+[^19]: Zkušenost ukazuje, že nedemokratické státy narušují svrchovanost jiných států mnohem častěji. Demokracie a respekt k svrchovanosti jiného státu jsou tedy vzájemně provázány.
 
-<a name="ref-20"></a>[20]: To platí i ve vztahu členského státu k EU.
+[^20]: To platí i ve vztahu členského státu k EU.
 
-<a name="ref-21"></a>[21]: Národní zájmy – „national interests“ – je termín pocházející z USA, kde slovo „national“ je používáno ve stejném smyslu, jako federální. Adekvátní překlad by zněl „celostátní zájmy“, ale z důvodu zavedené terminologie používáme označení mezinárodně srozumitelné.
+[^21]: Národní zájmy – „national interests“ – je termín pocházející z USA, kde slovo „national“ je používáno ve stejném smyslu, jako federální. Adekvátní překlad by zněl „celostátní zájmy“, ale z důvodu zavedené terminologie používáme označení mezinárodně srozumitelné.
 
-<a name="ref-22"></a>[22]: Navíc se spory větší měrou promítají do struktury podobné střetu civilizací, popsaném S. Huntingtonem, namísto sporů ideologických jako v době studené války.
+[^22]: Navíc se spory větší měrou promítají do struktury podobné střetu civilizací, popsaném S. Huntingtonem, namísto sporů ideologických jako v době studené války.
 
-<a name="ref-23"></a>[23]: Není vyloučeno, že právě pojetí lidských práv se může v blízké budoucnosti rozčlenit podle civilizačních okruhů a potom může dojít k vážnému dialogu. Srv. S. Huntington.
+[^23]: Není vyloučeno, že právě pojetí lidských práv se může v blízké budoucnosti rozčlenit podle civilizačních okruhů a potom může dojít k vážnému dialogu. Srv. S. Huntington.
 
-<a name="ref-24"></a>[24]: Vztahy mezi jednotlivými členskými státy NATO
+[^24]: Vztahy mezi jednotlivými členskými státy NATO
 
-<a name="ref-25"></a>[25]: Nová právní filosofie musí navazovat na zásady římského práva, musí věnovat pozornost systematice práva, rozlišení veřejnoprávní a soukromoprávní sféry, musí respektovat klasickou teorii právnické osoby. Měla by nastínit pojetí spravedlnosti, vztah spravedlnosti s etikou a obecným vnímáním spravedlnosti. Měla by zaujmout stanovisko k přirozenoprávnímu, pozitivistickému a normativnímu pojetí práva.
+[^25]: Nová právní filosofie musí navazovat na zásady římského práva, musí věnovat pozornost systematice práva, rozlišení veřejnoprávní a soukromoprávní sféry, musí respektovat klasickou teorii právnické osoby. Měla by nastínit pojetí spravedlnosti, vztah spravedlnosti s etikou a obecným vnímáním spravedlnosti. Měla by zaujmout stanovisko k přirozenoprávnímu, pozitivistickému a normativnímu pojetí práva.
 
-<a name="ref-26"></a>[26]: Lidská práva nejsou transcendentní, odvozují se od státu a mají být státem vymahatelná.
+[^26]: Lidská práva nejsou transcendentní, odvozují se od státu a mají být státem vymahatelná.
 
-<a name="ref-27"></a>[27]: Například ochrana vlastnictví byla v roce 1945 při jednání o Chartě lidských práv OSN „vyhandlována“ za právo na práci.
+[^27]: Například ochrana vlastnictví byla v roce 1945 při jednání o Chartě lidských práv OSN „vyhandlována“ za právo na práci.
 
-<a name="ref-28"></a>[28]: Dokladem, že žádné vyvlastňování není nutné, jsou stovky velkých nestátních investičních projektů, ve kterých i velice komplikované vlastnické vztahy profesionálně řeší notářské a právní kanceláře. Protože se zdá, že státní úředníci neumí bezproblémově řešit podobné otázky, naopak je možné, že jim spory mohou přinášet prospěch, měl by stát služby právního zajištění větších projektů zadávat profesionálům.
+[^28]: Dokladem, že žádné vyvlastňování není nutné, jsou stovky velkých nestátních investičních projektů, ve kterých i velice komplikované vlastnické vztahy profesionálně řeší notářské a právní kanceláře. Protože se zdá, že státní úředníci neumí bezproblémově řešit podobné otázky, naopak je možné, že jim spory mohou přinášet prospěch, měl by stát služby právního zajištění větších projektů zadávat profesionálům.
 
-<a name="ref-29"></a>[29]: Vymožení pohledávky je služba objednávaná věřitelem, kterou by měl uhradit on sám. Je pouze jeho odpovědností si před poskytnutím půjčky důkladně prověřit schopnost dlužníka splácet a tuto informaci promítnout do výše úroku, z něhož by následně pokryl případné náklady na vymáhání pohledávky.
+[^29]: Vymožení pohledávky je služba objednávaná věřitelem, kterou by měl uhradit on sám. Je pouze jeho odpovědností si před poskytnutím půjčky důkladně prověřit schopnost dlužníka splácet a tuto informaci promítnout do výše úroku, z něhož by následně pokryl případné náklady na vymáhání pohledávky.
 
-<a name="ref-30"></a>[30]: Tento princip částečně obsahovala i Ústava z roku 1920, i když se nikdy nerealizoval.
+[^30]: Tento princip částečně obsahovala i Ústava z roku 1920, i když se nikdy nerealizoval.
 
-<a name="ref-31"></a>[31]: Moratorium vyhlášené vládou ODS, lidovců a Zelených oddálilo možnost rozšíření tohoto konkurenceschopného energetického zdroje.
+[^31]: Moratorium vyhlášené vládou ODS, lidovců a Zelených oddálilo možnost rozšíření tohoto konkurenceschopného energetického zdroje.
 
-<a name="ref-32"></a>[32]: Daně, poplatky, nebo jiné povinné platby.
+[^32]: Daně, poplatky, nebo jiné povinné platby.
 
-<a name="ref-33"></a>[33]: Měnová politika je vedle daňové politiky jedním z mocných nástrojů státu ovlivňujících životy všech lidí. Měnová politika předurčuje velikost inflace, velikost úrokových měr, kurz koruny a další důležité veličiny, které dnes a denně ovlivňují kvalitu našeho života. Měnová politika je vykonávána centrální bankou, která má státní monopol na emisi peněz. Je vykonávána v mezích Ústavy a zákona o ČNB.
+[^33]: Měnová politika je vedle daňové politiky jedním z mocných nástrojů státu ovlivňujících životy všech lidí. Měnová politika předurčuje velikost inflace, velikost úrokových měr, kurz koruny a další důležité veličiny, které dnes a denně ovlivňují kvalitu našeho života. Měnová politika je vykonávána centrální bankou, která má státní monopol na emisi peněz. Je vykonávána v mezích Ústavy a zákona o ČNB.
 
-<a name="ref-34"></a>[34]: http://www.psp.cz/docs/laws/constitution.html
+[^34]: http://www.psp.cz/docs/laws/constitution.html
 
-<a name="ref-35"></a>[35]: http://www.cnb.cz/m2export/sites/www.cnb.cz/cs/o_cnb/hospodareni/download/RUZ_2008_cz.pdf
+[^35]: http://www.cnb.cz/m2export/sites/www.cnb.cz/cs/o_cnb/hospodareni/download/RUZ_2008_cz.pdf
 
-<a name="ref-36"></a>[36]: Svobodní konstatují, že se bodový systém neosvědčil a nesplnil sliby, podle kterých měl zásadně poklesnout počet smrtelných nehod. Disproporční sazby trestů zbytečně postihují v podstatě slušné řidiče, zatímco extrémně nebezpečné chování zůstává nadále bez povšimnutí. Filosofie dvojího trestu, který není úměrný nebezpečnosti, v kombinaci s policií, která se snaží nárazově řidiče nachytat na nečekaných místech, místo aby průběžně řešila opravdu nebezpečné situace, vytváří na silnicích nebezpečné hazardní prostředí.
+[^36]: Svobodní konstatují, že se bodový systém neosvědčil a nesplnil sliby, podle kterých měl zásadně poklesnout počet smrtelných nehod. Disproporční sazby trestů zbytečně postihují v podstatě slušné řidiče, zatímco extrémně nebezpečné chování zůstává nadále bez povšimnutí. Filosofie dvojího trestu, který není úměrný nebezpečnosti, v kombinaci s policií, která se snaží nárazově řidiče nachytat na nečekaných místech, místo aby průběžně řešila opravdu nebezpečné situace, vytváří na silnicích nebezpečné hazardní prostředí.
 
-<a name="ref-37"></a>[37]: Tachometr není přesným kalibrovaným měřičem rychlosti a umožňuje jen přibližnou informaci o rychlosti pro řidiče. Vyvozovat právní důsledky z údajů o rozhodování založeném na principielně nepřesných informacích je nepřípustné.
+[^37]: Tachometr není přesným kalibrovaným měřičem rychlosti a umožňuje jen přibližnou informaci o rychlosti pro řidiče. Vyvozovat právní důsledky z údajů o rozhodování založeném na principielně nepřesných informacích je nepřípustné.
 
-<a name="ref-38"></a>[38]: Například omezení rychlosti nebo upozornění na zatáčky na místech, kde k němu není důvod, zatímco chybí na mnoha místech, kde by výstraha měla být.
+[^38]: Například omezení rychlosti nebo upozornění na zatáčky na místech, kde k němu není důvod, zatímco chybí na mnoha místech, kde by výstraha měla být.
 
-<a name="ref-39"></a>[39]: Výroky podobného druhu hraničí s § 198 trestního zákona a je ostudné, že zaznívají od představitelů státu.
+[^39]: Výroky podobného druhu hraničí s § 198 trestního zákona a je ostudné, že zaznívají od představitelů státu.
 
-<a name="ref-40"></a>[40]: Na základě vlastnického práva k automobilu může být trestán na pojistném někdo jiný, než kdo škodu způsobil. To je princip, který odporuje klasickým zásadám občanského práva a pravděpodobně je protiústavní.
+[^40]: Na základě vlastnického práva k automobilu může být trestán na pojistném někdo jiný, než kdo škodu způsobil. To je princip, který odporuje klasickým zásadám občanského práva a pravděpodobně je protiústavní.
 
-<a name="ref-41"></a>[41]: Pravidla znamenají nejenom to, že stát trestá ty, kdo životní prostředí poškozují, ale i to, že chrání občany a podniky před zvůlí těch, kdo vznášejí požadavky, které překračují stanovená pravidla.
+[^41]: Pravidla znamenají nejenom to, že stát trestá ty, kdo životní prostředí poškozují, ale i to, že chrání občany a podniky před zvůlí těch, kdo vznášejí požadavky, které překračují stanovená pravidla.
 
-<a name="ref-42"></a>[42]: Povinná bezohledná recyklace vede k plýtvání, protože se vyrábějí produkty, které již jsou konstruovány tak, aby po určité době přestaly plnit svoji funkci, a tím se uměle vyvolává zdání produkce. Ve skutečnosti se výrobou „šmejdů“ nevytváří bohatství společnosti.
+[^42]: Povinná bezohledná recyklace vede k plýtvání, protože se vyrábějí produkty, které již jsou konstruovány tak, aby po určité době přestaly plnit svoji funkci, a tím se uměle vyvolává zdání produkce. Ve skutečnosti se výrobou „šmejdů“ nevytváří bohatství společnosti.
 
-<a name="ref-43"></a>[43]: Počítače, telefony a další technologie jsou stále efektivnější a mají menší a menší spotřebu energie.
+[^43]: Počítače, telefony a další technologie jsou stále efektivnější a mají menší a menší spotřebu energie.
 
-<a name="ref-44"></a>[44]: Teprve zavedením uvedených zásad se stane pacient opravdu zákazníkem a bude si sám určovat, jakou péči potřebuje za jakou cenu. ODS sice něco podobného tvrdí, ale není to podloženo faktickými kroky.
+[^44]: Teprve zavedením uvedených zásad se stane pacient opravdu zákazníkem a bude si sám určovat, jakou péči potřebuje za jakou cenu. ODS sice něco podobného tvrdí, ale není to podloženo faktickými kroky.
 
-<a name="ref-45"></a>[45]: ODS ve svých materiálech píše o „typech vlastnictví“ zdravotnických zařízení, rozlišování různých forem vlastnictví je typickým projevem marxistické teorie.
+[^45]: ODS ve svých materiálech píše o „typech vlastnictví“ zdravotnických zařízení, rozlišování různých forem vlastnictví je typickým projevem marxistické teorie.
 
-<a name="ref-46"></a>[46]: Kolektivní vyjednávání mezi pojišťovnami a zdravotnickými zařízeními prosazované vládou ODS je rovněž extrémně levicovým principem.
+[^46]: Kolektivní vyjednávání mezi pojišťovnami a zdravotnickými zařízeními prosazované vládou ODS je rovněž extrémně levicovým principem.
 
-<a name="ref-47"></a>[47]: http://www.zakonycr.cz/seznamy/117-1995-Sb-zakon-o-statni-socialni-podpore.html
+[^47]: http://www.zakonycr.cz/seznamy/117-1995-Sb-zakon-o-statni-socialni-podpore.html
 
-<a name="ref-48"></a>[48]: http://www.vyplata.cz/zakony/z111-2006sb.php
+[^48]: http://www.vyplata.cz/zakony/z111-2006sb.php
 
-<a name="ref-49"></a>[49]: Inspirováno teorií nositele Nobelovy ceny za ekonomii Miltona Friedmana
+[^49]: Inspirováno teorií nositele Nobelovy ceny za ekonomii Miltona Friedmana
 
-<a name="ref-50"></a>[50]: http://www.czso.cz/csu/edicniplan.nsf/t/F300384966/$File/3202rr05.pdf
+[^50]: http://www.czso.cz/csu/edicniplan.nsf/t/F300384966/$File/3202rr05.pdf
 
-<a name="ref-51"></a>[51]: Poplatníci s nízkými příjmy na paušální platbě nic neušetří, ale ani netratí. Paušální důchod oproti důchodu počítanému dle stávající metodiky jim nesníží důchody. Jejich důchody budou dále zabezpečovány průběžným systémem v nezměněném objemu.
+[^51]: Poplatníci s nízkými příjmy na paušální platbě nic neušetří, ale ani netratí. Paušální důchod oproti důchodu počítanému dle stávající metodiky jim nesníží důchody. Jejich důchody budou dále zabezpečovány průběžným systémem v nezměněném objemu.
 
 Poplatníci se středními a vyššími příjmy na paušální platbě ušetří a paušální důchod pro ně bude znamenat snížení státního důchodu oproti stávající metodice. Tito poplatníci budou moci úspory využít k soukromému neregulovanému zabezpečení na stáří (úspory, investice, penzijní pojištění).
 
 Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou schopni odpovědně rozhodnout, zda chtějí z ušetřených peněz podporovat členy své rodiny, koupit si nemovitost, spořit v bankách či fondech nebo nakoupit penzijní pojištění.
 
-<a name="ref-52"></a>[52]: Degresivně znamená, že pojištěnci s vyššími příjmy dostávají posléze menší důchod, než by jim podle výše plateb náležel.
+[^52]: Degresivně znamená, že pojištěnci s vyššími příjmy dostávají posléze menší důchod, než by jim podle výše plateb náležel.
 
-<a name="ref-53"></a>[53]: Po přechodné období, kdy řada poplatníků zvolí režim paušálního důchodu a stát stále ještě bude vyplácet řadu důchodů počítaných podle stávající metodiky, potrvá vytváření deficitu ve státním důchodovém systému. Takto vznikající deficit na důchodovém účtu bude dorovnáván ze státního rozpočtu až do plného náběhu nového systému, kdy zanikne.
+[^53]: Po přechodné období, kdy řada poplatníků zvolí režim paušálního důchodu a stát stále ještě bude vyplácet řadu důchodů počítaných podle stávající metodiky, potrvá vytváření deficitu ve státním důchodovém systému. Takto vznikající deficit na důchodovém účtu bude dorovnáván ze státního rozpočtu až do plného náběhu nového systému, kdy zanikne.
 
-<a name="ref-54"></a>[54]: http://czso.cz/csu/csu.nsf/i/tab_casova_rada_zakladnich_ukazetelu_vsps/$File/czam050609cr.xls
+[^54]: http://czso.cz/csu/csu.nsf/i/tab_casova_rada_zakladnich_ukazetelu_vsps/$File/czam050609cr.xls
 
-<a name="ref-55"></a>[55]: Kalkulace při odhadované hrubé mzdě 12 tisíc korun
+[^55]: Kalkulace při odhadované hrubé mzdě 12 tisíc korun
 
-<a name="ref-56"></a>[56]: http://www.mfcr.cz/cps/rde/xbcr/mfcr/475_2008_SR_P4_pdf.pdf
+[^56]: http://www.mfcr.cz/cps/rde/xbcr/mfcr/475_2008_SR_P4_pdf.pdf
 
-<a name="ref-57"></a>[57]: Americký stát Michigan, který má stejný počet obyvatel jako Česká republika, zrušil od roku 2004 svých 43 poboček úřadů práce, které zaměstnávaly celkem pouhých 450 osob oproti 5136 úředníkům v České republice, a o dávky v nezaměstnanosti se od loňska žádá prostřednictvím automatizovaného telefonátu či přes internetový formulář. (http://www.nascio.org/awards/2004Awards/digitalGovtGtoC.cfm)
+[^57]: Americký stát Michigan, který má stejný počet obyvatel jako Česká republika, zrušil od roku 2004 svých 43 poboček úřadů práce, které zaměstnávaly celkem pouhých 450 osob oproti 5136 úředníkům v České republice, a o dávky v nezaměstnanosti se od loňska žádá prostřednictvím automatizovaného telefonátu či přes internetový formulář. (http://www.nascio.org/awards/2004Awards/digitalGovtGtoC.cfm)
 
-<a name="ref-58"></a>[58]: sazba pojištění od roku 2010
+[^58]: sazba pojištění od roku 2010
 
-<a name="ref-59"></a>[59]: Navíc ušetříme 7,5 milionu korun členského poplatku
+[^59]: Navíc ušetříme 7,5 milionu korun členského poplatku
 
-<a name="ref-60"></a>[60]: http://petrmach.cz/docs/LF09-2006.pdf
+[^60]: http://petrmach.cz/docs/LF09-2006.pdf
 
-<a name="ref-61"></a>[61]: např. Hirschův index
+[^61]: např. Hirschův index
 
-<a name="ref-62"></a>[62]: V současnosti zákon žádá v zásadě vyrovnané hospodaření, ale umožňuje tuto zásadu bez obtíží obcházet prostou většinou zastupitelstva. Jedná se tedy o neúčinné ustanovení.
+[^62]: V současnosti zákon žádá v zásadě vyrovnané hospodaření, ale umožňuje tuto zásadu bez obtíží obcházet prostou většinou zastupitelstva. Jedná se tedy o neúčinné ustanovení.
 
-<a name="ref-63"></a>[63]: Podrobnosti viz. http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement
+[^63]: Podrobnosti viz. http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement
 
-<a name="ref-64"></a>[64]: Kromě běžného významu lze také odvodit od „vypalovat CD, nebo DVD“.
+[^64]: Kromě běžného významu lze také odvodit od „vypalovat CD, nebo DVD“.
 
-<a name="ref-65"></a>[65]: Jako krátkodobý cíl jsou Svobodní ochotni podpořit i pouhé rozšíření možnosti volby občanů při využití jimi placených koncesionářských poplatků. To znamená například možnost asignace poplatku – buď veřejnoprávnímu médiu anebo do fondu oprav kulturních památek České republiky.
+[^65]: Jako krátkodobý cíl jsou Svobodní ochotni podpořit i pouhé rozšíření možnosti volby občanů při využití jimi placených koncesionářských poplatků. To znamená například možnost asignace poplatku – buď veřejnoprávnímu médiu anebo do fondu oprav kulturních památek České republiky.
 
-<a name="ref-66"></a>[66]: Viz např. http://www.euro.cz/detail.jsp?id=19883
+[^66]: Viz např. http://www.euro.cz/detail.jsp?id=19883
 
-<a name="ref-67"></a>[67]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph
+[^67]: Svobodní považují tento text, který byl inspirován návrhem britského deníku Daily Telegraph
 http://www.telegraph.co.uk/comment/telegraph-view/3617390/A-healthy-Constitution.html, za vhodný základ pro diskusi o alternativním uspořádání Evropy.
