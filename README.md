@@ -262,7 +262,7 @@ Svobodní se rozhodně staví proti tomu, aby byl daněn majetek. Proto Svobodn�
 
 Daně z nemovitých věcí jsou příjmem obcí. Obce také mají dnes podíl na celostátním výběru daně z příjmu fyzických osob a dalších daní.
 
-Svobodní chtějí, aby část daně z příjmu, kterou poplatník platí, šla přímo obci, ve které poplatník žije, a nepodléhala centrálnímu přerozdělování.  Obce by měly mít právo určovat sazbu své obecní daně a snížit ji tak oproti základní sazbě. Obce by tak byly vystaveny vzájemné daňové konkurenci. V obcích s nižší obecní sazbou by tak lidé platili nižší daň.
+Svobodní chtějí, aby část daně z příjmu, kterou poplatník platí, šla přímo obci, ve které poplatník žije, a nepodléhala centrálnímu přerozdělování. Obce by měly mít právo určovat sazbu své obecní daně a snížit ji tak oproti základní sazbě. Obce by tak byly vystaveny vzájemné daňové konkurenci. V obcích s nižší obecní sazbou by tak lidé platili nižší daň.
 
 
 ## VII. Měnová politika
@@ -601,7 +601,7 @@ Současně nesouhlasíme s kriminalizací tzv. hackovacích nástrojů, postupů
 
 Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů. Preventivní špehování občanů, proti kterým není vedeno trestní řízení, je neospravedlnitelným zásahem do soukromí a svobody lidí. Tyto aktivity jsou navíc velmi nákladné a jsou hrazeny z daní všech spoluobčanů v řádu desítek milionů korun ročně[[66]](#ref-66).
 
-S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, ...) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
+S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, …) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
 ### Nahlížení do veřejných registrů a evidencí
 
@@ -775,7 +775,7 @@ Svobodní předpokládají, že lidé se středními a vyššími příjmy jsou 
 
 <a name="ref-64"></a>[64]: Kromě běžného významu lze také odvodit od „vypalovat CD, nebo DVD“.
 
-<a name="ref-65"></a>[65]: Jako krátkodobý cíl jsou Svobodní ochotni podpořit i pouhé rozšíření možnosti volby občanů při využití jimi placených koncesionářských poplatků. To znamená například možnost asignace poplatku - buď veřejnoprávnímu médiu anebo do fondu oprav kulturních památek České republiky.
+<a name="ref-65"></a>[65]: Jako krátkodobý cíl jsou Svobodní ochotni podpořit i pouhé rozšíření možnosti volby občanů při využití jimi placených koncesionářských poplatků. To znamená například možnost asignace poplatku – buď veřejnoprávnímu médiu anebo do fondu oprav kulturních památek České republiky.
 
 <a name="ref-66"></a>[66]: Viz např. http://www.euro.cz/detail.jsp?id=19883
 
