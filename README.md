@@ -376,7 +376,7 @@ Stát dnes vybírá pro zdravotní pojišťovny 13,5 % mzdy (4,5 % se strhává 
 
 ### 6. Odpovědnost za vlastní zdraví
 
-Člověk do značné míry odpovídá za své zdraví. Je nepřijatelné, aby si někdo ničil vlastní zdraví a náklady následné léčby byly hrazeny z veřejného zdravotního pojištění. Dospělý člověk by měl mít právo bez postihu užívat návykové a psychotropní látky, ale pojišťovny by měly mít právo zohlednit užívání návykových látek v ceně pojištění. Cenu pojištění by měla určit svobodná soutěž mezi konkurujícími si pojišťovnami.
+Člověk do značné míry odpovídá za své zdraví. Je nepřijatelné, aby si někdo ničil vlastní zdraví a náklady následné léčby byly hrazeny z veřejného zdravotního pojištění. Dospělý člověk by měl mít právo bez postihu užívat návykové a psychotropní látky i jinak ovlivňovat své zdraví. Stát nesmí občany za jejich přístup k vlastnímu zdraví nijak trestat a diskriminovat. Jeho úlohou je tvořit legislativní prostředí, kde cenu pojištění určí svobodná soutěž mezi konkurujícími si pojišťovnami.
 
 
 ## XI. Sociální politika
