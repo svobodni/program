@@ -554,7 +554,7 @@ Kromě vlastních příjmů by samosprávy mohly mít i příjem ze státního r
 
 ## XV. Příloha 1: Programový dokument „Svobodný trh informací“
 
-Svobodný trh informací
+### 1. Svobodný trh informací
 
 Svobodní chtějí zachovat Internet jako svobodné médium pro výměnu informací a jako alternativu k tradičním médiím, která jsou často pod vlivem zájmových skupin a neumožňují svobodnou prezentaci názorů v celé šíři názorového spektra.
 
@@ -562,7 +562,7 @@ Odmítáme omezování svobody projevu, filtrování obsahu nebo zavádění jin
 
 Je zřejmé, že Internet je prostředí, které může být nebezpečné. Je však osobní zodpovědností každého jedince, aby zvážil tato rizika a přijal dostatečná opatření na svou ochranu. Současně je zodpovědností rodičů, aby ochránili své děti. Pro tento účel je na trhu dostatek informací, literatury a programového vybavení.
 
-### Autorské právo
+### 2. Autorské právo
 
 Svobodní odmítají nové regulace a zásahy do svobody občanů vedené s cílem dát tržní výhodu držitelům autorských práv. Boj proti tzv. „pirátství“ (nakládání s informacemi v rozporu s licencí) není ospravedlněním pro sledování internetové komunikace, zabavování datových zařízení na hranicích a odpojování od Internetu. Svobodní budou vystupovat proti ratifikaci Mezinárodní dohody o padělání (ACTA), která ukládá státům povinnost taková opatření zavádět a kterou tajně vyjednává Evropská komise za zády všech členských států EU[^63].
 
@@ -570,7 +570,7 @@ Autorský poplatek u datových nosičů a některých zařízení (tzv. výpaln�
 
 Rostoucí role státu v provádění ochrany autorských práv má škodlivé vedlejší důsledky pro kulturu. Svobodní se proto v této oblasti přiklánějí k občanskoprávnímu řešení sporů a efektivnímu využívání technologických prostředků na úkor veřejného práva a státních regulací.
 
-### Veřejnoprávní média a vliv státu na vysílání
+### 3. Veřejnoprávní média a vliv státu na vysílání
 
 Svobodní navrhují platbu koncesionářských poplatků za služby tzv. veřejnoprávních médií jen těmi, kdo jejich služeb dobrovolně využívají. Tyto sdělovací prostředky nesmí být dotovány z veřejných rozpočtů. [^65]
 
@@ -578,7 +578,7 @@ Při dobrovolném placení koncesionářského poplatku není nutné omezovat z�
 
 Stát nesmí určovat provozovateli televizního, rozhlasového či jiného vysílání výši podílu z celkového vysílacího času, který musí vyhradit pro díla určitého typu. Tak je tomu v současnosti např. u tzv. děl evropských, u kterých musí provozovatel vyhradit podíl nadpoloviční.
 
-### Ochrana soukromí
+### 4. Ochrana soukromí
 
 Možnost anonymního přístupu na Internet a anonymní komunikace považují Svobodní za jeden ze základních pilířů svobody projevu a postaví se proti veškerým snahám o její omezení.
 
@@ -590,7 +590,7 @@ Svobodní se staví proti plošnému uchovávání údajů o komunikaci občanů
 
 S obavami sledujeme stále větší počet bezpečnostních kamer, které jsou instalovány pod záminkou prevence kriminality a boje proti terorismu. S rostoucím rozlišením a dosahem, možnostmi analýzy biometrických údajů (obličej, chůze, …) a nízkou cenou úložišť rostou možnosti státu sbírat informace o svých občanech. Je znepokojující, že v rámci boje za ochranu osobních údajů se soukromí jako takové ocitá na vedlejší koleji.
 
-### Nahlížení do veřejných registrů a evidencí
+### 5. Nahlížení do veřejných registrů a evidencí
 
 Občané mají mít možnost rychle a bezplatně prostřednictvím internetu zjistit informace o veškerých řízeních vůči nim ze strany státní moci. Z toho důvodu má být Centrální evidence exekucí provozována Ministerstvem spravedlnosti a přístup do ní nesmí být zpoplatněn. Exekutorská komora České republiky musí nalézt jiný způsob financování.
 
