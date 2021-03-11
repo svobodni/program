@@ -8,6 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: mkdir output
+      - name: Set date
+        run: |
+          echo "schvaleno=`.pandoc/getdate.rb`" >> $GITHUB_ENV
       - name: Generate HTML
         uses: docker://pandoc/core:2.11.2
         with:
@@ -15,6 +18,7 @@ jobs:
             --standalone
             --from markdown+ascii_identifiers
             --metadata title="Politický program Svobodných"
+            -V date="Schváleno ReV dne ${{ env.schvaleno }}"
             --shift-heading-level-by=0
             -V margin-top=15
             -V margin-left=15
@@ -33,7 +37,7 @@ jobs:
           wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb
           sudo apt install -f ./wkhtmltox_0.12.5-1.bionic_amd64.deb
       - name: Generate PDF
-        run: xvfb-run wkhtmltopdf --page-size a4 --title "Politický program Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" `.wkhtmltopdf/getdate.rb` output/program.html output/program.pdf
+        run: xvfb-run wkhtmltopdf --page-size a4 --title "Politický program Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "${{ env.schvaleno }}" output/program.html output/program.pdf
       - uses: actions/upload-artifact@master
         with:
           name: output
