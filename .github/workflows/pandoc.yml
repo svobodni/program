@@ -1,6 +1,7 @@
 name: Generate PDF
 
 on: 
+  push:
   workflow_dispatch:
 
 jobs:
