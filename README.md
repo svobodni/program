@@ -1,5 +1,5 @@
 ---
-schvaleno: 2021-01-23
+schvaleno: 2024-12-18
 ---
 
 ## I. Pojetí státu
