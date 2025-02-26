@@ -36,8 +36,8 @@ jobs:
       - name: Install wkhtmltopdf
         run: |
           sudo apt-get install xvfb libfontconfig wget
-          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
-          sudo apt install -f ./wkhtmltox_0.12.6-1.bionic_amd64.deb
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+          sudo apt install -f ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
       - name: Generate PDF
         run: xvfb-run wkhtmltopdf --page-size a4 --title "Politický program Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "${{ env.schvaleno }}" output/program.html output/program.pdf
       - uses: actions/upload-artifact@master
