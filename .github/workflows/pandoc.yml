@@ -42,5 +42,5 @@ jobs:
         run: xvfb-run wkhtmltopdf --page-size a4 --title "Politický program Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "${{ env.schvaleno }}" output/program.html output/program.pdf
       - uses: actions/upload-artifact@master
         with:
-          name: output
+          name: Program
           path: output
