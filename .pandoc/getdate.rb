@@ -2,4 +2,4 @@
 
 require 'yaml'
 
-puts YAML.load(File.read("README.md"))['schvaleno'].strftime("%-d.%-m.%Y")
+puts YAML.load(File.read("README.md"), permitted_classes: [Date])['schvaleno'].strftime("%-d.%-m.%Y")
