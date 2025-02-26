@@ -1,5 +1,5 @@
 ---
-schvaleno: 2021-01-23
+schvaleno: 2025-02-09
 ---
 
 ## I. Pojetí státu
@@ -334,41 +334,49 @@ Ochrana přírody je především věcí lokálního působení. Mezinárodní d
 
 ## X. Zdravotnictví
 
-Dnešní státem regulované a organizované zdravotnictví je neslučitelné s principy svobody, odpovědnosti a spravedlnosti, na nichž stojí politická filosofie Svobodných.
+Svobodní vycházení ze základního postulátu, že zdraví je osobní statek a veřejné zdraví je nesmysl. Další základní myšlenkou je fakt, že nikdo nemá právo narušovat integritu těla člověka proti jeho vůli.
 
-Dnešní systém je založen na zdravotní dani alibisticky nazývané pojištění a na řadě tzv. zdravotních pojišťoven, které si ve skutečnosti nekonkurují a stát jen mezi nimi přerozděluje jejich výnosy, které pocházejí ze zdravotní daně.
+V rámci evropského práva platí, že pokud stát organizuje výběr zdravotní daně prostřednictvím „zdravotních pojišťoven“, musí také svým občanům garantovat plnění, tedy čerpání jasně definované zdravotní péče podle zákonů. To se u nás již řadu let neděje.
 
-Cílem Svobodných je transformovat stávající systém tzv. zdravotního pojištění na systém skutečného pojištění. Základním východiskem pro skutečnou změnu ve zdravotním pojištění musí být oddělení základního povinného pojištění od individuálního pojištění.
+Dnešní, převážně státem organizované zdravotnictví, je neslučitelné s principy svobody, odpovědnosti a spravedlnosti a rovné soutěže, na nichž stojí politická filozofie Svobodných.
 
-### 1. Základní povinné pojištění
+Není možné přijmout současné zákonné nastavení organizace zdravotní péče, kdy má každý občan prakticky právo na vše, v nejvyšší kvalitě a téměř ihned.
 
-Pro povinné pojištění platí princip, že se všechny vybrané prostředky použijí na úhradu hrazené zdravotní péče, to znamená, že se nevytvářejí žádné rezervní fondy. Za prostředky vybrané od pojištěnců v plné míře odpovídá stát, který může tuto odpovědnost přenést nanejvýš na veřejnoprávní subjekt, pokud ji nevykonává přímo. Do tohoto základního pojištění by měla spadat první pomoc a záchrana života. O rozsahu péče, spadající do povinného pojištění je možné vést diskusi, avšak vzhledem k výše uvedenému principu jakékoli rozšiřování této péče způsobí růst základního pojištění. Platba za každou osobu by měla být stanovena nezávisle na příjmu pojištěnce.
+Tento systém již dávno narazil do zdi, pacientům jsou pod dohledem kompetentních orgánů v čele s ministry zdravotnictví upírána jejich zákony daná práva na dostupnou a kvalitní zdravotní péči. Léčba v nemocnicích je mnohdy ztrátová, za stejnou operaci pojišťovny platí různé částky a soukromí poskytovatelé zdravotní péče jsou na základě ministerské vyhlášky doslova okrádáni o odměnu za svoji práci v rámci pochybných regulací. Výrobci léků se přesunuli mimo Evropu, proto dochází k výpadkům základních lékových skupin i v České republice.
 
-Obtíže plynoucí ze stanovení hranice mezi péčí hrazenou z veřejného pojištění mizí, jakmile je přijata zásada, že povinné pojištění nemá komerční charakter, není podnikáním.
+Dnešní systém je založen na zdravotní dani alibisticky nazývané „pojištěním“ a na řadě tzv. zdravotních pojišťoven, které si ve skutečnosti nekonkurují a stát jen mezi nimi přerozděluje jejich výnosy, které pocházejí ze zdravotní daně.
 
-### 2. Individuální pojištění
+Cílem Svobodných je transformovat stávající systém tzv. zdravotního pojištění na systém skutečného pojištění. Základním východiskem pro skutečnou změnu ve zdravotním pojištění musí být oddělení základního povinného pojištění – tedy daně od individuálního zdravotního pojištění.
 
-Pro individuální pojištění naopak platí běžné zásady pojišťovnictví, od kterých se odvíjí jeho cena. Pojišťovny, které takové pojištění poskytují, musí vytvářet rezervní fondy jako jakákoli jiná pojišťovna. Za hospodaření takových pojišťoven stát nenese přímou odpovědnost, role státu spočívá jen ve všeobecném dohledu. V rámci tohoto pojištění si klient sjedná individuální pojistné podmínky[^44]. Může k nim patřit i pojištění se spoluúčastí, které patrně znamená nižší pravidelné platby.
+Aby se tak mohlo stát, musí být stanovena standardní (základní) zdravotní péče. Podle Svobodných je nadstandardem, na který se mohou občané připojistit, vše, co aktuálně neproplácí zdravotní pojišťovny.
+
+### 1. Základní zdravotní daň
+
+Zdravotní daň musí být nastavena v takové výši, aby pokryla základní zdravotní péči. Do této zdravotní daně by měla spadat první pomoc a záchrana života. O dalším rozsahu péče, spadající do povinné daně je možné vést politickou a odbornou diskusi, avšak vzhledem k výše uvedenému principu jakékoli nadměrné rozšiřování této péče způsobí růst základního pojištění – zdravotní daně.
+
+Základní zdravotní síť musí tvořit neprivatizovatelné státní a krajské nemocnice, kde nesmí být jimi poskytovaná základní zdravotní péče prodělečná a musí pokrýt reálné náklady vč. důstojných platů pro zdravotníky. Tyto instituce se ekonomicky musí chovat neziskově. Za investiční akce odpovídá stát, popř. kraj. Pokud v kraji nebude zabezpečena základní zdravotní péče např. praktiky, stomatology či gynekology, RZP, musí ji kraj zajistit. Ostatní zdravotní péče, vč. ambulantní může být státní, nestátní, či soukromá. Pokud tato zdravotnická zařízení provedou pouze základní zdravotní péči, musí jim být refundována.
+
+Pro výběr základní zdravotní daně nejsou fakticky potřebné žádné tzv. zdravotní pojišťovny, ale stačí jedno výběrní místo nejlépe v rámci výběru důchodové daně.
+
+### 2. Individuální zdravotní pojištění
+
+Pro individuální zdravotní pojištění naopak platí běžné zásady pojišťovnictví, od kterých se odvíjí jeho cena. Pojišťovny, které takové pojištění poskytují, musí vytvářet rezervní fondy jako jakákoli jiná pojišťovna. Za hospodaření takových pojišťoven stát nenese přímou odpovědnost, role státu spočívá jen ve všeobecném dohledu. V rámci tohoto pojištění si klient sjedná individuální pojistné podmínky. 
 
 ### 3. Další podmínky
 
-Svobodní jsou pro zjednodušení zřizování soukromých praxí bez zasahování pojišťoven a úřadů. Lékaři poskytující zdravotnické služby mají dostat zaplaceno bezprostředně a nezávisle na pojištění pacienta. Účet za lékařské služby si nechá pacient proplatit u své pojišťovny. To samozřejmě nevylučuje bezhotovostní vyúčtování poskytnutých služeb s pojišťovnou. Případné spory mezi klientem a pojišťovnou řeší pojišťovenské soudy v zákonem stanovených lhůtách (např. 15 pracovních dní). Pokladniční systém nevylučuje, že v limitech sjednaných v pojistné smlouvě dostane pacient péči, aniž by musel jednat o proplacení.
+Svobodní jsou pro zjednodušení zřizování soukromých praxí bez zasahování pojišťoven a úřadů. Soukromí lékaři poskytující nadstandardní zdravotnické služby mohou dostat zaplaceno bezprostředně a nezávisle na pojištění pacienta. Pokladniční systém nevylučuje, že v limitech sjednaných v pojistné smlouvě dostane pacient péči, aniž by musel jednat o proplacení.
 
-Svobodní požadují, aby platila rovnost všech zdravotnických zařízení[^45] bez ohledu na typ jejich právnické osoby popř., pokud jde o fyzickou osobu.
+Svobodní požadují, aby platila rovnost všech zdravotnických zařízení bez ohledu na typ jejich právnické osoby popř., pokud jde o fyzickou osobu.
 
 ### 4. Tvorba cen
 
-Svobodní směřují k systému, v němž by mohl být zrušen bodový sazebník, tedy regulace cen ve zdravotnictví i jakákoli jednání o cenách poskytované péče[^46]. Svobodná tvorba cen je nejlepší zárukou, že pacient zaplatí za lékařské služby nejnižší cenu.
+Cena za výkony nesmí být stanovena ideologicky, ale ekonomicky. V páteřní síti zdravotnických zařízení platí stát smluvní platby za náklady vč. platů/odměn. V nestátních a soukromých zařízeních platí základní zdravotní péči. Nestátní zdravotnická zařízení mohou mít smlouvy s pojišťovnami na nadstandardní zdravotní péči, popř. vybírají za svoje další výkony poplatky podle běžného ekonomického vzorce: náklady + přiměřený zisk. V soukromém zdravotnictví nesmí být nikdo nucen pracovat za dumpingovou cenu ani nesmí zneužívat případné monopolní postavení k nepřiměřenému zisku. Svobodná tvorba cen je zde nejlepší zárukou, že pacient zaplatí za lékařské služby nejnižší cenu.
 
-Platby za stravu v nemocnici se budou odvíjet od konkrétních podmínek zdravotnického zařízení, nespadají do běžného zdravotního pojištění. Úroveň hotelových služeb v nemocnici si pacient sám zvolí a zaplatí, může si sjednat i zvláštní připojištění.
+Platby za stravu v nemocnici se budou odvíjet od konkrétních podmínek zdravotnického zařízení, nespadají do běžné zdravotní daně. Úroveň hotelových služeb v nemocnici si pacient sám zvolí a zaplatí, může si sjednat zvláštní připojištění.
 
-### 5. Placení pojistného
+Občané provozující životu nebezpečné a adrenalinové aktivity musí být řádně připojištěni.
 
-Stát dnes vybírá pro zdravotní pojišťovny 13,5 % mzdy (4,5 % se strhává ze mzdy, 9 % se platí nad rámec hrubé mzdy). Svobodní chtějí část nynějších odvodů stanovených procentem z mezd transformovat na skutečné pojištění nezávislé na výši mzdy a část zachovat, aby z nich stát hradil platby za státní pojištěnce.
-
-### 6. Odpovědnost za vlastní zdraví
-
-Člověk do značné míry odpovídá za své zdraví. Je nepřijatelné, aby si někdo ničil vlastní zdraví a náklady následné léčby byly hrazeny z veřejného zdravotního pojištění. Dospělý člověk by měl mít právo bez postihu užívat návykové a psychotropní látky i jinak ovlivňovat své zdraví. Stát nesmí občany za jejich přístup k vlastnímu zdraví nijak trestat a diskriminovat. Jeho úlohou je tvořit legislativní prostředí, kde cenu pojištění určí svobodná soutěž mezi konkurujícími si pojišťovnami.
+V rámci nastupující digitalizace zdravotnictví nebudou moci pacienti čerpat základní zdravotní péči formou „švédského stolu“, jak tomu je doposud. Podobně jako u předepsaných léků v lékové kartě pacienta bude každé zdravotnické zařízení vidět, jakou zdravotní péči a kde byla čerpána. Budou stanovena jasná pravidla, aby nedocházelo k duplicitě odborných vyšetření, laboratoře, nebo pomocných vyšetření. Nic nebrání pacientovi, aby si další zbytnou zdravotní péči zaplatil na vlastní náklady nebo v rámci sjednaného připojištění. Zde mohou vstoupit do financování zdravotnictví i zaměstnavatelé, kteří budou moci přispívat na vyšší standard zdravotní péče a uplatňovat tyto náklady do odečitatelného daňového základu.
 
 ## XI. Sociální politika
 
